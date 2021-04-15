@@ -2,25 +2,14 @@
 _Notes for the Tomb of Annihilation Campaign_
 
 ### Characters
-##### Freya Cimrari
-###### Human Monk
-<img src="img/freya_portrait.jpeg" width="100" height="100">
+| Name                  | Race       | Class   | Portrait            |
+| --------------------- | ---------- | ------------- | ------------- |
+| Freya Cimrari         | Human      | Monk    | <img src="img/freya_portrait.jpeg" width="100" height="100"> |
+| Virra Wildwander      | Tabaxi     | Fighter | <img src="img/virra_portrait.jpeg" width="100" height="100"> |
+| Norixius Rezena (Rez) | Dragonborn | Paladin | <img src="img/rez_portrait.jpeg" width="100" height="100"> |
+| Pan Galanodel         | Wood Elf   | Druid   | <img src="img/pan_portrait.jpeg" width="100" height="100"> |
+| Skógur Strákar        | Wood Elf   | Monk    | <img src="img/skogur_portrait.jpg" width="100" height="100"> |
 
-##### Virra Wildwander
-###### Tabaxi Fighter
-![Virra Portrait](img/virra_portrait.jpeg)
-
-##### Norixius Rezena
-###### Dragonborn Paladin
-![Rezena Portrait](img/rez_portrait.jpeg)
-
-##### Pan Galanodel
-###### Wood Elf Druid
-![Skogur Portrait](img/pan_portrait.jpeg)
-
-##### Skógur Strákar
-###### Wood Elf Monk
-<img src="img/skogur_portrait.jpg" width="100" height="100">
 
 ---
 ## Session One
