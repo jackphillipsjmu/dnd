@@ -2,11 +2,25 @@
 _Notes for the Tomb of Annihilation Campaign_
 
 ### Characters
-- Freya
-- Virra
-- Rez
-- Pan
-- Skogur
+##### Freya Cimrari
+###### Human Monk
+<img src="img/freya_portrait.jpeg" width="100" height="100">
+
+##### Virra Wildwander
+###### Tabaxi Fighter
+![Virra Portrait](img/virra_portrait.jpeg)
+
+##### Norixius Rezena
+###### Dragonborn Paladin
+![Rezena Portrait](img/rez_portrait.jpeg)
+
+##### Pan Galanodel
+###### Wood Elf Druid
+![Skogur Portrait](img/pan_portrait.jpeg)
+
+##### Skógur Strákar
+###### Wood Elf Monk
+<img src="img/skogur_portrait.jpg" width="100" height="100">
 
 ---
 ## Session One
@@ -308,6 +322,4 @@ _Notes for the Tomb of Annihilation Campaign_
 - Go to the Thundering Lizard with Belym and Draza (very Coyote Ugly).
   - Greeted by 2 Tabaxi's who offer Virra a drink.
   - Able to get a Long Rest
-
-**Next Session will be next Sunday at 11:00 am!**
 ------------
