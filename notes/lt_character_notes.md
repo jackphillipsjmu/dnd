@@ -2,7 +2,7 @@
 
 | Name                  | Race       | Class   | Portrait            | Last Campaign | Status |
 | --------------------- | ---------- | ------------- | ------------- | --------------| -------|
-| Lítið (pronounced as _Lee-Tith_, translation _"Little"_) Corlinn | Human      | Fighter    | <img src="img/lt_portrait.jpeg" width="100" height="100"> | Lost Mines of Phandelver| Dead |
+| Lítið (pronounced _Lee-Tith_, translation _"Little"_) Corlinn | Human      | Fighter    | <img src="img/lt_portrait.jpeg" width="100" height="100"> | Lost Mines of Phandelver| Dead |
 
 ## Backstory
 ### Noble Background
