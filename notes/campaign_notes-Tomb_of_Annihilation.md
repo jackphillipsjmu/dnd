@@ -314,6 +314,6 @@ _Notes for the Tomb of Annihilation Campaign_
 - Go to the Thundering Lizard with Belym and Draza (very Coyote Ugly).
   - Greeted by 2 Tabaxi's who offer Virra a drink.
   - Able to get a Long Rest
-------------
 
+------------
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
