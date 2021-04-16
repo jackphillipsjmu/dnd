@@ -1,4 +1,4 @@
-###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Tomb of Annihilation Campaign Notes
 _Notes for the Tomb of Annihilation Campaign_
@@ -316,4 +316,4 @@ _Notes for the Tomb of Annihilation Campaign_
   - Able to get a Long Rest
 ------------
 
-###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
