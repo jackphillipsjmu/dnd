@@ -1,7 +1,7 @@
+###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+
 # Tomb of Annihilation Campaign Notes
 _Notes for the Tomb of Annihilation Campaign_
-
-###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 ### Characters
 
