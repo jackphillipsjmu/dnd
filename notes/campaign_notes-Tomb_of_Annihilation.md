@@ -1,4 +1,4 @@
-###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Tomb of Annihilation Campaign Notes
 _Notes for the Tomb of Annihilation Campaign_
@@ -76,6 +76,8 @@ _Notes for the Tomb of Annihilation Campaign_
 - Traps and a Spectre encountered
 - Best to have Lock Picking Skills
 
+[_Back to Top_](#top_of_page)
+
 ------------
 ## <a name="session_two"></a>Session Two
 - At The Cloakwood where we left off from the previous session. We're there because of Remy to get a spell book and learn more about the Death Curse from a lich
@@ -142,6 +144,8 @@ _Notes for the Tomb of Annihilation Campaign_
 - Skogur is down on the deck of the boat after getting clapped up by a thug.
 - Aremag, Water Turtle Dragon is asking for "Tribute" in Draconic so Rez can understand
   - Knocks a thug into the water when it emerges from the depths
+
+[_Back to Top_](#top_of_page)
 
 ------------
 ## <a name="session_three"></a>Session Three
@@ -272,7 +276,7 @@ _Notes for the Tomb of Annihilation Campaign_
   - See Coliseum and hear cheering coming from it. As we make our way around we hear murmurs about the Grand Suke (sp?), where curated goods are sold (spices, medicines, monkeys, unicorn easter bunnies) compared to the market which is more clothes and armor.
   - Notice the map Syndra gave Rez is missing and someone is sprinting away from us.
 
-**Next Session will be next Saturday at 1:30 pm!**
+[_Back to Top_](#top_of_page)
 
 ------------
 ## <a name="session_four"></a>Session Four
@@ -319,6 +323,8 @@ _Notes for the Tomb of Annihilation Campaign_
 - Go to the Thundering Lizard with Belym and Draza (very Coyote Ugly).
   - Greeted by 2 Tabaxi's who offer Virra a drink.
   - Able to get a Long Rest
+
+[_Back to Top_](#top_of_page)
 
 ------------
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
