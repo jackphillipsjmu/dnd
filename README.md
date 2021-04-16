@@ -1,7 +1,7 @@
 # D&D
 Notes, Facts and Lore Surrounding Dungeons and Dragons Campaigns
----
 
+---
 # Active Campaigns
 ### Tomb of Annihilation
 Find the Campaign Notes [Here](notes/campaign_notes-Tomb_of_Annihilation.md)!
