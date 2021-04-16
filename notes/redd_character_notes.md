@@ -1,4 +1,5 @@
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+---
 
 # Redd the Illuminator
 
