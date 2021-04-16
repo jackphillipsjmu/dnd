@@ -4,6 +4,7 @@ _Notes for the Tomb of Annihilation Campaign_
 ###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 ### Characters
+
 | Name                  | Race       | Class         | Portrait                |
 | --------------------- | ---------- | ------------- | ----------------------- |
 | Freya Cimrari         | Human      | Monk          | <img src="img/freya_portrait.jpeg" width="100" height="100"> |
