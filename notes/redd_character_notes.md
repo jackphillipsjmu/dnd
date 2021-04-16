@@ -11,4 +11,4 @@ Being the second born son, Redd lived a a life of servitude which led to him pur
 
 Redd is desperate to please his family and save all those that he holds dear in his heart. With no direction to go in he descends to Earth and trudges through the landscape for adventurer's that will be at his side to traverse the difficult path and save Celestia.
 
-###### [_Back to Main Page_](https://github.com/jackphillipsjmu/dnd)
+###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)

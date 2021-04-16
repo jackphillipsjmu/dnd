@@ -1,7 +1,10 @@
 # Tomb of Annihilation Campaign Notes
 _Notes for the Tomb of Annihilation Campaign_
 
+###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+
 ### Characters
+
 | Name                  | Race       | Class         | Portrait                |
 | --------------------- | ---------- | ------------- | ----------------------- |
 | Freya Cimrari         | Human      | Monk          | <img src="img/freya_portrait.jpeg" width="100" height="100"> |
@@ -313,4 +316,4 @@ _Notes for the Tomb of Annihilation Campaign_
   - Able to get a Long Rest
 ------------
 
-###### [_Back to Main Page_](https://github.com/jackphillipsjmu/dnd)
+###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
