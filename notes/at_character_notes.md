@@ -11,4 +11,4 @@
 - **Twilight Divine Domain**: The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night. Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.
 - Since LT died during the campaign AT had to come in and assist the party.
 
-###### [_Back to Main Page_](https://github.com/jackphillipsjmu/dnd)
+###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
