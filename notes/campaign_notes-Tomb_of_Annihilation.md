@@ -13,9 +13,14 @@ _Notes for the Tomb of Annihilation Campaign_
 | Pan Galanodel         | Wood Elf   | Druid         | <img src="img/pan_portrait.jpeg" width="100" height="100"> |
 | Skógur Strákar (_translation Forest Lad_)          | Wood Elf   | Monk    | <img src="img/skogur_portrait.jpg" width="100" height="100"> |
 
+## Session Notes
+- [Session One](#session_one)
+- [Session Two](#session_two)
+- [Session Three](#session_three)
+- [Session Four](#session_four)
 
 ---
-## Session One
+## <a name="session_one"></a>Session One
 
 ### Baldurs Gate
 - Attend funeral of Hamwert
@@ -72,7 +77,7 @@ _Notes for the Tomb of Annihilation Campaign_
 - Best to have Lock Picking Skills
 
 ------------
-## Session Two
+## <a name="session_two"></a>Session Two
 - At The Cloakwood where we left off from the previous session. We're there because of Remy to get a spell book and learn more about the Death Curse from a lich
 - Fighting the lich, we stole the spell book that is bound in human skin
 - Cracking sounds and a women appears, half beautiful, half corpse but still alive after the fight who is the lich (bloodied)
@@ -139,7 +144,7 @@ _Notes for the Tomb of Annihilation Campaign_
   - Knocks a thug into the water when it emerges from the depths
 
 ------------
-## Session Three
+## <a name="session_three"></a>Session Three
 
 ### Changes
 - Maximize the dice value for potions
@@ -270,7 +275,7 @@ _Notes for the Tomb of Annihilation Campaign_
 **Next Session will be next Saturday at 1:30 pm!**
 
 ------------
-## Session Four
+## <a name="session_four"></a>Session Four
 
 ### The Chase is On
 - Water spills as Freya is dashing towards the the thief but dodges it

@@ -1,5 +1,5 @@
 # D&D
-Notes, Facts and Lore Surrounding Dungeons and Dragons Campaigns
+This page contains Notes, Facts and Lore Surrounding Dungeons and Dragons Campaigns. May the D20's be ever in your favor.
 
 ---
 # Active Campaigns
