@@ -316,4 +316,4 @@ _Notes for the Tomb of Annihilation Campaign_
   - Able to get a Long Rest
 ------------
 
-###### [_Back to Main Page_](https://github.com/jackphillipsjmu/dnd)
+###### [_Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
