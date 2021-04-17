@@ -7,11 +7,11 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 
 | Name                  | Race       | Class         | Portrait                | Status |
 | --------------------- | ---------- | ------------- | ----------------------- | ------ |
-| Freya Cimrari         | [Human](https://forgottenrealms.fandom.com/wiki/Human) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/freya_portrait.jpeg" width="100" height="100"> |  Alive |
-| Virra Wildwander      | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive |
-| Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin)       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive |
-| Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive |
-| [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive |
+| Freya Cimrari         | [Human](https://forgottenrealms.fandom.com/wiki/Human) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/freya_portrait.jpeg" width="100" height="100"> | Alive &#128512; |
+| Virra Wildwander      | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive &#128570; |
+| Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin)       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
+| Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
+| [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
 
 ## Session Notes
 - [Session One](#session_one)
