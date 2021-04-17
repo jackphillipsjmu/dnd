@@ -33,7 +33,9 @@ Born in [Evermeet](https://forgottenrealms.fandom.com/wiki/Evermeet), the Green 
   - **How did Skógur Meet Hamwert the NPC?**: Met while Hamwert was traveling where he visited the temple where Skógur was training. They shared many Monk brewed ales and would talk until dawn about Hamwert's adventures.
   - **In what ways do you remain in contact with this Hamwert?**: Skógur and Rassinn grew close with Hamwert and stayed in contact through letters and would always welcome him with open arms into the monastery when he was traveling.
 
-<img src="img/rassin_portrait.png" width="100" height="100">
+<p align="center">
+  <img src="img/rassin_portrait.png" width="100" height="100">
+</p>
 
 ### Death Follows, Skógur and Rassinn's First Trip to Chult
 - After hearing word from former Harper comrades that there is unrest between a few tribal families in Chult Rassinn views this as a worthy challenge to better himself and teach Skógur through an example on the journey.
