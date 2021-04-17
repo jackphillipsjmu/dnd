@@ -5,13 +5,13 @@ _Notes for the Tomb of Annihilation Campaign_
 
 ### Characters
 
-| Name                  | Race       | Class         | Portrait                |
-| --------------------- | ---------- | ------------- | ----------------------- |
-| Freya Cimrari         | Human      | Monk          | <img src="img/freya_portrait.jpeg" width="100" height="100"> |
-| Virra Wildwander      | Tabaxi     | Fighter       | <img src="img/virra_portrait.jpeg" width="100" height="100"> |
-| Norixius Rezena (Rez) | Dragonborn | Paladin       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |
-| Pan Galanodel         | Wood Elf   | Druid         | <img src="img/pan_portrait.jpeg" width="100" height="100"> |
-| Skógur Strákar (_translation Forest Lad_)          | Wood Elf   | Monk    | <img src="img/skogur_portrait.jpg" width="100" height="100"> |
+| Name                  | Race       | Class         | Portrait                | Status |
+| --------------------- | ---------- | ------------- | ----------------------- | ------ |
+| Freya Cimrari         | Human      | Monk          | <img src="img/freya_portrait.jpeg" width="100" height="100"> |  Alive |
+| Virra Wildwander      | Tabaxi     | Fighter       | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive |
+| Norixius Rezena (Rez) | Dragonborn | Paladin       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive |
+| Pan Galanodel         | Wood Elf   | Druid         | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive |
+| [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_)          | Wood Elf   | Monk    | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive |
 
 ## Session Notes
 - [Session One](#session_one)
@@ -21,6 +21,13 @@ _Notes for the Tomb of Annihilation Campaign_
 
 ---
 ## <a name="session_one"></a>Session One
+
+### Level Setting the Campaign
+- Start the campaign at Hamwert's funeral so be prepared to speak.
+- Inspiration: Lets you roll any D20 and then it's gone but can be given out for good role playing (get into character!).
+- Advantage: Will be checking abilities for different behaviors (leap off a tree to attack, give an acrobatics check)
+- No Phones during
+- Ranked Pillars for what we want: Role Playing, Combat, Exploring.
 
 ### Baldurs Gate
 - Attend funeral of Hamwert
@@ -113,7 +120,7 @@ _Notes for the Tomb of Annihilation Campaign_
   - Satyrs are raucous fey that resemble stout male humans with the furry lower bodies and cloven hooves of goats. They frolic in wild forests, driven by curiosity and hedonism in equal measure.
   - Pan/Olivia is now a member of the Circle of Dreams: Druids hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
 - Pan has a familiar Artemis (fay owl) dark blue who can help us scout the location
-- Bought short bow, Long bow and 200 arrows at a discount and split among Skogur and Freya
+- Bought short bow, Long bow and 200 arrows at a discount and split among Skógur and Freya
 - Stop into inn (Hydra and Hair/Heir/Hare?)
 - Learn of a few people from the inn ZooKeeper
   - Cleric in red robes came through Hydra inn and spoke of a God in Chult Ubtao (maze god) if you make it through/trace a path in a maze you'll earn the Gods favor
@@ -129,7 +136,7 @@ _Notes for the Tomb of Annihilation Campaign_
   - Mezro
   - Talk of exotic creatures/foes like a Panther with snakes growing out of his shoulders. Flying dinosaur creatures that ripped apart their companion
   - Who ever is on the next expedition to the hidden city should go with caution
-  - Both Rez and Pan stick up for Skogur as he is aloof and scrubbing his nasty feet
+  - Both Rez and Pan stick up for Skógur as he is aloof and scrubbing his nasty feet
 - Virra gets studded armor even after the shop keeper insults her smell
 - Rez bought a battle axe
 - Pan gets a trinket from the shop keeper because it's pretty
@@ -141,7 +148,7 @@ _Notes for the Tomb of Annihilation Campaign_
 - Thugs board the ship and want to steal our booty
 - Bigger ship is approaching during combat
 - Freya after attacking some of the thugs dashes to get the other below deck to help
-- Skogur is down on the deck of the boat after getting clapped up by a thug.
+- Skógur is down on the deck of the boat after getting clapped up by a thug.
 - Aremag, Water Turtle Dragon is asking for "Tribute" in Draconic so Rez can understand
   - Knocks a thug into the water when it emerges from the depths
 
@@ -157,7 +164,7 @@ _Notes for the Tomb of Annihilation Campaign_
 ### We're on a Boat
 - Aremag joins combat after rocking the ship back and forth causing a thug to fall overboard.
 - Pan heals two folks in one turn like a boss.
-  - Gives life to Skogur with the stickiest of the icky (+9 HP, pretty strong THC %).
+  - Gives life to Skógur with the stickiest of the icky (+9 HP, pretty strong THC %).
   - Heals Rez with +6 HP as the herb supply was running low from darting across the ship with a lit spliff.
 - Boat starts to spin by Aremag swimming around the ship which makes the Thugs begin to run away.
 - Rez tells a Thug to throw themselves over using "Command" which succeeds and they are eaten by Sharks (unknown if lasers equipped to the tops of their heads).
@@ -282,10 +289,10 @@ _Notes for the Tomb of Annihilation Campaign_
 ## <a name="session_four"></a>Session Four
 
 ### The Chase is On
-- Water spills as Freya is dashing towards the the thief but dodges it
-- Rez encounters a swarm of bugs and can either go around or charge through them. She chooses to go around the bugs.
-- Cart moves in front of Pan full of gardening tools and Pan attempts to jump over it which is good!
-- Skogur slashes the running away thief and watches as they run into a swarm of bugs worrying about getting away.
+- Water spills as Freya is dashing towards the the thief but dodges it gracefully.
+- Rez encounters a swarm of bugs and can either go around or charge through them. She chooses to go around the bugs and not risk it.
+- Cart moves in front of Pan full of gardening tools which she leaps over gracefully.
+- After using his 90 feet of dash speed Skógur slashes the running away thief and watches as they run into a swarm of bugs.
 - Merchant drops a bunch of coins but Virra ignores this and continues the chase.
 - Pan can't intimidate the crowd and causes her movement to be limited.
 - Spy/thief goes down alley way after disengaging after passing a beast with a little tap on the head.
@@ -296,13 +303,13 @@ _Notes for the Tomb of Annihilation Campaign_
   - Evaporates and only their cloak is left and a snake is slithering away.
   - Arrow flies in and pierces the enemy in the head and reverts to its "human" shape.
   - Arrow came from somewhere in Malar's Throat.
-  - "Ras Nsi" ("Ras-me-see") is spoken by the Spy as they die.  - Scales along their back like a snake.
+  - "Ras Nsi" ("Ras-me-see") is spoken by the Spy as they die. Scales along their back like a snake.
   - Likely a Yuan-ti which are serpent folk. Many different kinds but this one seems to be a pureblood. Their people have a hierarchy, the closer you are to being a snake then the higher you are in the ranks.
    - Dendar, Merrshaulk, and Sseth are the 3 Gods they serve.
 
 ### Retail Therapy
 - Head to Red Bazar to go shopping
-- Purchase 2 Rain Catchers (Undril purchases 1 Rain Catcher and Salve) -
+- Purchase 2 Rain Catchers (Undril purchases 1 Rain Catcher and Salve)
   - Simple contraption consisting of a 5-foot-square leather tarp and a wooden frame with legs. When the tarp is stretched across the wooden frame, it forms a basin that can catch 2 gallons of drinking water per inch of rainfall and hold up to 8 gallons. The tarp and wooden frame fold up for easy transport. Only works when raining!
 - Looking for Bug Repellent
   - Salve (1 Gold, 20 applications) to apply to yourself or a block of incense (1 Silver, lasts 8 hours, but does not protect against large bugs)
@@ -311,7 +318,7 @@ _Notes for the Tomb of Annihilation Campaign_
   - First booth is a bit too pricy for us so we pass this up.
   - Purchase nice looking fabrics to become gorgeous.
   - Rez trades her chain mail for studded leather armor and 25 GP - looks fantastic.
-- Skogur purchases some sweet sandals for 2 GP to cover up his nasty feetscicles.
+- Skógur purchases some sweet sandals for 2 GP to cover up his nasty feetscicles.
 
 ### Executioners Run - The Runnining
 - Belym tells the crew that their Husband (Draza) wasn't guilty of stealing but was wrongly accused and put into Executioners Run against Velociraptors (Deinonychus) Jurassic Park style.
