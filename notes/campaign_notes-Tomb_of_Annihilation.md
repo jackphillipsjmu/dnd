@@ -23,6 +23,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 ## <a name="session_one"></a>Session One
 
 ### Level Setting the Campaign
+- **This campaign is famous for killing characters!**
 - Start the campaign at Hamwert's funeral so be prepared to speak.
 - Inspiration: Lets you roll any D20 and then it's gone but can be given out for good role playing (get into character!).
 - Advantage: Will be checking abilities for different behaviors (leap off a tree to attack, give an acrobatics check)
