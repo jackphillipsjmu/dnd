@@ -1,17 +1,17 @@
 ###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
-# Tomb of Annihilation Campaign Notes
-_Notes for the Tomb of Annihilation Campaign_
+# Tomb of Annihilation Campaign
+_Compiled Notes for the Tomb of Annihilation Campaign_
 
 ### Characters
 
 | Name                  | Race       | Class         | Portrait                | Status |
 | --------------------- | ---------- | ------------- | ----------------------- | ------ |
-| Freya Cimrari         | Human      | Monk          | <img src="img/freya_portrait.jpeg" width="100" height="100"> |  Alive |
-| Virra Wildwander      | Tabaxi     | Fighter       | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive |
-| Norixius Rezena (Rez) | Dragonborn | Paladin       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive |
-| Pan Galanodel         | Wood Elf   | Druid         | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive |
-| [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_)          | Wood Elf   | Monk    | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive |
+| Freya Cimrari         | [Human](https://forgottenrealms.fandom.com/wiki/Human) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/freya_portrait.jpeg" width="100" height="100"> |  Alive |
+| Virra Wildwander      | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive |
+| Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin)       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive |
+| Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive |
+| [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive |
 
 ## Session Notes
 - [Session One](#session_one)
@@ -28,6 +28,8 @@ _Notes for the Tomb of Annihilation Campaign_
 - Advantage: Will be checking abilities for different behaviors (leap off a tree to attack, give an acrobatics check)
 - No Phones during
 - Ranked Pillars for what we want: Role Playing, Combat, Exploring.
+- [Reference Cheat Sheet (Movement, Action, Condition, etc.)](https://crobi.github.io/dnd5e-quickref/preview/quickref.html)
+- Games are hosted on the DM's [Foundry Virtual Tabletop (VTT)](https://foundryvtt.com/).
 
 ### Baldurs Gate
 - Attend funeral of Hamwert
@@ -35,8 +37,8 @@ _Notes for the Tomb of Annihilation Campaign_
 - Can never be raised again from the dead
 - Seems to be impacting the entire world so a lot of people are concerned
 - Everyone is at a loss of what is going on and what to do
-- Couldn't figure out a way to slow Hamwert's degredation
-- Similar to the magic of lichs
+- Couldn't figure out a way to slow Hamwert's degradation
+- Similar to the magic of [lich's](https://www.dndbeyond.com/monsters/lich)
   - Corpsewood to the south may have an understanding of the death curse
 - Remallia Haventree
   - Member of the Harpers
@@ -47,18 +49,20 @@ _Notes for the Tomb of Annihilation Campaign_
   - Alliance of spell casters/spies
   - Help the weak, poor and oppressed
   - Only confront enemies as a last resort which in the case of the death curse is something they want to take action on
-- Will be protections around the lich
+- Will be protections around the [lich](https://www.dndbeyond.com/monsters/lich)
   - Plan is to distract the more dangerous foes
   - Get the stuff quick to spare Harper lives
   - Healing potions for all!
 - Go to the Horned Antelope for drinks
-  - Winna
+  - Winna (no idea what this is about)
   - Realize that it's a pretty diverse city based on the crowd at the bar
-- Callabrax Copperkettle - halfling wizard from Harpers
+- **Zaldara Cordress**: [Lich](https://www.dndbeyond.com/monsters/lich) from the Corpsewood
+- **Callabrax Copperkettle**: Halfling wizard from Harpers
   - Can move supplies easily with his powers
   - Diviner is the ship we're using to set off from Baldurs Gate
-- Syndra Silvane - older woman suffering from death curse; wears silver mask when in public
-- Jagged Leaf - Tabaxi we met in the bar
+- **Remallia Haventree**: Sun elf, one of the Harper's leaders.
+- **Syndra Silvane**: Older woman suffering from death curse; wears silver mask when in public
+- **Jagged Leaf**: Tabaxi we met in the bar (_Drinks on Jagged Leaf next time!_)
 - Aid is cast on us that grants us 5 additional health
 
 #### Quest for the Phylactery
@@ -78,24 +82,41 @@ _Notes for the Tomb of Annihilation Campaign_
 - Can't tell what the creature is in the cavern
 - Kraken splitting a ship in half on the door  
 
+#### Notes from Pan Galanodel
+- Entered bottom level of tower, fought skeletons
+- Explored and fought a blue cube (Pan collected a sample)
+- Green mushrooms give back hp! Mushrooms good!
+- Found two blocked/locked doors: one w a skeleton and another with an arcana symbol above it and a Kraken. When we tried to bust through the door a necrotic tentacle would come out
+- Broke down the kraken door and went inside - explored and took down 3 ghouls, Virra poisoned herself by eating one of the human legs a ghoul was eating
+- Kept going through the tower and met a dragon that used to be the pet of Zaldara. Led us to where the Phylactery (spell book) was kept
+- Fought against spooky dude in Phylactery room and disabled the traps
+- Got 3 new spells and gold inside of the Phylactery chest
+- Headed back out to meet Callabrax
+- Ran into armored dude and solved his riddle in order to escape!
+
 ### End Notes
 - Trying to steal the Phylactery which pushed us to level 2
 - Traps and a Spectre encountered
 - Best to have Lock Picking Skills
+- **Upgrade to Level 2!**
 
 [_Back to Top_](#top_of_page)
 
 ------------
 ## <a name="session_two"></a>Session Two
-- At The Cloakwood where we left off from the previous session. We're there because of Remy to get a spell book and learn more about the Death Curse from a lich
+
+### Learn from the Lich
+- At The Cloakwood where we left off from the previous session. We're there because of Remy to get a spell book and learn more about the Death Curse from a [lich](https://www.dndbeyond.com/monsters/lich)
 - Fighting the lich, we stole the spell book that is bound in human skin
-- Cracking sounds and a women appears, half beautiful, half corpse but still alive after the fight who is the lich (bloodied)
+- Cracking sounds and a women appears, half beautiful, half corpse but still alive after the fight who is the lich (bloodied condition)
 - Book to be used as a bargaining chip to learn about the death curse from the lich
-- Death Curse: Necromantic device called the soul mongerer, purpose is unclear, amount of dark energy gathered by it would power an undead being that this Earth has never seen
+- **Death Curse**: Necromantic device called the soul mongerer, purpose is unclear, amount of dark energy gathered by it would power an undead being that this Earth has never seen
   - Location is in the South West of Chult
   - Lich corpse lady can't die so doesn't really care about the Death Curse
   - Death Curse seems recent, lich has never came across something like it before
   - Sudo dragon poofs onto her shoulder and they leave after we give her back the Phylactery book (potential familiar)
+
+### Mind Your Manor
 - Syndra Silvane teleports us to a lavish manor
   - Syndra has a silver mask to hide her decaying face from the Death Curse
   - Spill wine, but she makes the stain goes away magically, other servants in the house clean up after us as well
@@ -115,11 +136,15 @@ _Notes for the Tomb of Annihilation Campaign_
   - May meet us at Port Manzara
   - Pirates around Chult
   - All princess live in the northern part of town, markets and taverns are in the south.
-  - Leave mansion (nice part of town)
-- Satyrs, race of Fey
+  - Leave mansion (located in a nice part of town)
+
+#### Pan Satyr Background
+- Asks Skógur if he knows what Satyrs are (race of Fey)
   - Satyrs are raucous fey that resemble stout male humans with the furry lower bodies and cloven hooves of goats. They frolic in wild forests, driven by curiosity and hedonism in equal measure.
-  - Pan/Olivia is now a member of the Circle of Dreams: Druids hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
+  - Pan is now a member of the Circle of Dreams: Druids hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
 - Pan has a familiar Artemis (fay owl) dark blue who can help us scout the location
+
+### To the Inn
 - Bought short bow, Long bow and 200 arrows at a discount and split among Skógur and Freya
 - Stop into inn (Hydra and Hair/Heir/Hare?)
 - Learn of a few people from the inn ZooKeeper
@@ -128,28 +153,35 @@ _Notes for the Tomb of Annihilation Campaign_
 - Dwarf (help at the inn) Bartholomew insults Pan's name cause he's a darsh
 - Have some food and drinks after figuring out they don't really prepare dragons
 - Purchase lodging for the night, grants us access to the bath house
+
+#### Hit the Showers
 - Go to bath house in the inn
-  - Cannon ball splashes water onto 2 other bath patrons, Arnwund and Gauwis, who scowl at me
-  - Olivia (Pan) turns into a pink spider to listen to them
+  - Skógur cannon ball splashes water onto 2 other bath patrons, Arnwund and Gauwis, who scowl at me
+  - Pan turns into a pink spider to listen to them
   - They're talking about the Flaming Fist, the mercenary company they work for. Liara (head lez) heads up Flaming Fist in Chult
   - Fort Beluarian
   - Mezro
   - Talk of exotic creatures/foes like a Panther with snakes growing out of his shoulders. Flying dinosaur creatures that ripped apart their companion
   - Who ever is on the next expedition to the hidden city should go with caution
   - Both Rez and Pan stick up for Skógur as he is aloof and scrubbing his nasty feet
+
+### Retail Therapy (Round 1)
 - Virra gets studded armor even after the shop keeper insults her smell
 - Rez bought a battle axe
 - Pan gets a trinket from the shop keeper because it's pretty
 - Picked up 5 viles for Rez at the shop
-- Got Green Goo from enhancing the Green Mushrooms we found in the first session. Grants 1d4 + 1 health each
-- Purple berries (1 hit point) we each get 2 but they expired on our journey so use them before they spoil
+- Got Green Goo from enhancing the Green Mushrooms we found in the first session. Grants `1d4 + 1` health each
+
+### Ahoy Matey
+- Get onto Captain Zeed's ship after we all take a rest.
+- Pan can make purple berries (`1 hit point`) which she does. Each of us gets 2 but they expire on our journey so use them before they spoil
 - Got on boat and about a week in some fish people board the deck and try to attack us. Handled nicely and fled after the initial encounter even after Pan was knocked overboard and was trying to gain the favor of sharks that are aligned with the fish folk
 - Just about reaching the coast the crew of the ship goes below deck to get the offering together for the water dragon. Rez is a dragon so maybe we can bargain later on or something along those lines
 - Thugs board the ship and want to steal our booty
 - Bigger ship is approaching during combat
 - Freya after attacking some of the thugs dashes to get the other below deck to help
 - Skógur is down on the deck of the boat after getting clapped up by a thug.
-- Aremag, Water Turtle Dragon is asking for "Tribute" in Draconic so Rez can understand
+- [Aremag](https://nat19.fandom.com/wiki/Aremag), Water Turtle Dragon is asking for "Tribute" in Draconic so Rez can understand
   - Knocks a thug into the water when it emerges from the depths
 
 [_Back to Top_](#top_of_page)
@@ -189,40 +221,39 @@ _Notes for the Tomb of Annihilation Campaign_
     - Pirate Captains have an alliance and some magic capabilities to assist them
   - Begins to talk of the Fresh Merchant Princes of Bel-Chult and not to make trouble in their neighborhood.
     - There is a black market but if we're caught the consequences could be dire. Typically, you'll be thrown into Executioners Run which is a gauntlet viewed as a kind of sport. You have to make it from one end to the other fighting off beasts or it's yo, holmes smell you later.
-    - 7 Merchant Princes, each with a different trade good who live in the north of the city in the Merchants Ward. If we want an audience with them we can head to the Golden Throne (number 1's only).
-      - Ekene-Afa: Weapons, Shields, modes of Transportation like canoes and such.
-      - Ifan Talro’a: Beasts for purchase.
-      - Jessamine: Sanctioned murders and assassinations. Don't see them often because if you survive an assassination you can pay a higher price to assassinate the other party. Knows of poisons/other ways to take care of people.
-      - Jobal: Don't cross Jobal, the wilderness guide, he seems to be a dick. But he can provide guides when going through the wilderness of Chult.
-      - Kwayothé: Wine, ale, rain catchers (reduce risk of drinking infected water), bug spray's, etc. that can help throughout the journey. Help fight off throat leaches and other nasty things. Tej is the honey brew of choice in Chult.
-      - Wakanga O’tamu: Magic and lore, potions, always interested in discovering about the magical aspects of Chult.
-      - Zhanthi: Friend of Zyndar who deals in Gems, jewelry, clothes and armor.
+    - **7 Merchant Princes**, each with a different trade good who live in the north of the city in the Merchants Ward. If we want an audience with them we can head to the Golden Throne (number 1's only).
+      1. **Ekene-Afa**: Weapons, Shields, modes of Transportation like canoes and such.
+      2. **Ifan Talro’a**: Beasts for purchase.
+      3. **Jessamine:** Sanctioned murders and assassinations. Don't see them often because if you survive an assassination you can pay a higher price to assassinate the other party. Knows of poisons/other ways to take care of people.
+      4. **Jobal**: Don't cross Jobal, the wilderness guide, he seems to be a dick. But he can provide guides when going through the wilderness of Chult.
+      5. **Kwayothé**: Wine, ale, rain catchers (reduce risk of drinking infected water), bug spray's, etc. that can help throughout the journey. Help fight off throat leaches and other nasty things. Tej is the honey brew of choice in Chult.
+      6. **Wakanga O’tamu**: Magic and lore, potions, always interested in discovering about the magical aspects of Chult.
+      7. **Zhanthi**: Friend of Zyndar who deals in Gems, jewelry, clothes and armor.
         - Tells armored members in party to perhaps lighten their armor to reduce the risk of dehydration.
   - Tell Zyndar that we're here to stop the Death Curse.
-  - Zyndar gives information about Chult's history
-    - Previously a noble settlement based on Gold, overthrown by Foreign Power which was then taken over by the Merchant Princes. Now, the have monopoly's across Chult
-  - Water seems to be pretty important, whether it's safe to drink, dehydration, etc. no Gatorade just H20.
-  - Gives us some flyers/handouts on guides (available in the journal tab in VTT) to help assist us on the journey. They are all employed by Jobal except for River Mist and Flask of Wine.
-    - Azaka Stormfang: 5 gold pieces per day, upfront 30 day payment. Can get around payment by helping her with a personal task. Fighter that is good in battle and one of Jobal's most popular guides.
-    - Eku: 5 gold pieces per day, upfront 30 day payment. Wants to do good in the world and rid the jungle of evil. Pays a portion to Jobal and the rest she donates to the church.
-    - Faroul and Gondolo: Just nah, I mean, look at them.
-    - Hew Hackinstone: Tough dwarf, seent all parts of Chult and had his arm bitten off by a dragon
-    - Qawasha and Kupalué: Gawasha, druid member of the Emerald Enclave. Vegepymy companion with experience in local flora and fauna. 5 gold pieces per day but this can be negotiated if we help destroy any undead we encounter. Blessing of chwingwa spirits that watch over the sacred land.
-    - River Mist and Flask of Wine: May put us on the wrong side of Jabol if we go with them
-    - Salida: Talks mad smack about everyone, potential Dwarf racist
-    - Shago: Member of the Flaming Fist, seems pretty sketchy
-  - Top 2 Guides: Eku, Qawasha and Kupalué
+  - Zyndar gives information about Chult's history: Previously a noble settlement based on Gold, overthrown by Foreign Power which was then taken over by the Merchant Princes. Now, they have monopoly's across Chult.
+  - **Water seems to be pretty important**, whether it's safe to drink, dehydration, etc. no Gatorade just H20.
+  - Gives us some flyers/handouts on guides (_available in the journal tab in VTT_) to help assist us on the journey. They are all employed by Jobal except for River Mist and Flask of Wine.
+    - **Azaka Stormfang**: 5 gold pieces per day, upfront 30 day payment. Can get around payment by helping her with a personal task. Fighter that is good in battle and one of Jobal's most popular guides.
+    - **Eku**: 5 gold pieces per day, upfront 30 day payment. Wants to do good in the world and rid the jungle of evil. Pays a portion to Jobal and the rest she donates to the church.
+    - **Faroul and Gondolo**: Just nah, I mean, look at them.
+    - **Hew Hackinstone**: Tough dwarf, seent all parts of Chult and had his arm bitten off by a dragon
+    - **Qawasha and Kupalué**: Gawasha, druid member of the Emerald Enclave. Vegepymy companion with experience in local flora and fauna. 5 gold pieces per day but this can be negotiated if we help destroy any undead we encounter. Blessing of chwingwa spirits that watch over the sacred land.
+    - **River Mist and Flask of Wine**: May put us on the wrong side of Jabol if we go with them
+    - **Salida**: Talks mad smack about everyone, potential Dwarf racist
+    - **Shago**: Member of the Flaming Fist, seems pretty sketchy
+  - **Top 2 Guides**: Eku, Qawasha and Kupalué
     - Eku typically at House of Repose
     - Qawasha and Kupalué Fort Beluarian known to live on the outskirts with his companion. Don't believe they are a part of the Flaming Fist
-  - Need to get charter from Flaming Fist to avoid catching a Flaming Fist during our travels.
+  - **Need to get charter from Flaming Fist to avoid catching a Flaming Fist during our travels.**
 
 ### Exploring the Port
 - Head to market for supplies and other things. Portraits of dinosaurs and other Chult' people are all around the city highlighting it's history. Town people are v Arabian Nights in terms of dress so it's like Gladiator met Indiana Jones.
 - City well equipped to deal with rain. Every building has drains to fill buckets, fountains and wheels to make use of the rainfall, deluges, etc.
 - Pack of lizards with riders come through the city streets but people aren't too concerned initially.
-  - One lizard, Deinonychus, bucks their rider Makao off and combat begins. Makao, the rider, is still alive and is about to be attacked by the lizard.
+  - One lizard, Deinonychus, bucks their rider Makao off and combat begins. Makao, the rider, is still alive and is about to be attacked by the lizard. Finna become the [F'n Lizard King](https://www.youtube.com/watch?v=SzgG94Tz2Ak).
   - The party tries to reason/animal handle the lizard but it's not having none of it. Luckily, the lizard gets totally netted by Virra.
-  - NOTE: If a creature takes an opportunity attack during their turn for another member of the party then  they cannot do so afterwards
+  - **NOTE**: If a creature takes an opportunity attack during their turn for another member of the party then  they cannot do so afterwards
   - Lizard breaks free of the net and starts to run away but we stop it and get it bloodied so the lizard lays on the cobblestone.
   - Guards come over and say to get away but Makao says it will be fine and he'll return the lizard to the training pit. Notices that a jewel is missing from the lizard (maybe helps to control them?) but seems to be fine now so they let us go.
   - Makao says he started training a month ago and thought the beast was ready but clearly was not.
@@ -302,12 +333,13 @@ _Notes for the Tomb of Annihilation Campaign_
   - Does not work for the Flaming Fist and doesn't seem to know about the Death Curse.
   - Evaporates and only their cloak is left and a snake is slithering away.
   - Arrow flies in and pierces the enemy in the head and reverts to its "human" shape.
-  - Arrow came from somewhere in Malar's Throat.
+  - Arrow came from somewhere in Malar's Throat but do not know where exactly.
   - "Ras Nsi" ("Ras-me-see") is spoken by the Spy as they die. Scales along their back like a snake.
-  - Likely a Yuan-ti which are serpent folk. Many different kinds but this one seems to be a pureblood. Their people have a hierarchy, the closer you are to being a snake then the higher you are in the ranks.
-   - Dendar, Merrshaulk, and Sseth are the 3 Gods they serve.
+  - Likely a [**Yuan-ti**](https://forgottenrealms.fandom.com/wiki/Yuan-ti) which are serpent folk. Many different kinds but this one seems to be a pureblood. Their people have a hierarchy, the closer you are to being a snake then the higher you are in the ranks.
+   - **The Yuan-Ti Pantheon**: [Dendar](https://forgottenrealms.fandom.com/wiki/Dendar), [Merrshaulk](https://forgottenrealms.fandom.com/wiki/Merrshaulk), and [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) are the 3 Gods they serve.
+- Check that no one really cares about a dead body, throw his robe over him and back away from the dead body. There's only one way to get over killing a Snake Person.
 
-### Retail Therapy
+### Retail Therapy (Round 2)
 - Head to Red Bazar to go shopping
 - Purchase 2 Rain Catchers (Undril purchases 1 Rain Catcher and Salve)
   - Simple contraption consisting of a 5-foot-square leather tarp and a wooden frame with legs. When the tarp is stretched across the wooden frame, it forms a basin that can catch 2 gallons of drinking water per inch of rainfall and hold up to 8 gallons. The tarp and wooden frame fold up for easy transport. Only works when raining!
@@ -321,7 +353,7 @@ _Notes for the Tomb of Annihilation Campaign_
 - Skógur purchases some sweet sandals for 2 GP to cover up his nasty feetscicles.
 
 ### Executioners Run - The Runnining
-- Belym tells the crew that their Husband (Draza) wasn't guilty of stealing but was wrongly accused and put into Executioners Run against Velociraptors (Deinonychus) Jurassic Park style.
+- Belym tells the crew that their Husband (Draza) wasn't guilty of stealing but was wrongly accused and put into Executioners Run against Velociraptors or as they are called in game, [Deinonychus](https://forgottenrealms.fandom.com/wiki/Deinonychus) Jurassic Park style.
   - Only have 25 SP to offer like a peasant so we don't accept the payment to save him.
 - 2 Deinonychus in the pit with 3 people attempting to making it across.
 - Get Draza out of the pit by using Pan's whip-it-good skills.
