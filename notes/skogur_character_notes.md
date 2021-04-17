@@ -1,4 +1,4 @@
-###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Skógur Strákar
 
@@ -23,6 +23,8 @@ Born in [Evermeet](https://forgottenrealms.fandom.com/wiki/Evermeet), the Green 
 - [Arilyn Moonblade](https://forgottenrealms.fandom.com/wiki/Arilyn_Moonblade) after hearing of their death took pity on their child and took him into her possession. In the nights to come, she would calm the child's pain with strong mead and rolling her Silver ring bearing the symbol of [Mielikki](https://forgottenrealms.fandom.com/wiki/Mielikki) across her battle-worn fingers. However, it dawned on Arilyn that her obligation to the Harper's was not fit for a child and would need to find a proper home for him. After searching for someone to take the responsibility she passed him along to a sect of Monks that she had met on the outskirts of the forest at a monastery that was engulfed in foliage and well suited for the young Wood Elf.
 - Skógur was taken under the wing of [Rassinn](https://www.indifferentlanguages.com/translate/icelandic-english/rassinn), a more senior member of the monastery where he quickly became a Father figure to Skógur.
 
+[_Back to Top_](#top_of_page)
+
 ### Rassinn Skógur's Father Figure (NPC)
 - Rassinn is jovial while being bound to mother nature and what she produces. He is a Male Half-Elf and is the longest-living person at the monastery at age 102.
 - Rassinn was a former member of the [Harpers](https://forgottenrealms.fandom.com/wiki/Harpers) in his youth before settling down to live his life at the monastery. The fact that Arilyn Moonblade was a Harper herself made his bond with the child even stronger and also re-opened the door of communication between Rassinn and the [Harpers](https://forgottenrealms.fandom.com/wiki/Harpers).
@@ -36,6 +38,8 @@ Born in [Evermeet](https://forgottenrealms.fandom.com/wiki/Evermeet), the Green 
 <p align="center">
   <img src="img/rassin_portrait.png" width="100" height="100">
 </p>
+
+[_Back to Top_](#top_of_page)
 
 ### Death Follows, Skógur and Rassinn's First Trip to Chult
 - After hearing word from former Harper comrades that there is unrest between a few tribal families in Chult Rassinn views this as a worthy challenge to better himself and teach Skógur through an example on the journey.
@@ -53,8 +57,12 @@ Born in [Evermeet](https://forgottenrealms.fandom.com/wiki/Evermeet), the Green 
 - Once back at the monastery, desperate for guidance, Skógur writes to Hamwert telling him of Rassinn's death and how lost he is without him. While awaiting a reply, Skógur drowns his sorrows in casks of ale and mead while reading through scrolls to try to find a way to save Rassiinn.
 - Either at this point no response comes from Hamwert, causing Skógur to venture out to find him, or, another letter arrives detailing how there may be a way to save Rassninn's life through a Resurrection spell and he should leave to meet and go over details.
 
+[_Back to Top_](#top_of_page)
+
 ## Wood Elf Race
 Wood elves were easily identifiable by their coppery skin and green, brown, or hazel eyes. Wood elven hair was usually black or brown, although hues such as blond or copper red were also found. Wood elves tended to dress in simple clothes, similar to those of the moon elves but with fewer bold colors and a greater number of earth tones that blended into their natural surroundings. Accustomed to a harsh, naturalistic lifestyle, wood elves loved to wear leather armor, even when they were not under immediate threat. Wood elves were roughly identical to other elves in height and build, with males larger than females. Wood elves were often stronger than other Tel-quessir, including other elves, but were frequently less cerebral than moon and sun elves, who put a greater value on education.
+
+[_Back to Top_](#top_of_page)
 
 ## Abilities, Feats and Supplies
 - **Darkvision**: See in the dark up to 60 feet.
@@ -90,5 +98,7 @@ Wood elves were easily identifiable by their coppery skin and green, brown, or h
 ##### Monastic Tradition Way of the Drunken Master
 - **Drunken Technique**: Somehow in your drunken stupor you can combine Flurry of Blows with the Disengage action and heightened mobility. Great for weaving in and out of combat.
 
+[_Back to Top_](#top_of_page)
 
+------------
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
