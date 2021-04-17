@@ -26,8 +26,9 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - Start the campaign at Hamwert's funeral so be prepared to speak.
 - Inspiration: Lets you roll any D20 and then it's gone but can be given out for good role playing (get into character!).
 - Advantage: Will be checking abilities for different behaviors (leap off a tree to attack, give an acrobatics check)
-- No Phones during
-- Ranked Pillars for what we want: Role Playing, Combat, Exploring.
+- No Phones during sessions.
+- Ranked Pillars for what we want out of the Campaign: Role Playing, Combat, Exploring.
+- Resources such as Arrows, Meal Rations, etc. will be consumed as you use them. For instance, if you fire an arrow and it breaks or cannot be retrieved then it must be removed from your inventory.
 - [Reference Cheat Sheet (Movement, Action, Condition, etc.)](https://crobi.github.io/dnd5e-quickref/preview/quickref.html)
 - Games are hosted on the DM's [Foundry Virtual Tabletop (VTT)](https://foundryvtt.com/).
 
