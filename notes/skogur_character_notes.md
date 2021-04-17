@@ -4,7 +4,7 @@
 
 | Name                                      | Race       | Class | Portrait      | Last Campaign | Status |
 | ----------------------------------------- | ---------- | ----- | ------------- | --------------| -------|
-| Skógur Strákar (_translation Forest Lad_) | Wood Elf   | Monk  | <img src="img/skogur_portrait.jpg" width="100" height="100"> | Tomb of Annihilation | Alive |
+| Skógur Strákar (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> | Tomb of Annihilation | Alive |
 
 ## Backstory
 
