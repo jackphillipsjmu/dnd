@@ -1,8 +1,8 @@
-# D&D
+<h1 align="center">D&D</h1>
 <p align="center">
+  <img src="notes/img/background_title_img.jpeg" width="1027" height="335">
   This page contains Notes, Facts and Lore Surrounding Dungeons and Dragons Campaigns.
   <p align="center"><em>May the D20's be ever in your favor</em>.</p>
-  <img src="notes/img/background_title_img.jpeg" width="1027" height="335">
 </p>
 
 ---
