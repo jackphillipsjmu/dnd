@@ -9,7 +9,8 @@ Find the Campaign Notes [Here](notes/campaign_notes-Tomb_of_Annihilation.md)!
 **Next Session will be Sunday April 18th at 11:00 am!**
 
 ---
-# Previous Characters
+# Characters
 - [Redd the Illuminator](notes/redd_character_notes.md)
 - [Lítið (Lee-Tith) Corlinn](notes/lt_character_notes.md)
 - [Altari  (Al-Tar-E)](notes/at_character_notes.md)
+- [Skógur Strákar](notes/skogur_character_notes.md)
