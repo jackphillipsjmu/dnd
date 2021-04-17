@@ -12,6 +12,9 @@
 Born in [Evermeet](https://forgottenrealms.fandom.com/wiki/Evermeet), the Green Isle. It is the last true kingdom of, and the final destination for all non-drow Tel'Quessir ("elves") on [Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn).
 
 #### Skógur's Parents and Their Demise
+<details>
+  <summary>Show Details</summary>
+
 - Skógur's Parents were described as joyful, optimistic, fun loving, passionate environmentalists (liberal wood/wild elf heritage).
 - Moved to Evermeet during the "Retreat" out of necessity. The Retreat was a mass migration of elves from [Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn) where over 90% of the elves in the forest of Cormanthor migrated to Evermeet or Evereska. They had distain for how non-elven creatures where not able to gain entry into Evermeet as they wanted everyone to live in harmony together despite their race or upbringing (helps future plot holes of meeting/befriending [Arilyn Moonblade](https://forgottenrealms.fandom.com/wiki/Arilyn_Moonblade)).
 - They birthed the first child in Evermeet after the "Retreat" once arriving. However, the child had a nasty tooth infection that led to the parents relieving the pain with traditional herbs and strong mead to dull the suffering (lends to arc of Drunken Master).
@@ -24,6 +27,7 @@ Born in [Evermeet](https://forgottenrealms.fandom.com/wiki/Evermeet), the Green 
 - Skógur was taken under the wing of [Rassinn](https://www.indifferentlanguages.com/translate/icelandic-english/rassinn), a more senior member of the monastery where he quickly became a Father figure to Skógur.
 
 [_Back to Top_](#top_of_page)
+</details>
 
 ### Rassinn Skógur's Father Figure (NPC)
 - Rassinn is jovial while being bound to mother nature and what she produces. He is a Male Half-Elf and is the longest-living person at the monastery at age 102.
