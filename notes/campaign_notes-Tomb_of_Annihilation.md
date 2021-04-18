@@ -378,17 +378,16 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Prefer to stay off the grid to avoid the risk of the Merchant Princes. Jabol likes to behead people that cross him.
   - Fire Finger, controlled by Taradon folk (maybe treasure there)
   - Village of the Grung-Dung-Lung (Grung)
-- Minstrel in the corner
+- Notice a minstrel in the corner as well.
 - Roll a D8 to see who is in the bar (few people in the party but specifically MERMAN!)
-  - Corvil Aronav (Triton Cleric): Long blue hair
-  - Tiefling: Dark Purple and Blacks
   - Few clerics, druid, sorcerer and a wizard
   - Miklotov Blesk and Camus Aurelius (Clerics)
+  - Corvil Aronav (Triton Cleric): Long blue hair
+  - Yuber Achtfach (Tiefling): Dark Purple and Blacks
   - Viki Pendragon (Flip Cup Closer, Pale White Eyes that are pretty creepy)
-  - Yuber Achtfach (Tiefling)
   - Some others I may not have caught as well.
 - Recognize a guide **Azaka Stormfang**, has a quest to go to Fire Finger and is after a lost family heirloom
-- Pan buys a round of Tej for the party after getting some denaros from The Treasury of Freya (costs 10 silver, one gold)
+- Pan buys a round of Tej for the party after getting some denaro's from The Treasury of Freya (costs 10 silver, one gold)
 - Corvil Aronav (can create water using a can't trip), adventurers from a patron of water deep and the group needs a guide.
   - Clear it's their first time in Chult - _who do you know here?_.
 - Taking the rivers is typically effective rather than the forest.
@@ -406,7 +405,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Seem to be cheating like some punk ass bitches
 - After a dead heat in the end between Virra and Viki, we won!
 
-### Post-Game
+### Post-Game Like We Won the Championship Game
 - Azaka approaches us impressed with our drinking skillz.
   - Says to get on the good side of the merchant princes (wave charter fee) by completing tasks for them.
   - Azaka input on Faroul and Gondolo: Bafoons but aren't bad dudes that wouldn't lead us astray.
@@ -417,7 +416,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Throw up a silver coin to test her dexterity which she catches as Skógur tosses it in the air. V impressed but maybe not the chick for us.
 
 ### Take a Load Off Baby
-- Stay at the Thundering Lizard for the night for 15 SP. Freya dedicates the Long Bow as her weapon but takes out the unarmed strike ability for most situations - shadow boxing x100.
+- Stay at the Thundering Lizard for the night for 15 SP. Freya dedicates the Long Bow as her weapon but takes out the unarmed strike ability for most situations - _shadow boxing x100_.
 - Others prepare spells for the journey ahead.
 - Get a nice rest after the other party (Silver Hydras)
   - Ask what our name is but unsure of this. **Come up with a sick name**.
