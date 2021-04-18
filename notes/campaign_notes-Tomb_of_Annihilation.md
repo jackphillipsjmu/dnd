@@ -518,7 +518,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Pan turns into a Wolf after they are done looking for our fake money bag. Liara Portyr is concerned immediately and asks her to change back. Tried to persuade her that it's just kinda her thing but all checks fail after some threats and Pan changes back to her OG form.
   - Skógur tries to swoon Liara to distract her but is too busy with other appointments during the day. Maybe a late night booty call is in order.
 
-### After Liara Leaves
+### After Liara Hits Skates
 - Rokh asks what is the plan.
 - Pan wants to summon her Owl familiar but is caught by Grutta mid spell asking if she is creating another Wolf _boo_.
 - Try to get Grutta to go with Skógur to the kitchen but says we can operate on our own even after trying to plead our case.
@@ -526,7 +526,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Pan fails to sneak around and is escorted out of the building.
 - Freya and Rez attempt to make a distraction for Rokh as he moves away from the party.
 
-### Ring My Bell
+### Ring My Bell ([	&#127932; Ring My Bell &#128276;](https://www.youtube.com/watch?v=URAqnM1PP5E))
 - Freya climbs her way up the tower after being stealthy and rings the bell.
 - Guards think it's just a change in shift initially, but then call to "Man the Walls!" after it persists.
 - Virra runs out of the kitchen up to the Bell Tower and tells Freya to run away.
@@ -561,7 +561,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Speak with the Inn-keeper at the Thundering Lizard (speak with River Mist, seems kinda sketch).
 - Rokh Seems to be working for either River Mist or Flask of Wine.
 
-### Notes on Vegepymies
+#### Notes on [Vegepygmies](https://forgottenrealms.fandom.com/wiki/Vegepygmy)
 - Primitive Plants. Vegepygmies, also called mold folk or moldies, inhabit dark areas that are warm and wet, so they are most commonly found underground or in dense forests where little sunlight penetrates. A vegepygmy instinctively feels kinship with other plant and fungus creatures, and thus vegepygmy tribes coexist well with creatures such as myconids, shriekers, and violet fungi.
 - Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, meaning that they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can’t speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and rhythmic tapping on the body. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 - Mold Begets Mold. Vegepygmies originate from the remains left behind when a humanoid or a giant is killed by russet mold.
