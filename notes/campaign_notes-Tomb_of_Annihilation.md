@@ -1,4 +1,4 @@
-###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+guards###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Tomb of Annihilation Campaign
 _Compiled Notes for the Tomb of Annihilation Campaign_
@@ -11,16 +11,18 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 | Virra Wildwander      | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive &#128570; |
 | Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin)       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
 | Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
-| [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
+| [Skógur Strákar](Skógur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/Skógur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
 
 ## Session Notes
 - [Session One](#session_one)
 - [Session Two](#session_two)
 - [Session Three](#session_three)
 - [Session Four](#session_four)
+- [Session Five](#session_five)
 
 ---
 ## <a name="session_one"></a>Session One
+_Note that this first Session notes aren't as well rounded as the others but may provide some insights._
 
 ### Level Setting the Campaign
 - **This campaign is famous for killing characters!**
@@ -42,15 +44,15 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - Couldn't figure out a way to slow Hamwert's degradation
 - Similar to the magic of [lich's](https://www.dndbeyond.com/monsters/lich)
   - Corpsewood to the south may have an understanding of the death curse
-- Remallia Haventree
-  - Member of the Harpers
-  - Hamwert was a member of the Harpers
-  - Friend with her is suffering from the death curse
-  - Sun Elf from the far East
-- Harpers
+- **Harpers**
   - Alliance of spell casters/spies
   - Help the weak, poor and oppressed
   - Only confront enemies as a last resort which in the case of the death curse is something they want to take action on
+- **Remallia Haventree**
+  - One of the Harper leaders.
+  - Sun Elf from the far East
+  - Hamwert was a member of the Harpers
+  - Friend with her is suffering from the Death Curse
 - Will be protections around the [lich](https://www.dndbeyond.com/monsters/lich)
   - Plan is to distract the more dangerous foes
   - Get the stuff quick to spare Harper lives
@@ -62,7 +64,6 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - **Callabrax Copperkettle**: Halfling wizard from Harpers
   - Can move supplies easily with his powers
   - Diviner is the ship we're using to set off from Baldurs Gate
-- **Remallia Haventree**: Sun elf, one of the Harper's leaders.
 - **Syndra Silvane**: Older woman suffering from death curse; wears silver mask when in public
 - **Jagged Leaf**: Tabaxi we met in the bar (_Drinks on Jagged Leaf next time!_)
 - Aid is cast on us that grants us 5 additional health
@@ -278,7 +279,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - Pan flirts with Makao and gives him her bobble, still don't know if Makao handed over Roman Numeral number or not for a date.
 
 #### Speaking with Eku
-- Well versed with Chult, lived their all her life from Mbala
+- Well versed with Chult, lived their all her life but is from Mbala
 - Has seen evil risen in Chult and wants to rid the are of it. A person did the people of Mbala wrong by deceiving them. Not sure if they are still there or not.
 - Not as powerful as other guides but does have casting ability (cure wounds, poison) knows of flora and fauna in the area
 - Her main primary driver is to rid Chult from evil
@@ -297,7 +298,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
   - Inete has had disturbing visions as well of red-robed wizards operating a secret base somewhere in the Aldani Basin.
 
 #### Back at the Table
-- Makao teaches us a Chult drinking game involving coins while drinking and enjoying the honey brew.
+- Makao teaches us a Chult drinking game involving coins while enjoying the honey brew.
 - Half-orc priest with a gauntlet on her chest approaches us asking if we're adventurers.
   - Undril Silvertusk is a member of the order of the Gauntlet and overheard that we'd be adventuring in the forest soon. She has come to rid Chult of the undead and also help out a local Camp who are in need. Her initial plan was to go out on her own with a horse but the terrain is too hazardous to do so and wants us to join in her quest.
   - Two camps are Camp Righteous and Camp Vengeance. Undril needs to deliver herself plus a packet of dispatches from her superiors to Commander Niles Breakbone at Camp Vengeance.
@@ -338,8 +339,8 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
   - Arrow came from somewhere in Malar's Throat but do not know where exactly.
   - "Ras Nsi" ("Ras-me-see") is spoken by the Spy as they die. Scales along their back like a snake.
   - Likely a [**Yuan-ti**](https://forgottenrealms.fandom.com/wiki/Yuan-ti) which are serpent folk. Many different kinds but this one seems to be a pureblood. Their people have a hierarchy, the closer you are to being a snake then the higher you are in the ranks.
-   - **The Yuan-Ti Pantheon**: [Dendar](https://forgottenrealms.fandom.com/wiki/Dendar), [Merrshaulk](https://forgottenrealms.fandom.com/wiki/Merrshaulk), and [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) are the 3 Gods they serve.
-- Check that no one really cares about a dead body, throw his robe over him and back away from the dead body. There's only one way to get over killing a Snake Person.
+   - **The Yuan-Ti Pantheon**: [Dendar](https://forgottenrealms.fandom.com/wiki/Dendar), [Merrshaulk](https://forgottenrealms.fandom.com/wiki/Merrshaulk), and [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) are the 3 Gods they serve (_potentially_).
+- Check that no one really cares about a dead body, throw his robe over him and back away from the him. There's only one way to get over killing a Snake Person.
 
 ### Retail Therapy (Round 2)
 - Head to Red Bazar to go shopping
@@ -351,13 +352,14 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - Start searching for armor
   - First booth is a bit too pricy for us so we pass this up.
   - Purchase nice looking fabrics to become gorgeous.
-  - Rez trades her chain mail for studded leather armor and 25 GP - looks fantastic.
+  - Rez trades her chain mail for studded leather armor and 25 GP - looks fantastic (_loses some AC but a price to pay to look fab_).
 - Skógur purchases some sweet sandals for 2 GP to cover up his nasty feetscicles.
 
 ### Executioners Run - The Runnining
-- Belym tells the crew that their Husband (Draza) wasn't guilty of stealing but was wrongly accused and put into Executioners Run against Velociraptors or as they are called in game, [Deinonychus](https://forgottenrealms.fandom.com/wiki/Deinonychus) Jurassic Park style.
+- Belym tells the crew that their Husband (Draza) wasn't guilty of stealing but was wrongly accused and put into Executioners Run against Velociraptors. Or as they are called in game, [Deinonychus](https://forgottenrealms.fandom.com/wiki/Deinonychus) - [Jurassic Park style](https://youtu.be/dnRxQ3dcaQk?t=168).
   - Only have 25 SP to offer like a peasant so we don't accept the payment to save him.
 - 2 Deinonychus in the pit with 3 people attempting to making it across.
+- Take down one of the Deinonychus after dropping into the pit.
 - Get Draza out of the pit by using Pan's whip-it-good skills.
 - Belym works under Jessamine and can help us get an appointment with her at Golden Throne (not for number 2's).
 - Beggar Princes run Executioners Run (think of themselves as their own Merchant Princes)
@@ -366,6 +368,209 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
   - Able to get a Long Rest
 
 [_Back to Top_](#top_of_page)
+
+------------
+## <a name="session_five"></a>Session Five
+
+## Thunder Dome at the Thundering Lizard
+- Virra is approached by 2 Tabaxi's (Rivermist and Flask of Wine)
+  - **River Mist and Flask of Wine**: May put us on the wrong side of Jabol if we go with them. River Mist is missing an eyeball (female Tabaxi) from the Death Curse. Flask of Wine isn't too talkative (Helen Keller esc?)
+  - Prefer to stay off the grid to avoid the risk of the Merchant Princes. Jabol likes to behead people that cross him.
+  - Fire Finger, controlled by Taradon folk (maybe treasure there)
+  - Village of the Grung-Dung-Lung (Grung)
+- Minstrel in the corner
+- Roll a D8 to see who is in the bar (few people in the party but specifically MERMAN!)
+  - Corvil Aronav (Triton Cleric): Long blue hair
+  - Tiefling: Dark Purple and Blacks
+  - Few clerics, druid, sorcerer and a wizard
+  - Miklotov Blesk and Camus Aurelius (Clerics)
+  - Viki Pendragon (Flip Cup Closer, Pale White Eyes that are pretty creepy)
+  - Yuber Achtfach (Tiefling)
+  - Some others I may not have caught as well.
+- Recognize a guide **Azaka Stormfang**, has a quest to go to Fire Finger and is after a lost family heirloom
+- Pan buys a round of Tej for the party after getting some denaros from The Treasury of Freya (costs 10 silver, one gold)
+- Corvil Aronav (can create water using a can't trip), adventurers from a patron of water deep and the group needs a guide.
+  - Clear it's their first time in Chult - _who do you know here?_.
+- Taking the rivers is typically effective rather than the forest.
+  - Plan to follow the river Tariki
+  - Area where you can buy canoes, get a dino-nug or 2 to carry their loot
+- Assemble the party to play a drinking game with the other adventurers
+- Continue discussion after the drinking competition
+
+### [Beerfest!](https://www.youtube.com/watch?v=my-VMxj6YlI)
+- Pan is asked to explain a Satyr game, **Flippith thy Cup**.
+  - **Rules**: No magic, a test of grossness
+  - Friendly wager of 15 GP
+  - **Full Cup** Flippith thy Cup!
+- Rez is too powerful and can't flippith the cup after a mighty chug. Rez's mug gets pushed back against wall and on the next flip she sends it into the ceiling. One of the adventurers Bat familiar takes it out of the ceiling but lands on the table upside down. Touchdown! Move onto the Pan's turn.
+- Seem to be cheating like some punk ass bitches
+- After a dead heat in the end between Virra and Viki, we won!
+
+### Post-Game
+- Azaka approaches us impressed with our drinking skillz.
+  - Says to get on the good side of the merchant princes (wave charter fee) by completing tasks for them.
+  - Azaka input on Faroul and Gondolo: Bafoons but aren't bad dudes that wouldn't lead us astray.
+  - Azaka likes Eku, not as good in battle as Azaka, but a good guide.
+  - Azaka;s main priority is to get back a wooden mask (family heirloom) that belongs to her. Terafolk (flying lizards) took it initially. Has personal value for Azaka but seems to have no other
+  - Has a horrible fear of heights
+    - Ladders to get up to the camp of the folks that stole the mask. Can lead us there but probably won't climb up. Can support from the ground if needed with her longbow.
+  - Throw up a silver coin to test her dexterity which she catches as Skógur tosses it in the air. V impressed but maybe not the chick for us.
+
+### Take a Load Off Baby
+- Stay at the Thundering Lizard for the night for 15 SP. Freya dedicates the Long Bow as her weapon but takes out the unarmed strike ability for most situations - shadow boxing x100.
+- Others prepare spells for the journey ahead.
+- Get a nice rest after the other party (Silver Hydras)
+  - Ask what our name is but unsure of this. **Come up with a sick name**.
+- Undril staying at the House of Repose but will join up with us later on **after we get the charter**.
+
+## The Morning After
+- Head over to the Harbor Ward where the Windwaker is still in port.
+- Ask Captain Zeed for passage to Fort Beluarian
+  - Quick ride, only a few hours
+  - Forgot we needed to meet with Belym and Draza
+  - Does not like being called Bird Person as highlighted by Virra
+
+### Jessamine Golden [~~Toilet~~](https://www.youtube.com/watch?v=ZALSvE6N5d0) Throne
+- Pass temple of Sabris while heading to the Throne. Looks a bit like Charleston
+- Guards with rippling muscles at the front gate and ask why we're there.
+- Belym and Draza run up and tell Olu (guard) that we're there to see Jessamine. We're on the list!
+- Enter the lavish throne. See Jessamine with her cronies and sends off Belym after thanking him for bringing us to her.
+- Want to learn more about Chult and the flora around it. These are peasant questions to Jessamine but kinda understands after explaining our history. We say we're really here about the Death Curse which she is familiar with.
+  - temple visually looks fine but a thick scarf around her neck and arms are covered in Chult fabrics. Probably caught some sores from the Death Curse.
+- Beneficial Flora
+  - **Dancing Monkey Fruit**: Yellowish similar to an orange. Can be juiced to provide a funny effect on the advisory (dance for 1 minute straight). Funny prank and can use in battle if we can convince them to drink it. Once the dancing stops their poisoned for an hour and can purchase at the Red Bazar (5 GP for one). Could sell them but might want to avoid the black market due to backlash.
+  - **Menga Leaves**: Can be ground up and dissolved in a liquid to regain health. Don't take too much or you may fall unconscious. Located out in the forest and can pick their leaves. Hexagonal with ridges.
+  - **Ryath Fruit**: Boost health temporarily, similar to Menga Leaves don't imbibe too much.
+  - Sin-da-berries: Dark brown and bitter but can help overcome diseases and poisons.
+  - **Wild Root** is the goto cure poison maneuver (injected, maybe through an open wound)
+    - Can use once and then discarded (costs 25 GP for one at the market)
+- Dangerous Dank
+  - Thin blue mist, turn around that's **Mad Monkey Fever**. If inhaled you can go mad magazine bro. If someone comes down with this there is a beetle in the forest Yahtha that can be consumed raw or cooked to overcome the fever.
+- Recommended
+  - **Wocka Nuts**: If shaken can emit light if we're in the need for that. Be careful this is a popular spot for creatures.
+    - **Jakooli**: [oisonous snakes that live near the nuts
+    - **Zorbos**: Small bear with matted brown hair and sharp claws that can be nasty beasts and have a taste for human flesh
+  - Wild Root: Cure poison
+  - Zabou: Found near rotting wood, spores they emit are poisonous but if we can pick them we can throw them at opponents to poison them.
+- [**Jessamine sells these Poisons**](https://www.dndbeyond.com/sources/dmg/running-the-game#Poisons) but are pretty expensive. What is recommended is:
+    - **Carrion Crawler Mucus (Contact)**. This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Serpent Venom (Injury)**. This poison must be harvested from a dead or incapacitated giant  poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+- Jessamine Has a 12 year old daughter that hopefully will take over the family business.
+- Jobal is ambitious and wants to chart out Chult. Interested in using guides to map out the jungles and if you go against him you may be in hot water.
+  - Freya is a map lover and we may be able to help out in this effort for coin or something else.
+- Head out without seeing Jobal because it will take a few hours before we can meet.
+
+### [SAIL!](https://www.youtube.com/watch?v=tgIqecROs5M)
+- Hug the coasts so we don't encounter Aremag the Turtle Dragon.
+- Arrive to the destination mid-afternoon.
+- Stretch of beach and anchors in about 1/2 mile off shore.
+- Flaming Fist members to guide us to the Fort  - **be careful!**
+- Zeed will wait for us until ~~nighttime~~ couple days (due to the 14 hour trek ahead).
+- Guards come out in a rowboat and take us to the beach
+
+## Let's Go to the Beach Beach
+- Land on the Beach Beach
+- Notice a straight forward, unmonitored trail that will take **14 hours to traverse**.
+- Apply that sweet bug salve to avoid any creepy crawlies.
+
+## To the Flaming Fist
+- Notice that something stumbles onto the path in front of us. An enormous snapping turtle _dun-dun-dun_ that's sun-bathing.
+- Pan throws some food and the turtle eats it and seems to enjoy it.
+- Pan pets the turtle head poking out after an animal handling check.
+- Go around the turtle after offering more tasty herbs to the turtle.
+- Arrive at the Fort and ask for a charter.
+  - Go to Liara Portyr for charter
+  - Guide has moved in from the outskirts of the Fort and can be found near the stables
+- Massive wooden doors are pushed open by 8 guards
+  - Other guards gaze at us as we make our way downtown.
+  - Seems well fortified
+- See armorer while walking to the main section of the courtyard and await our summons.
+  - Tons of different people selling supplies.
+  - See **Qawasha and Kupalué** by the stables
+    - Qawasha, druid member of the Emerald Enclave. Vegepymy companion with experience in local flora and fauna. 5 gold pieces per day but this can be negotiated if we help destroy any undead we encounter. Blessing of chwingwa spirits that watch over the sacred land.
+- Rokh (Chultan male) tries to get our attention by whispering to Pan first.
+  - Asks if we're looking for a charter
+  - Wants us to help in distracting the guards to get the head Fister in charge.
+  - Works for one of the Merchant Princes but didn't say which one.
+  - Charter costs 50 GP.
+  - Pan comes back and tells us of the ask but we want to speak with
+  - Wants to eliminate the pirates which Liara is suspected of helping.
+  - Any ship not from Baulders Gate are raided, seems odd eh?
+  - Go and get evidence first then make a distraction?
+  - Guard tower has bell to announce approaching enemies, love jousting, raptor pens could be let loose, start a fire to pull their attention
+- 100 guards are around the Fort
+- Female women (Grutta) approaches us as we're talking asking if we would like a charter.
+  - Leads us 6 inside
+  - Wooden statue in the middle of the courtyard (burn baby burn?)
+  - Great Hall that looks like a hunting lodge (skulls on the walls and such)
+  - See Raptor pens and see a visibly scarred man feeding them.
+- Woman waiting at a table in the hall tis Liara Portyr.
+  - Clerics aren't able to revive Flaming Fist members
+  - Try to bargain charter but would require us to do some tasks for her.
+  - Charter means we can plunder things but we will need to pay a percentage of what we find to the Flaming Fisticuffs.
+  - Leader is the Grand Duke (_need to confirm name_)
+  - Will offer mercenaries (up to 6 can be hired) as we move through the jungles
+  - Rauld (_pronounced Rolled_) is the head trainer of the reptiles. Used for riding and hunting - bit like dogs but more vicious.
+    - Ask about the bloke and if there are any gems/jewels that control the beasts. Doesn't seem to be something that impacts them, i.e. no control abilities and what not.
+  - Footprints of an abnormally large creature found outside the fort. Will reward us with 5 magic arrows and a charter if we identify what is is and it's impact.
+  - Ghoul (undead) heads can get us cash money (_money talks_).
+  - Freya is wary of paying for a Charter immediately and wants to go and get a fictitious bag. Fails to deceive Liara Portyr and recommends that a guard come with them.
+  - Pan turns into a Wolf after they are done looking for our fake money bag. Liara Portyr is concerned immediately and asks her to change back. Tried to persuade her that it's just kinda her thing but all checks fail after some threats and Pan changes back to her OG form.
+  - Skógur tries to swoon Liara to distract her but is too busy with other appointments during the day. Maybe a late night booty call is in order.
+
+### After Liara Leaves
+- Rokh asks what is the plan.
+- Pan wants to summon her Owl familiar but is caught by Grutta mid spell asking if she is creating another Wolf _boo_.
+- Try to get Grutta to go with Skógur to the kitchen but says we can operate on our own even after trying to plead our case.
+- Go with Virra to the kitchen to get food and see a human Chef Sigborn (sp?) there with many meats and cheeses.
+- Pan fails to sneak around and is escorted out of the building.
+- Freya and Rez attempt to make a distraction for Rokh as he moves away from the party.
+
+### Ring My Bell
+- Freya climbs her way up the tower after being stealthy and rings the bell.
+- Guards think it's just a change in shift initially, but then call to "Man the Walls!" after it persists.
+- Virra runs out of the kitchen up to the Bell Tower and tells Freya to run away.
+- Leave the Chef with his mighty spatula behind in the kitchen.
+- All standing in the courtyard together.
+- Guards recognize that this is not a threat, try to throw Chef under the bus but isn't very useful.
+- Rez goes up to Qawasha and Kupalué and brings them to the party.
+
+### Gabbing with Qawasha (Druid) and Kupalué (Veggietales)
+- Qawasha wants to rid the world of the undead and Ras Nsi. Opposes necromancy with bad motives.
+- [Ubtao](https://forgottenrealms.fandom.com/wiki/Ubtao) (maze god)
+  - Seven chosen of Ubtao, 6 of which are good to go but Ras Nsi wasn't on board and summoned undead which ravaged the lands.
+  - Chosen seem to be immortal and Ras Nsi could be found potentially somewhere in Chult.
+  - Eshowe Tribe: Let loose an evil shadow giant that attacked Tabaxi's
+- Say we want them as our guides which makes Kupalué is excited about like you just found a [Korok seed](https://www.youtube.com/watch?v=XMgK_E6_GAE).
+- Will wave per-day-fee if we go to deal with the undead (_may want to bring in Undril on this bad boy_).
+  - _Radiant and fire damage is useful against them - **Rez's time to shine!**._
+- Rokh comes back and says we should hit the ol' dusty trail.
+
+## Making Our Way Down-Chult
+- Pan and Rokh try to open the box he stole but are not successful.
+  - Lock picking was mentioned in the early sessions as a valuable thing. Maybe we need to get better at this/get someone who is?
+- Move on and we see people hauling the remains of the snapping turtle we saw before.
+  - Cut along the belly.
+  - Human size footprints.
+- Camp out and make our way back to the ship.
+- On our way back Pan and Rokh can open the lock box. 220 GP and a tiny brown stone with a face carved into it (red and blue eyes). Rokh picks up the stone and it starts talking about if Liara is successful or not. Says to meet at the regular spot in the future after talking with the stone.
+  - Jahoka Anchorage was mentioned
+  - Rokh will hold onto the stone in the meantime.
+  - Cannot tell us the name of their patron still but will inform them that we helped out.
+- How can we find Rokh again?
+  - Speak with the Inn-keeper at the Thundering Lizard (speak with River Mist, seems kinda sketch).
+- Rokh Seems to be working for either River Mist or Flask of Wine.
+
+### Notes on Vegepymies
+- Primitive Plants. Vegepygmies, also called mold folk or moldies, inhabit dark areas that are warm and wet, so they are most commonly found underground or in dense forests where little sunlight penetrates. A vegepygmy instinctively feels kinship with other plant and fungus creatures, and thus vegepygmy tribes coexist well with creatures such as myconids, shriekers, and violet fungi.
+- Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, meaning that they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can’t speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and rhythmic tapping on the body. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
+- Mold Begets Mold. Vegepygmies originate from the remains left behind when a humanoid or a giant is killed by russet mold.
+- **Additional deets on vegepygmies, this is the mold that begets them - _RUSSET MOLD_**
+  - The fungus known as russet mold is reddish-brown in color and found only in places that are dark, warm, and wet. Russet mold that spreads out across a metal object can be mistaken for natural rust, and a successful DC 15 Intelligence (Nature) or Wisdom (Survival) check is required to identify it accurately by sight in such a case.
+  - Any creature that comes within 5 feet of russet mold must make a DC 13 Constitution saving throw as the mold emits a puff of spores. On a failed save, the creature becomes poisoned. While poisoned in this way, the creature takes 7 (2d6) poison damage at the start of each of its turns, sprouting mold as it takes damage. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Any magic that neutralizes poison or cures disease kills the infestation. A creature reduced to 0 hit points by the mold’s poison damage dies. If the dead creature is a beast, a giant, or a humanoid, one or more newborn vegepygmies emerge from its body 24 hours later: one newborn from a Small corpse, two from a Medium corpse, four from a Large corpse, eight from a Huge corpse, or sixteen from a Gargantuan corpse.
+  - Russet mold can be hard to kill, since weapons and most types of damage do it no harm. Effects that deal acid, necrotic, or radiant damage kill 1 square foot of russet mold per 1 damage dealt. A pound of salt, a gallon of alcohol, or a magical effect that cures disease kills russet mold in a square area that is 10 feet on a side. Sunlight kills any russet mold in the light’s area.
+
+**A potential undead attack is happening as we hear someone screaming for help in the distance. More adventuring to come next week!**
 
 ------------
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
