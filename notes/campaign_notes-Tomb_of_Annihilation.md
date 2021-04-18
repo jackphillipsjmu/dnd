@@ -379,7 +379,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Fire Finger, controlled by Taradon folk (maybe treasure there)
   - Village of the Grung-Dung-Lung (Grung)
 - Notice a minstrel in the corner as well.
-- Roll a D8 to see who is in the bar (few people in the party but specifically MERMAN!)
+- Roll a D8 to see who is in the bar (few people in the party but specifically [MERMAN!](https://www.youtube.com/watch?v=EoQW03UFqQw))
   - Few clerics, druid, sorcerer and a wizard
   - Miklotov Blesk and Camus Aurelius (Clerics)
   - Corvil Aronav (Triton Cleric): Long blue hair
@@ -420,7 +420,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Others prepare spells for the journey ahead.
 - Get a nice rest after the other party (Silver Hydras)
   - Ask what our name is but unsure of this. **Come up with a sick name**.
-- Undril staying at the House of Repose but will join up with us later on **after we get the charter**.
+- Undril is staying at the House of Repose but will join up with us later on **after we get the charter**.
 
 ## The Morning After
 - Head over to the Harbor Ward where the Windwaker is still in port.
@@ -432,10 +432,10 @@ _Note that this first Session notes aren't as well rounded as the others but may
 ### Jessamine Golden [~~Toilet~~](https://www.youtube.com/watch?v=ZALSvE6N5d0) Throne
 - Pass temple of Sabris while heading to the Throne. Looks a bit like Charleston
 - Guards with rippling muscles at the front gate and ask why we're there.
-- Belym and Draza run up and tell Olu (guard) that we're there to see Jessamine. We're on the list!
+- Belym and Draza run up and tell Olu (guard) that we're there to see Jessamine. _We're on the list I swear_.
 - Enter the lavish throne. See Jessamine with her cronies and sends off Belym after thanking him for bringing us to her.
-- Want to learn more about Chult and the flora around it. These are peasant questions to Jessamine but kinda understands after explaining our history. We say we're really here about the Death Curse which she is familiar with.
-  - temple visually looks fine but a thick scarf around her neck and arms are covered in Chult fabrics. Probably caught some sores from the Death Curse.
+- Party wants to learn more about Chult and the flora around it. These are peasant questions to Jessamine but kinda understands after explaining our history. We say we're really here about the Death Curse which she is familiar with.
+  - Jessamine visually looks fine but a thick scarf around her neck and arms are covered in Chult fabrics. Probably caught some sores from the Death Curse.
 - Beneficial Flora
   - **Dancing Monkey Fruit**: Yellowish similar to an orange. Can be juiced to provide a funny effect on the advisory (dance for 1 minute straight). Funny prank and can use in battle if we can convince them to drink it. Once the dancing stops their poisoned for an hour and can purchase at the Red Bazar (5 GP for one). Could sell them but might want to avoid the black market due to backlash.
   - **Menga Leaves**: Can be ground up and dissolved in a liquid to regain health. Don't take too much or you may fall unconscious. Located out in the forest and can pick their leaves. Hexagonal with ridges.
