@@ -440,17 +440,17 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - **Dancing Monkey Fruit**: Yellowish similar to an orange. Can be juiced to provide a funny effect on the advisory (dance for 1 minute straight). Funny prank and can use in battle if we can convince them to drink it. Once the dancing stops their poisoned for an hour and can purchase at the Red Bazar (5 GP for one). Could sell them but might want to avoid the black market due to backlash.
   - **Menga Leaves**: Can be ground up and dissolved in a liquid to regain health. Don't take too much or you may fall unconscious. Located out in the forest and can pick their leaves. Hexagonal with ridges.
   - **Ryath Fruit**: Boost health temporarily, similar to Menga Leaves don't imbibe too much.
-  - Sin-da-berries: Dark brown and bitter but can help overcome diseases and poisons.
+  - **Sin-da-berries**: Dark brown and bitter but can help overcome diseases and poisons.
   - **Wild Root** is the goto cure poison maneuver (injected, maybe through an open wound)
     - Can use once and then discarded (costs 25 GP for one at the market)
 - Dangerous Dank
   - Thin blue mist, turn around that's **Mad Monkey Fever**. If inhaled you can go mad magazine bro. If someone comes down with this there is a beetle in the forest Yahtha that can be consumed raw or cooked to overcome the fever.
 - Recommended
   - **Wocka Nuts**: If shaken can emit light if we're in the need for that. Be careful this is a popular spot for creatures.
-    - **Jakooli**: [oisonous snakes that live near the nuts
+    - **Jakooli**: Poisonous snakes that live near the nuts
     - **Zorbos**: Small bear with matted brown hair and sharp claws that can be nasty beasts and have a taste for human flesh
-  - Wild Root: Cure poison
-  - Zabou: Found near rotting wood, spores they emit are poisonous but if we can pick them we can throw them at opponents to poison them.
+  - **Wild Root**: Cure poison
+  - **Zabou**: Found near rotting wood, spores they emit are poisonous but if we can pick them we can throw them at opponents to poison them.
 - [**Jessamine sells these Poisons**](https://www.dndbeyond.com/sources/dmg/running-the-game#Poisons) but are pretty expensive. What is recommended is:
     - **Carrion Crawler Mucus (Contact)**. This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
     - **Serpent Venom (Injury)**. This poison must be harvested from a dead or incapacitated giant  poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
