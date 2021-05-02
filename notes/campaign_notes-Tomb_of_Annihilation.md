@@ -655,7 +655,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Split the pot amongst them as the children and the rest of the party are alone away from the fortune.
   - A coin that looks like a ordinary copper piece but has 2 heads on both sides is found rummaging through the chest which Pan nabs.
   - As Pan holds it she realizes there is something special about it. One check later it is found out that it makes you lucky, and we out here trying to get lucky.
-    - Message from the DM: _"Note that the lucky coin Pan got is a magical item that doesn't require attunement so it doesn't necessarily have to be Pan who uses it. she could through it to Skogur for example before he makes a daring leap across a ravine to give him advantage on his Acrobatics check."_
+    - Message from the DM: _"Note that the lucky coin Pan got is a magical item that doesn't require attunement so it doesn't necessarily have to be Pan who uses it. she could through it to Skogur for example before he makes a daring leap across a ravine to give him advantage on his Acrobatics check. But it's once use per day no matter who uses it"_
 
 ### Two Monks, a Dragon and some Kids Walk into a Swim Up Bar
 - Freya, Rez, Skógur and the chitlens venture to the right as they try to figure things out unbeknownst that Pan and friends found anything on the other side. They all swim up a path out of the water and see a lever and doorway.
