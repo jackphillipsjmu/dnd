@@ -1,4 +1,4 @@
-guards###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Tomb of Annihilation Campaign
 _Compiled Notes for the Tomb of Annihilation Campaign_
@@ -11,7 +11,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 | Virra Wildwander      | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive &#128570; |
 | Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin)       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
 | Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
-| [Skógur Strákar](Skógur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
+| [Skógur Strákar](Skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/Skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
 
 ## Session Notes
 - [Session One](#session_one)
@@ -19,6 +19,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - [Session Three](#session_three)
 - [Session Four](#session_four)
 - [Session Five](#session_five)
+- [Session Six](#session_six)
 
 ---
 ## <a name="session_one"></a>Session One
@@ -401,8 +402,8 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - **Rules**: No magic, a test of grossness
   - Friendly wager of 15 GP
   - **Full Cup** Flippith thy Cup!
-- Rez is too powerful and can't flippith the cup after a mighty chug. Rez's mug gets pushed back against wall and on the next flip she sends it into the ceiling. One of the adventurers Bat familiar takes it out of the ceiling but lands on the table upside down. Touchdown! Move onto the Pan's turn.
-- Seem to be cheating like some punk ass bitches
+- Rez is too powerful and can't flippith the cup after a mighty chug. Rez's mug gets pushed back against the wall and on the next flip she sends it into the ceiling. One of the adventurers Bat familiar takes it out of the ceiling but lands on the table upside down. Touchdown! Move onto Pan's turn.
+- Other party seems to be cheating like some punk ass bitches
 - After a dead heat in the end between Virra and Viki, we won!
 
 ### Post-Game Like We Won the Championship Game
@@ -410,7 +411,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Says to get on the good side of the merchant princes (wave charter fee) by completing tasks for them.
   - Azaka input on Faroul and Gondolo: Bafoons but aren't bad dudes that wouldn't lead us astray.
   - Azaka likes Eku, not as good in battle as Azaka, but a good guide.
-  - Azaka;s main priority is to get back a wooden mask (family heirloom) that belongs to her. Terafolk (flying lizards) took it initially. Has personal value for Azaka but seems to have no other
+  - Azaka's main priority is to get back a wooden mask (family heirloom) that belongs to her. Terafolk (flying lizards) took it initially. Has personal value for Azaka but other then that doesn't seem too valuable (at least not yet).
   - Has a horrible fear of heights
     - Ladders to get up to the camp of the folks that stole the mask. Can lead us there but probably won't climb up. Can support from the ground if needed with her longbow.
   - Throw up a silver coin to test her dexterity which she catches as Skógur tosses it in the air. V impressed but maybe not the chick for us.
@@ -570,6 +571,97 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Russet mold can be hard to kill, since weapons and most types of damage do it no harm. Effects that deal acid, necrotic, or radiant damage kill 1 square foot of russet mold per 1 damage dealt. A pound of salt, a gallon of alcohol, or a magical effect that cures disease kills russet mold in a square area that is 10 feet on a side. Sunlight kills any russet mold in the light’s area.
 
 **A potential undead attack is happening as we hear someone screaming for help in the distance. More adventuring to come next week!**
+
+------------
+## <a name="session_six"></a>Session Six
+
+## [Back, Back to Port Nyanzaru-ooh ](https://youtu.be/Hdvc5AmrzlM?t=49)
+- A blaring alarm horn alerts us of danger from Malar's Throat (a slum we're we were stolen from before).
+- Women screaming "The Undead have Returned!". _Pants defecated_.
+- Militia stands at attention near the gates ready for the undead horde.
+- Hoards of undead are charging while the people of Malar's Throat are rushing to get into a fortified Temple nearby. As the party looks upon the undead we notice the Temple gates are starting to close and we need to get there in time to protect our necks.
+- As the crowd thickens in front of us all clamoring to get inside the Temple Skógur mutters prayer of luck (after a successful religion check) to hopefully grant the party some extra Luck of the Irish.
+- What do we do? Work on our [cardio](https://www.youtube.com/watch?v=IuJmV9bgjGY) of coarse.
+
+<p align="center">
+  <img src="img/malars_throat_temple.png">
+  <p align="center"><em>Malar's Throat</em>.</p>
+</p>
+
+## Test Your Might, Skill Challenge
+- We gotta make it to those doors!
+- Virra fails with a quick step from someone in the crowd stepping on her tail after an impressive natural 1 roll.
+- The Monks in the party, Freya and Skógur, ban together to part the Red Sea of people with their quarterstaff's. As they make their way through the crowd the Monks almost make it to the door while the rest of the party is left in the dust. The door quickly closing on people trying to get inside and out of danger.
+- Pan casts entangle to grab the zombies near the gate to hold them off as they make their way to the Temple.
+- Rez tries to push through the crowd using her impeccable strength and it is successful. Making it all the way to the doors of the temple as the last few trickle in. Unfortunately, the door closes right as she arrives. Parties over.
+- With the gates closed and little hope left, a woman says from up top in a window in the Temple says to take out the undead and we will be let inside.
+  - Way too many to take on all at once with our level 2 stats.
+  - Luckily for us the woman chants an incantation to "bless up" the party.
+- Quick hits on the zombies at the door to start and a swing and a miss by several of the undead. Things are looking good... For now.
+- Virra continues to roll some bad dice and fails to light an arrow on fire ending her turn.
+- Arrows begin to pepper the landscape as skeleton archers make it rain around us focusing their fire on Pan who clings to life with minimal HP.
+- After a few rounds of combat we're able to take out enough of the undead for the woman to let us in. As we rush inside Virra tries to shoot one of the undead, misses, but hits one behind it. So, not all for null.
+
+## When You Call My Name it's Like a Little Prayer
+- Burst inside, shut the door and catch our breath as more undead rush to the Temple. It won't be long until they break through and ravage us and the occupants of the Temple.
+- Looking at who all made it in most are children but two other women are also there trying to come up with a plan to get out.
+- We see Sister Clara (blackish eyes) who is the woman that let us in. She says she took over duties from Father Balton after his passing and we have to hurry to not be slaughtered. This is more undead than they've ever seen before and are worried they will break in before the militia can handle the situation.
+  - Father Bolton died of Throat Leaches supposedly from contaminated water.
+- Clara Notices Pan is badly wounded and casts cure wounds on her (+10 HP) and hands her a healing potion for the events that may come.
+- Clara believes we can escape through underground tunnels _(sounds kinda sus)_.
+- Clara Pushes open a stone alter and leads us down into a crypt.
+  - As we descend, it is pitch black. Pan casts produce flame to illuminate the room for others without Dark Vision.
+
+## Tales of the Crypt
+- At the back of the crypt a statue with a coin is being held face down looking over the resting places of the elders.
+- After a drawn out discussion the undead have broken into the Temple. In a haste Clara flips coin over and a path is revealed behind the statue.
+- Get our marching order and go down the opened path to try and escape with us leading the pack and Clara and the children closely behind.
+
+### Charlie Kelly: King of the Rats
+- Freya having the highest AC bravely goes first into the darkness while swarms of rats attack her with a vengeance.
+- After hitting one swarm it fleas into a mouth that opens up allowing the hurt swarm to enter consuming them.
+- Skógur takes bathroom break in the corner and several swarms of rats start to attack and attach themselves to us.
+- The Monks take to the [Hamboning method](https://www.youtube.com/watch?v=QJF3pAFzOwY&t=25s) to get rats off of us which works!
+
+### 50 Dead Rats on the Floor, A Mouth and No Idea What to Do
+- As we move forward after the rat slaying we notice that water we've been walking through seems to get deeper the further and further we move.
+- Unsure of what lies ahead and the weird mouth that swallowed some rats previously the party throws a dead rat towards the mouth's location. On queue, it eats the rat as soon as it hits the water. We got ourselves a situation.
+
+## Hit em' in the Mouth
+- The party pairs off and ties themselves together with rope just in case something bad happens. Skógur with his nasty feet and low strength is the only one left out but hopefully he can move swiftly to get around any dangerous situations.
+- As we approach we notice that the mouth is indeed a mouth and it belongs to a stupidly large frog.
+- Planning out how we get around the frog Skógur cautiously grabs a handful of rats be their tails between each of his fingers as bait.
+- Slowly but surely the party walks forward towards the frog and when trying to pass by Skógur puts one of the rats he picked up on the end of his quarterstaff and puts it in front of the large mouth while trying to sneak by.
+- It chomps down and almost takes the staff away showing in the process it knows there are more than just measly rats to eat and there is a better meal sifting through the water.
+- This dude is dangerous but Pan has a plan and successfully animal handles the frog to give us passage by it.
+- As we pass we notice the water gets deeper as it descends down a few steps kind of like a nightmare swimming pool with no room to poke your head up for air.
+- Pan goes ahead into the water and gets got by a humongous toad which swallows (kinda, more grappled by it) even after successfully animal handling the smaller lad before.
+- Able to see the distress under the water Skógur dives in after Pan to save her but on Freya's turn she is able to get Pan out of the clutches of the Giant Toad's mouth. Skógur looks a bit f'd here boys and girls but thankfully at least Pan is out of the water. If she had been in the Toad's mouth any longer (10 HP of damage for each turn) we may have had our first campaign casualty.
+  - FYI, swim is distance is your speed divided by 2. Holding your breath is a +1 constitution modifier.
+  - Since we are in water weapon effectiveness and spells that are counter intuitive to the situation are at the least at disadvantage.
+- Skógur is able to escape unscathed from the Giant Toad but Virra after going after the big lad is swallowed by it. Some cats can't catch a break.
+- After seeing Pan's near death experience the party throws away their fears and dives in to save Virra.
+- Fists fly slowly taking away HP from the Toad and the combat ends with a final strike from Freya's trident.
+
+## Legend of Zelda, Water Temple on Steroids
+- With the Toad vanquished the party veers off in two directions under the water in the cavern.
+- The group led by Pan goes left past the fork in the cavern and encounters a chest. It is adorned with numbered dials and a slot for gold pieces to be placed into.
+
+### Playing the Slots
+- Pan and the rest of the compadres start pumping gold into the chest.
+- After the first coin, the dials change to 3 - 3 - 4. Trying again, 1 - 1 - 2, no dice. After burning through another 4 gold pieces a lucky number 7 dice roll occurs and boom the chest opens!
+- What's in the box?
+  - Large stock of coins (64 in total)
+  - Split the pot amongst them as the children and the rest of the party are alone away from the fortune.
+  - A coin that looks like a ordinary copper piece but has 2 heads on both sides is found rummaging through the chest which Pan nabs.
+  - As Pan holds it she realizes there is something special about it. One check later it is found out that it makes you lucky, and we out here trying to get lucky.
+    - Message from the DM: _"Note that the lucky coin Pan got is a magical item that doesn't require attunement so it doesn't necessarily have to be Pan who uses it. she could through it to Skogur for example before he makes a daring leap across a ravine to give him advantage on his Acrobatics check."_
+
+### Two Monks, a Dragon and some Kids Walk into a Swim Up Bar
+- Freya, Rez, Skógur and the chitlens venture to the right as they try to figure things out unbeknownst that Pan and friends found anything on the other side. They all swim up a path out of the water and see a lever and doorway.
+- Muffles of shouting from other side "We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"
+
+**Next session will be played on Wednesday May 5th to celebrate Cinco de Mayo and hopefully get out alive!**
 
 ------------
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
