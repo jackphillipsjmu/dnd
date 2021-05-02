@@ -590,14 +590,14 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ## Test Your Might, Skill Challenge
 - We gotta make it to those doors!
-- Virra fails with a quick step from someone in the crowd stepping on her tail after an impressive natural 1 roll.
+- Virra fails to make it through the crowd after someone steps on her tail after an impressive natural 1 roll.
 - The Monks in the party, Freya and Skógur, ban together to part the Red Sea of people with their quarterstaff's. As they make their way through the crowd the Monks almost make it to the door while the rest of the party is left in the dust. The door quickly closing on people trying to get inside and out of danger.
 - Pan casts entangle to grab the zombies near the gate to hold them off as they make their way to the Temple.
-- Rez tries to push through the crowd using her impeccable strength and it is successful. Making it all the way to the doors of the temple as the last few trickle in. Unfortunately, the door closes right as she arrives. Parties over.
+- Rez tries to push through the crowd using her impeccable strength and it is successful! She amkes it all the way to the doors of the temple as the last few trickle inside. Unfortunately, the door closes right as she arrives she can squeek in. **Parties over**.
 - With the gates closed and little hope left, a woman says from up top in a window in the Temple says to take out the undead and we will be let inside.
   - Way too many to take on all at once with our level 2 stats.
-  - Luckily for us the woman chants an incantation to "bless up" the party.
-- Quick hits on the zombies at the door to start and a swing and a miss by several of the undead. Things are looking good... For now.
+  - Luckily for us the woman chants an incantation to _"bless up"_ the party.
+- Quick hits on the zombies ensue at the door to start combat and a swing and a miss by several of the undead means we're still in fighting shape. Things are looking good... For now.
 - Virra continues to roll some bad dice and fails to light an arrow on fire ending her turn.
 - Arrows begin to pepper the landscape as skeleton archers make it rain around us focusing their fire on Pan who clings to life with minimal HP.
 - After a few rounds of combat we're able to take out enough of the undead for the woman to let us in. As we rush inside Virra tries to shoot one of the undead, misses, but hits one behind it. So, not all for null.
