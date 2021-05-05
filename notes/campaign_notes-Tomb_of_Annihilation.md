@@ -590,17 +590,21 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ## Test Your Might, Skill Challenge
 - We gotta make it to those doors!
-- Virra fails to make it through the crowd after someone steps on her tail after an impressive natural 1 roll.
+- Virra fails to make it through the crowd after someone steps on her tail due to an impressive natural 1 roll.
 - The Monks in the party, Freya and Skógur, ban together to part the Red Sea of people with their quarterstaff's. As they make their way through the crowd the Monks almost make it to the door while the rest of the party is left in the dust. The door quickly closing on people trying to get inside and out of danger.
 - Pan casts entangle to grab the zombies near the gate to hold them off as they make their way to the Temple.
-- Rez tries to push through the crowd using her impeccable strength and it is successful! She amkes it all the way to the doors of the temple as the last few trickle inside. Unfortunately, the door closes right as she arrives she can squeek in. **Parties over**.
-- With the gates closed and little hope left, a woman says from up top in a window in the Temple says to take out the undead and we will be let inside.
+- Rez tries to push through the crowd using her impeccable strength and it is successful! She makes it all the way to the doors of the temple as the last few trickle inside. Unfortunately, the door closes right as she arrives she can't squeak in. **Parties over**.
+- With the gates closed and little hope left, a woman says from a window above us in the Temple to take out the undead and we will be let inside.
   - Way too many to take on all at once with our level 2 stats.
-  - Luckily for us the woman chants an incantation to _"bless up"_ the party.
-- Quick hits on the zombies ensue at the door to start combat and a swing and a miss by several of the undead means we're still in fighting shape. Things are looking good... For now.
+  - Luckily for us the woman chants an incantation to **_"bless up"_** the party.
+- Quick hits on the zombies ensue at the door to start combat and a swing and a miss by several of the undead means we're still in fighting shape. Things are looking good... _For now_.
 - Virra continues to roll some bad dice and fails to light an arrow on fire ending her turn.
 - Arrows begin to pepper the landscape as skeleton archers make it rain around us focusing their fire on Pan who clings to life with minimal HP.
 - After a few rounds of combat we're able to take out enough of the undead for the woman to let us in. As we rush inside Virra tries to shoot one of the undead, misses, but hits one behind it. So, not all for null.
+
+<p align="center">
+  <img src="img/zombiehorde.jpg">
+</p>
 
 ## When You Call My Name it's Like a Little Prayer
 - Burst inside, shut the door and catch our breath as more undead rush to the Temple. It won't be long until they break through and ravage us and the occupants of the Temple.
@@ -614,13 +618,13 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ## Tales of the Crypt
 - At the back of the crypt a statue with a coin is being held face down looking over the resting places of the elders.
-- After a drawn out discussion the undead have broken into the Temple. In a haste Clara flips coin over and a path is revealed behind the statue.
-- Get our marching order and go down the opened path to try and escape with us leading the pack and Clara and the children closely behind.
+- After a drawn out discussion the undead have broken into the Temple. In a haste, Clara flips the coin over and a path is revealed behind the statue.
+- We get our marching order and go down the opened path to try and escape with the party leading the pack and Clara and the rest of the children closely behind.
 
 ### Charlie Kelly: King of the Rats
 - Freya having the highest AC bravely goes first into the darkness while swarms of rats attack her with a vengeance.
-- After hitting one swarm it fleas into a mouth that opens up allowing the hurt swarm to enter consuming them.
-- Skógur takes bathroom break in the corner and several swarms of rats start to attack and attach themselves to us.
+- After hitting one swarm in it's whiskers they flee into a mouth that opens up down the path allowing the hurt swarm to be consumed.
+- Skógur takes bathroom break in the corner and several swarms of rats start to attack and attach themselves to several party members.
 - The Monks take to the [Hamboning method](https://www.youtube.com/watch?v=QJF3pAFzOwY&t=25s) to get rats off of us which works!
 
 ### 50 Dead Rats on the Floor, A Mouth and No Idea What to Do
