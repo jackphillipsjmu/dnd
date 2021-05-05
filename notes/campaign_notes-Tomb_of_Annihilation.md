@@ -663,7 +663,8 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ### Two Monks, a Dragon and some Kids Walk into a Swim Up Bar
 - Freya, Rez, Skógur and the chitlens venture to the right as they try to figure things out unbeknownst that Pan and friends found anything on the other side. They all swim up a path out of the water and see a lever and doorway.
-- Muffles of shouting from other side _"We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"_.
+- Muffles of shouting from other side:
+  - _"We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"_.
 
 **Next session will be played on Wednesday May 5th to celebrate Cinco de Mayo and hopefully get out alive!**
 
