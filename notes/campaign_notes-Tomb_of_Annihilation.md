@@ -633,15 +633,15 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ## Hit em' in the Mouth
 - The party pairs off and ties themselves together with rope just in case something bad happens. Skógur with his nasty feet and low strength is the only one left out but hopefully he can move swiftly to get around any dangerous situations.
-- As we approach we notice that the mouth is indeed a mouth and it belongs to a stupidly large frog.
-- Planning out how we get around the frog Skógur cautiously grabs a handful of rats be their tails between each of his fingers as bait.
-- Slowly but surely the party walks forward towards the frog and when trying to pass by Skógur puts one of the rats he picked up on the end of his quarterstaff and puts it in front of the large mouth while trying to sneak by.
-- It chomps down and almost takes the staff away showing in the process it knows there are more than just measly rats to eat and there is a better meal sifting through the water.
-- This dude is dangerous but Pan has a plan and successfully animal handles the frog to give us passage by it.
+- As the party approaches the mouf they notice that is is indeed a mouth and it belongs to a stupidly large frog.
+- Planning out how we get around the frog Skógur cautiously grabs a handful of rats by their tails lacing them between each of his fingers as bait.
+- Slowly but surely the party walks forward towards the frog and when trying to pass by Skógur puts one of the rats he picked up on the end of his quarterstaff putting it in front of the large mouth.
+- It chomps down and almost takes the staff away showing in the process it knows there are more than just measly rats to eat and a better meal is sifting through the water.
+- This dude is dangerous but Pan has a plan and successfully animal handles the frog to give us passage by it. Suck it.
 - As we pass we notice the water gets deeper as it descends down a few steps kind of like a nightmare swimming pool with no room to poke your head up for air.
 - Pan goes ahead into the water and gets got by a humongous toad which swallows (kinda, more grappled by it) even after successfully animal handling the smaller lad before.
-- Able to see the distress under the water Skógur dives in after Pan to save her but on Freya's turn she is able to get Pan out of the clutches of the Giant Toad's mouth. Skógur looks a bit f'd here boys and girls but thankfully at least Pan is out of the water. If she had been in the Toad's mouth any longer (10 HP of damage for each turn) we may have had our first campaign casualty.
-  - FYI, swim is distance is your speed divided by 2. Holding your breath is a +1 constitution modifier.
+- Able to see the distress under the water Skógur dives in after Pan to save her but on Freya's turn she is able to get Pan out of the clutches of the Giant Toad's mouth. Skógur looks a bit f'd here boys and girls but thankfully at least Pan is out of the water. If she had been in the Toad's mouth any longer _(10 HP of damage for each turn)_ we may have had our first campaign casualty.
+  - **FYI, swim is distance is your speed divided by 2. Holding your breath is a +1 constitution modifier**.
   - Since we are in water weapon effectiveness and spells that are counter intuitive to the situation are at the least at disadvantage.
 - Skógur is able to escape unscathed from the Giant Toad but Virra after going after the big lad is swallowed by it. Some cats can't catch a break.
 - After seeing Pan's near death experience the party throws away their fears and dives in to save Virra.
@@ -649,21 +649,21 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ## Legend of Zelda, Water Temple on Steroids
 - With the Toad vanquished the party veers off in two directions under the water in the cavern.
-- The group led by Pan goes left past the fork in the cavern and encounters a chest. It is adorned with numbered dials and a slot for gold pieces to be placed into.
+- The group led by Pan goes left past the fork in the cavern and encounters a chest. It is adorned with numbered dials and a slot for gold pieces to be placed into it.
 
 ### Playing the Slots
 - Pan and the rest of the compadres start pumping gold into the chest.
-- After the first coin, the dials change to 3 - 3 - 4. Trying again, 1 - 1 - 2, no dice. After burning through another 4 gold pieces a lucky number 7 dice roll occurs and boom the chest opens!
-- What's in the box?
+- After the first coin, the dials change to `3 - 3 - 4`. Trying again, `1 - 1 - 2`, no dice. After burning through another 4 gold pieces a lucky number 7 dice roll occurs and boom the chest opens!
+- **What's in the box?!**
   - Large stock of coins (64 in total)
   - Split the pot amongst them as the children and the rest of the party are alone away from the fortune.
-  - A coin that looks like a ordinary copper piece but has 2 heads on both sides is found rummaging through the chest which Pan nabs.
+  - A coin that looks like a ordinary **copper piece but has 2 heads on both sides** is found rummaging through the chest which Pan nabs.
   - As Pan holds it she realizes there is something special about it. One check later it is found out that it makes you lucky, and we out here trying to get lucky.
     - Message from the DM: _"Note that the lucky coin Pan got is a magical item that doesn't require attunement so it doesn't necessarily have to be Pan who uses it. she could through it to Skogur for example before he makes a daring leap across a ravine to give him advantage on his Acrobatics check. But it's once use per day no matter who uses it"_
 
 ### Two Monks, a Dragon and some Kids Walk into a Swim Up Bar
 - Freya, Rez, Skógur and the chitlens venture to the right as they try to figure things out unbeknownst that Pan and friends found anything on the other side. They all swim up a path out of the water and see a lever and doorway.
-- Muffles of shouting from other side "We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"
+- Muffles of shouting from other side _"We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"_.
 
 **Next session will be played on Wednesday May 5th to celebrate Cinco de Mayo and hopefully get out alive!**
 
