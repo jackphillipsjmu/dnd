@@ -20,6 +20,8 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - [Session Four](#session_four)
 - [Session Five](#session_five)
 - [Session Six](#session_six)
+- [Session Seven](#session_seven)
+- [Session Eight](#session_eight)
 
 ---
 ## <a name="session_one"></a>Session One
@@ -300,7 +302,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 #### Back at the Table
 - Makao teaches us a Chult drinking game involving coins while enjoying the honey brew.
-- Half-orc priest with a gauntlet on her chest approaches us asking if we're adventurers.
+- Undril Silvertusk, Half-orc priest with a gauntlet on her chest approaches us asking if we're adventurers.
   - Undril Silvertusk is a member of the order of the Gauntlet and overheard that we'd be adventuring in the forest soon. She has come to rid Chult of the undead and also help out a local Camp who are in need. Her initial plan was to go out on her own with a horse but the terrain is too hazardous to do so and wants us to join in her quest.
   - Two camps are Camp Righteous and Camp Vengeance. Undril needs to deliver herself plus a packet of dispatches from her superiors to Commander Niles Breakbone at Camp Vengeance.
   - Noble member and is not looking for gold or valuables.
@@ -585,7 +587,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 <p align="center">
   <img src="img/malars_throat_temple.png">
-  <p align="center"><em>Malar's Throat</em>.</p>
+  <p align="center"><em>Malar's Throat</em></p>
 </p>
 
 ## Test Your Might, Skill Challenge
@@ -666,7 +668,80 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Muffles of shouting from other side:
   - _"We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"_.
 
-**Next session will be played on Wednesday May 5th to celebrate Cinco de Mayo and hopefully get out alive!**
+------------
+## <a name="session_seven"></a>Session Seven
+
+## What's that Sound?
+- After the rest of the Party joins Freya, Rez and Skógur they notice a crack where the muffled shouting was coming from.
+- Rez pulls to lever to reveal a dark sewer so most of the party cannot see a thang.
+- To the right in the sewer is a thick metal grate, to the left is debris. In front is a path forward that leads to a door.
+- Pan approaches first and is able to hear voices. After a perception check she can only make out that Chultan men are talking.
+- Freya takes a stab at it and is able to hear, "Where's the rest of the shipment?!" then a threat to start cutting of digits of whoever they're yelling at behind the door. Mentions  of a Secret Trove and a void pleading with the angered men stating that they don't have any of the other things they want and only have Dancing Monkey Fruit.
+- _Note: The reason why the Zombie horde isn't right behind us is because they can't swim! Not 28 Days Later Zombies I guess._
+
+### Knock Knock It's a Dragon
+- After being told of what was overheard behind the door Rez bursts open the door with her War Hammer.
+- Surveying the room 2 men are dead on the floor and one that is still alive with a missing finger (Wakko). A large man (Grim of the Zhentarim) with a scar across his white eye is looming over the bleeding man.
+- The men that were yelling are dressed in all black (Grim and his gang of Thugs) while the dead men/Freddie Got Fingered (Wakko, Bandits) are in dingy garbs.
+- As we all are preparing for battle to start Rez tries to reason with the black cloaked men, which after some banter, the situation is resolved without violence.
+- Grim and his thugs take off leaving the Party and Wakko along in the sewer system.
+
+## Wakko-Mole
+- After disarming the situation, Wakko reveals a hidden door which leads to a room where there are casks lining the walls. Exactly what Grim was asking for.
+- Wakko is a member of "The Net" and smuggles valuables under the noses of the Merchant Princes.
+- He points out a sewer leading in and out of the port which is there way of going unnoticed with contraband.
+
+### What's in the Casks?
+- Drugs, lots and lots of drugs.
+- "Rot" is one of the things The Net sells and is distilled from Jungle undead. It causes people to not need sleep or food but are lackadaisical. Other hallucinogenic things such as Dream Tincture are for sale as well which the party buys after some bartering.
+  -  Rot could be helpful for Chult!
+- Wakko tells us if we're in need of any drugs or information to ask for The Net.
+- Before the party leaves they take a Short Rest in a neighboring room.
+
+### Do it for the Kids
+- Since the squad saved Sister Clara and the children as a reward she sets up a meeting with Grandfather Zatembei from the Temple of Savros.
+- Pan creates some berries for the wee ones to take and they head out to the Golden Temple.
+  - Hall of Gold: God of Wua-Keen-Pheonix
+- After a tough grind through the sewers there's only one thing to do.
+
+## House of Repose, You still here Undril?
+- Party heads to the house of Repose and spots Undril is still there mulling about the bar.
+- Virra decides to break out some jams and has to perform 3 performance checks to be paid at the end of the night. After shaking off the jitter and with a little inspiration and cheering for the party Virra serenades the crowd and maintains her position as top Cat musician, aside from maybe Cloud on the Mountain Top.
+- We hear that the Dragon races are taking place tomorrow and we should sign up or bet on them to try and win some money. Which the party plans to do!
+
+## Check in on Gramps
+- Party heads out from the House of Repose to the Temple of Savros.
+- Hearing chatter walking into the temple we hear an older man (member of Savros/the All Seeing Eye Temple - symbol is an Unblinking eye looking to the sky) mutter to 3 people,
+  - "We will not help with the search" says the 3 people.
+  - "Just Help" the Temple Bro rebutes.
+  - "Nah, not worth it"
+  - "K. Sorry I asked"
+- We walk in further to find Grandfather Zatembei and Sister Clara. After introductions, queue the vision.
+-  Grandfather Zatembei sees a vision when asked to give guidance for our quest to learn about the death curse. "A jungle city in enclosed cliffs, snacks, black obelisk drenched in vines" (this might be the SOUL MONGERER) we ask Sister Clara about the Yuanti to see if there is a connection between them, their evil gods and the death curse. Not much comes of this so more exploring to be had.
+- We're quickly escorted away after the heavy vision and head to the Dinosaur races.
+
+## I Want To Ride My Dinosaur
+- Arriving at the Coliseum the party bets on a few races we aren't participating in.
+- After selecting our mount and taking to the course in a stunning victory Pan wins the last race and receives
+  - A Bejeweled ring. This provides advantage on survival and animal handling checks
+  - Fat sack of jewels including 100 gold pieces worth of emeralds.
+  - Invited to dine with Kwayothe or any of the Merchant Princes. Parties choice!
+    - Kwayothe is the merchant of Wine, ale, rain catchers, bug spray's, etc. that can help throughout the journey. Help fight off throat leaches and other nasty things.
+    - Wakanga is a friend of Syndra Silvane and presides over magic and lore.
 
 ------------
+## <a name="session_eight"></a>Session Eight
+
+- With the sack of jewels in hand the party heads to the Thundering Lizard from the Coliseum.
+- A bit difficult to get there given it's GAME DAY! But they arrive and buy ale at 1 Gold Piece each.
+- We see River Mist and Flask of Wine who are heading out on their own adventure. They're with a man bearing a blue ring. Freya notices the ring and marches to the man.
+- After a confrontation with the him about the ring he says it was stolen from his former employer. It is revealed that the ring belonged to her Father who was murdered by Pirates of the Chultians.
+  - Man tells us when his former employers ship sets off a storm conceals them hinting towards magic being used to cover their trails.
+  - Talk to Ra-zee-ra in the future about this.
+- The rest of the party thinks it's time for some fun and begins another game of Flipith' Thy Cup! Unfortunately, after some low AF dice rolls we end up losing the game.
+
+_**TODO: Complete the Notes for this Session**_
+
+------------
+
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
