@@ -796,13 +796,13 @@ _**TODO: Complete the Notes for this Session**_
   - Rivers are lazy so going up and down isn't a big deal.
   - Sindra, thinks Death Curse is coming from inland.
 - Still need to pickup Wild Root since we aren't impervious to poison. That's handled quickly while putzing around the city before we head out on our canoes.
-- WE notice a huge statue of Chultin King adorned in a leopard skin and head dress of feathers, dinosaur teeth pooka shell necklace and other Chult-ish garb. This is in the middle of the harbor in the water. Maybe we fight a giant later?
+- We notice a huge statue of Chultin King adorned in a leopard skin and head dress of feathers, dinosaur teeth pooka shell necklace and other Chult-ish garb. This is in the middle of the harbor in the water. Maybe we fight a giant later?
 - Break up into groups of 4, the party minus Pan and Pan and the rest of the NPC crew.
 - Make it around Port Nyanzaru and leave the city behind.
 
 ### Welcome to the Jungle
 - Mid day and it starts to rain a little bit.
-- Qawasha starts talking to Pandas  
+- Qawasha starts talking to Pan:  
   - Qawasha, "There's another reason to journey into the jungle, Weed's family is in danger. He's from a small town called DE-TIE-TA. Hasn't been there before but it's deep in the jungle near KEEL-SA-BALL. Heard of evil bringing destruction of the Vegepygmies. Weed was informed by the chief to get out alive"
   - Does not know why they were targeting the weed-folk
   - Thinks it's linked to some evil that has lingered for a while in Chult.
@@ -828,38 +828,39 @@ _**TODO: Complete the Notes for this Session**_
 - On the other (right) side, Skogur misses an attack, Freya misses netting the sucka but Virra jumps on it's back like a boss.
 - Virra dodges attacks and stays on board of the dinosaur
 - Back to the left hand side of the river.
-- Qawasha rains down flames on the dinosaurs and apologies to the beast after hitting them.
-- After bloodying the left hand dino it swims away.
-- Other dino flips the canoe with Skog-daddy and the rest of the party plunging us into the water.
-- Freya gets got with a monster bite
-- Skogur disengages and swims to Freya and hands off a healing potion to get some HP.
-- Canoes are moving in the water as everyone is out of the canoes.
-- After some more hits the second dino swims away.
-- After catching our breath we grab the canoes down river and set off again down the river.
+  - Qawasha rains down flames on the dinosaurs and apologies to the beast after hitting them.
+  - After bloodying the left hand dino it swims away.
+- Back to the right side of the map, the other dino flips the canoe with Skog-daddy and the rest of the party inside plunging us into the water.
+- Freya gets got with a monster bite and clings on to life since she's strong af.
+- Skogur disengages then swims to Freya and hands off a healing potion to get some HP.
+- The river isn't as calm as we thought and the canoes are moving in the water downstream as everyone has been flung out of the canoes.
+- Using a combination of land, air and see attacks the second dino swims away.
+- Catching our breath we grab the canoes down river and set off again.
 
 ### Deadly Sight Seeing
 - The Party spots something around the river bend as we coast along.
 - Getting a little thirsty on the boat since each person needs to drink 2 gallons of water per day.
-- See something jump between trees overhead.
-- Totems with a huge wooden mask carved onto it with a picture of an ant.
+- See something jump between trees overhead but shrug it off. What could be so dangerous?
+- A totem with a huge wooden mask carved onto it with a picture of an ant.
   - Pan makes a Wisdom and notices that it is a warning/territory marker.
-  - Qawasha says it's the golem tribe, they will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can.
-- Continue on down the river and heavy ran begins we decide to pull over and try to get out of the elements and capture some much needed H2O.
+  - Qawasha says it's the Golem Tribe, "They will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can."
+- Continue on down the river and heavy ran starts to fall.
+- We decide to pull over and try to get out of the elements and capture some much needed H2O.
   - Cannot take a long rest with heavy rain.
 - Try to take canoes in further from the river for safety but can't find cover. Found an elevated rock formation to get us off the muddy jungle floor though
   - Did stumble across an unarmored humanoid, lashed around a tree tightly by vines. ITS A TRAP?
   - More bodies lashed to trees
   - Find thieves tools under the body of one of the body after a solid D-100 throw of 91.
-- Pan takes first watch on the top side of camp.
+- As night falls, Pan takes first watch on the top side of camp.
 - Weed and Qawasha snuggle up in a leaf den that pops out of nowhere.
-- Skogur and Undril get cozy on the bottom side of the camp.
+- Skogur and Undril get cozy on the bottom side of the camp. Big will they won't they situation as Skogur see's it.
 - The rest of the party breaks out and tries to get a short rest in as the rain continues to fall.
 
 ### Grungus Amongus
 - While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descends upon the camp.
-- We can't hear or see much due to the heavy rain and the darkness so Pan's warning's fall on deaf ears.
+- We can't hear or see much due to the heavy rain and darkness so Pan's warning's fall on deaf ears.
 - Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
-- Pan fails to light a tree on fire and kill one of the froggy freshes.
+- Pan fails to light a tree on fire and kill one of the froggy fresh's.
 
 <p align="center">
   <img src="img/session_nine_grungs.jpg" width="350" height="250">
