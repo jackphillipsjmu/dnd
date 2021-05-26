@@ -14,15 +14,15 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 | [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
 
 ## Session Notes
-- [**Session One**: In the Beginning, there are 5 adventurers.](#session_one)
-- [**Session Two**: Land to Sea](#session_two)
-- [**Session Three**: The Turtles are Huge Near Chult](#session_three)
-- [**Session Four**: Snake People and Dinosaurs](#session_four)
-- [**Session Five**: I'm Not Drunk, You're Drunk Veggie Man!](#session_five)
-- [**Session Six**: Let's go to the Winchester, have a nice cold pint, and wait for this all to blow over.](#session_six)
-- [**Session Seven**: Rags to Riches](#session_seven)
-- [**Session Eight**: Run the Jewels](#session_eight)
-- [**Session Nine**: Jungle Boogie (Part 1)](#session_nine)
+- [**Session One**: _In the Beginning, there are 5 adventurers_](#session_one)
+- [**Session Two**: _Land to Sea_](#session_two)
+- [**Session Three**: _The Turtles are Huge Near Chult_](#session_three)
+- [**Session Four**: _Snake People and Dinosaurs_](#session_four)
+- [**Session Five**: _I'm Not Drunk, You're Drunk Veggie Man!_](#session_five)
+- [**Session Six**: _Let's go to the Winchester, have a nice cold pint, and wait for this all to blow over_](#session_six)
+- [**Session Seven**: _Rags to Riches_](#session_seven)
+- [**Session Eight**: _Run the Jewels_](#session_eight)
+- [**Session Nine**: _Jungle Boogie (Part 1)_](#session_nine)
 
 ---
 ## <a name="session_one"></a>Session One
