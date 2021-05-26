@@ -880,6 +880,7 @@ _**TODO: Complete the Notes for this Session**_
   - This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your Proficiency Bonus to any Ability Checks you make to Disarm traps or open locks (D&D 5e).
 
 [_Back to Top_](#top_of_page)
+
 ------------
 
 
