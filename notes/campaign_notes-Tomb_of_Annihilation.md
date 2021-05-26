@@ -22,6 +22,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - [Session Six](#session_six)
 - [Session Seven](#session_seven)
 - [Session Eight](#session_eight)
+- [Session Nine](#session_nine)
 
 ---
 ## <a name="session_one"></a>Session One
@@ -734,13 +735,105 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 - With the sack of jewels in hand the party heads to the Thundering Lizard from the Coliseum.
 - A bit difficult to get there given it's GAME DAY! But they arrive and buy ale at 1 Gold Piece each.
-- We see River Mist and Flask of Wine who are heading out on their own adventure. They're with a man bearing a blue ring. Freya notices the ring and marches to the man.
+  - Bartender seems to know some information but unfortunately cannot perceive it.
+- We see River Mist and Flask of Wine (Tabaxi Guides) who are heading out on their own adventure. They're with a man bearing a blue ring. Freya notices the ring and marches to the man.
 - After a confrontation with the him about the ring he says it was stolen from his former employer. It is revealed that the ring belonged to her Father who was murdered by Pirates of the Chultians.
   - Man tells us when his former employers ship sets off a storm conceals them hinting towards magic being used to cover their trails.
   - Talk to Ra-zee-ra in the future about this.
 - The rest of the party thinks it's time for some fun and begins another game of Flipith' Thy Cup! Unfortunately, after some low AF dice rolls we end up losing the game.
+- Meet with Merchant and get some solid advice.
+- Kwayothe sleeps outside as we take up room and board inside.
+
+### Peoples, Places, Things
+- Artus Cimber: Adventurer
+  - Ring of winter: Prevents divination magic. Gold ring un-trackable and immortal. Cut off hand to get ring.
+- Eshowdow: Dark demigod of shadow, destruction, cowardice and fear worshiped in Chult.
+- Wild Root: Introducing the juice of a wildroot into a poisoned creature's bloodstream (for example, by rubbing it on an open wound) rids the creature of the poisoned condition. Once used in this way, a wildroot loses this property.
 
 _**TODO: Complete the Notes for this Session**_
+
+------------
+## <a name="session_nine"></a>Session Nine
+
+## Jungle Preppin'
+- Wake up to a knock at the door that Breakfast is served downstairs.
+  - Breads, cheeses and a sweeter Tej than we're used to.
+- The Party is asked if they, "Want to buy a Pack Mule?""
+  - Velociraptors would require meat so could get hairy-scary.
+  - Other dinosaurs are herbivores and could forage for themselves.
+- Advice given to us:
+  - "Stay aware, don't keep your guard down even when camping"
+  - Rivers are lazy so going up and down isn't a big deal.
+  - Sindra, thinks Death Curse is coming from inland.
+- Still need to pickup Wild Root since we aren't impervious to poison. That's handled quickly while putzing around the city before we head out on our canoes.
+- WE notice a huge statue of Chultin King adorned in a leopard skin and head dress of feathers, dinosaur teeth pooka shell necklace and other Chult-ish garb. This is in the middle of the harbor in the water. Maybe we fight a giant later?
+- Break up into groups of 4, the party minus Pan and Pan and the rest of the NPC crew.
+- Make it around Port Nyanzaru and leave the city behind.
+
+## Welcome to the Jungle
+- Mid day and it starts to rain a little bit.
+- Kawashi starts talking to Pandas  
+  - Kawashi, "There's another reason to journey into the jungle, Weed's family is in danger. He's from a small town called DE-TIE-TA. Hasn't been there before but it's deep in the jungle near KEEL-SA-BALL. Heard of evil bringing destruction of the Vegepygmies. Weed was informed by the chief to get out alive"
+  - Does not know why they were targeting the weed-folk
+  - Thinks it's linked to some evil that has lingered for a while in Chult.
+  - Agree to help each other and Weed hugs Pan around the leg.
+  - Druid may be involved with the destruction. May not be in their right mind anymore.
+  - Don't know a name, kind of druid, etc.
+- Kawashi, "Do you see that?" two large figures appear in the water about 200 feet from us.
+- Now 150 feet away, it looks like 2 creatures battling in the water.
+  - See that it's a dinosaur, after a nature check it's discovered they're Plesiosaurus (long neck and sharp teeth)
+  - Fighting over a giant dead Octopus. [It's a Water Animal](https://youtu.be/ltFB4WBdDg4?t=122)
+  - In the fight before they've bitten each other and injured themselves
+  - As we approach they start swimming towards us!
+- Animal handling check reveals their territorial so get ready for a bumpy ride.
+
+### Oh Lord They Chargin'
+- Few misses on the dino nugs part to start out, looking hot here team.
+- Dino at Pan's canoe flips it and all the members enter the water resulting in Pan getting a major bite.
+- Pan's canoe members start jumping ship and heading to land as the canoe drifts down the river.
+- On the other (right) side, Skogur misses an attack, Freya misses netting the sucka but Virra jumps on it's back like a boss.
+- Virra dodges attacks and stays on board of the dinosaur
+- Back to the left hand side of the river.
+- Kawashi rains down flames on the dinosaurs and apologies to the beast after hitting them.
+- After bloodying the left hand dino it swims away.
+- Other dino flips the canoe with Skog-daddy and the rest of the party plunging us into the water.
+- Freya gets got with a monster bite
+- Skogur disengages and swims to Freya and hands off a healing potion to get some HP.
+- Canoes are moving in the water as everyone is out of the canoes.
+- After some more hits the second dino swims away.
+- After catching our breath we grab the canoes down river and set off again down the river.
+
+## Deadly Sight Seeing
+- The Party spots something around the river bend as we coast along.
+- Getting a little thirsty on the boat since each person needs to drink 2 gallons of water per day.
+- See something jump between trees overhead.
+- Totems with a huge wooden mask carved onto it with a picture of an ant.
+  - Pan makes a Wisdom and notices that it is a warning/territory marker.
+  - Kawashi says it's the golem tribe, they will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can.
+- Continue on down the river and heavy ran begins we decide to pull over and try to get out of the elements and capture some much needed H2O.
+  - Cannot take a long rest with heavy rain.
+- Try to take canoes in further from the river for safety but can't find cover. Found an elevated rock formation to get us off the muddy jungle floor though
+  - Did stumble across an unarmored humanoid, lashed around a tree tightly by vines. ITS A TRAP?
+  - More bodies lashed to trees
+  - Find thieves tools under the body of one of the body after a solid D-100 throw of 91.
+- Pan takes first watch on the top side of camp.
+- Weed and Kawashi snuggle up in a leaf den that pops out of nowhere.
+- Skogur and Undril get cozy on the bottom side of the camp.
+- The rest of the party breaks out and tries to get a short rest in as the rain continues to fall.
+
+## Grungus Amongus
+- While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descends upon the camp.
+- We can't hear or see much due to the heavy rain and the darkness so Pan's cries of attack fall on deaf ears.
+- Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
+- Pan fails to light a tree on fire and kill one of the froggy freshes
+- As the frogs jump between the trees Waaka nuts are knocked down and start to illuminate the camp.
+- Vicious strikes on the frogs fall like the pouring rain now that everyone can see.
+- Leader/General Froggo is a poisonous bastard and gives us some trouble but eventually combat is over and we're all still in one piece.
+
+## Things to Note!
+- Gotta call out opportunity attacks
+- Call out reactions, if you see something hit it.
+- Bonus Actions can be done before Actions, and of coarse vice versa.
 
 ------------
 
