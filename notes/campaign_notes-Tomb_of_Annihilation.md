@@ -773,14 +773,14 @@ _**TODO: Complete the Notes for this Session**_
 
 ## Welcome to the Jungle
 - Mid day and it starts to rain a little bit.
-- Kawashi starts talking to Pandas  
-  - Kawashi, "There's another reason to journey into the jungle, Weed's family is in danger. He's from a small town called DE-TIE-TA. Hasn't been there before but it's deep in the jungle near KEEL-SA-BALL. Heard of evil bringing destruction of the Vegepygmies. Weed was informed by the chief to get out alive"
+- Qawasha starts talking to Pandas  
+  - Qawasha, "There's another reason to journey into the jungle, Weed's family is in danger. He's from a small town called DE-TIE-TA. Hasn't been there before but it's deep in the jungle near KEEL-SA-BALL. Heard of evil bringing destruction of the Vegepygmies. Weed was informed by the chief to get out alive"
   - Does not know why they were targeting the weed-folk
   - Thinks it's linked to some evil that has lingered for a while in Chult.
   - Agree to help each other and Weed hugs Pan around the leg.
   - Druid may be involved with the destruction. May not be in their right mind anymore.
   - Don't know a name, kind of druid, etc.
-- Kawashi, "Do you see that?" two large figures appear in the water about 200 feet from us.
+- Qawasha, "Do you see that?" two large figures appear in the water about 200 feet from us.
 - Now 150 feet away, it looks like 2 creatures battling in the water.
   - See that it's a dinosaur, after a nature check it's discovered they're Plesiosaurus (long neck and sharp teeth)
   - Fighting over a giant dead Octopus. [It's a Water Animal](https://youtu.be/ltFB4WBdDg4?t=122)
@@ -795,7 +795,7 @@ _**TODO: Complete the Notes for this Session**_
 - On the other (right) side, Skogur misses an attack, Freya misses netting the sucka but Virra jumps on it's back like a boss.
 - Virra dodges attacks and stays on board of the dinosaur
 - Back to the left hand side of the river.
-- Kawashi rains down flames on the dinosaurs and apologies to the beast after hitting them.
+- Qawasha rains down flames on the dinosaurs and apologies to the beast after hitting them.
 - After bloodying the left hand dino it swims away.
 - Other dino flips the canoe with Skog-daddy and the rest of the party plunging us into the water.
 - Freya gets got with a monster bite
@@ -810,7 +810,7 @@ _**TODO: Complete the Notes for this Session**_
 - See something jump between trees overhead.
 - Totems with a huge wooden mask carved onto it with a picture of an ant.
   - Pan makes a Wisdom and notices that it is a warning/territory marker.
-  - Kawashi says it's the golem tribe, they will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can.
+  - Qawasha says it's the golem tribe, they will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can.
 - Continue on down the river and heavy ran begins we decide to pull over and try to get out of the elements and capture some much needed H2O.
   - Cannot take a long rest with heavy rain.
 - Try to take canoes in further from the river for safety but can't find cover. Found an elevated rock formation to get us off the muddy jungle floor though
@@ -818,7 +818,7 @@ _**TODO: Complete the Notes for this Session**_
   - More bodies lashed to trees
   - Find thieves tools under the body of one of the body after a solid D-100 throw of 91.
 - Pan takes first watch on the top side of camp.
-- Weed and Kawashi snuggle up in a leaf den that pops out of nowhere.
+- Weed and Qawasha snuggle up in a leaf den that pops out of nowhere.
 - Skogur and Undril get cozy on the bottom side of the camp.
 - The rest of the party breaks out and tries to get a short rest in as the rain continues to fall.
 
