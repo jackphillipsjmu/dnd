@@ -669,16 +669,26 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Muffles of shouting from other side:
   - _"We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"_.
 
+  <p align="center">
+    <img src="img/session_six_hidden_door.png" width="300" height="250">
+    <p align="center"><em>Gang All Back Together</em></p>
+  </p>
+
 ------------
 ## <a name="session_seven"></a>Session Seven
 
 ### What's that Sound?
 - After the rest of the Party joins Freya, Rez and Skógur they notice a crack where the muffled shouting was coming from.
-- Rez pulls to lever to reveal a dark sewer so most of the party cannot see a thang.
+- Rez pulls to lever to reveal a dark sewer so most of the party cannot see a thang moving forward.
 - To the right in the sewer is a thick metal grate, to the left is debris. In front is a path forward that leads to a door.
 - Pan approaches first and is able to hear voices. After a perception check she can only make out that Chultan men are talking.
 - Freya takes a stab at it and is able to hear, "Where's the rest of the shipment?!" then a threat to start cutting of digits of whoever they're yelling at behind the door. Mentions  of a Secret Trove and a void pleading with the angered men stating that they don't have any of the other things they want and only have Dancing Monkey Fruit.
 - _Note: The reason why the Zombie horde isn't right behind us is because they can't swim! Not 28 Days Later Zombies I guess._
+
+<p align="center">
+  <img src="img/session_seven_sewer.png" width="300" height="250">
+  <p align="center"><em>Sewer with Dark Vision On</em></p>
+</p>
 
 #### Knock Knock It's a Dragon
 - After being told of what was overheard behind the door Rez bursts open the door with her War Hammer.
@@ -788,6 +798,10 @@ _**TODO: Complete the Notes for this Session**_
   - As we approach they start swimming towards us!
 - Animal handling check reveals their territorial so get ready for a bumpy ride.
 
+<p align="center">
+  <img src="img/session_nine_plesiosaurus-size.jpg">
+</p>
+
 ### Oh Lord They Chargin'
 - Few misses on the dino nugs part to start out, looking hot here team.
 - Dino at Pan's canoe flips it and all the members enter the water resulting in Pan getting a major bite.
@@ -830,6 +844,11 @@ _**TODO: Complete the Notes for this Session**_
 - As the frogs jump between the trees Waaka nuts are knocked down and start to illuminate the camp.
 - Vicious strikes on the frogs fall like the pouring rain now that everyone can see.
 - Leader/General Froggo is a poisonous bastard and gives us some trouble but eventually combat is over and we're all still in one piece.
+
+<p align="center">
+  <img src="img/session_nine_grungs.jpg" width="350" height="250">
+  <p align="center"><em>The Grungs</em></p>
+</p>
 
 ## Things to Note!
 - Gotta call out opportunity attacks
