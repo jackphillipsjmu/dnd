@@ -834,6 +834,9 @@ _**TODO: Complete the Notes for this Session**_
 - Gotta call out opportunity attacks
 - Call out reactions, if you see something hit it.
 - Bonus Actions can be done before Actions, and of coarse vice versa.
+- 2 gallons of water per day is required! Waterskin's in our packs can hold 4 pints of liquid so if we wanted water for a single day we would need to drink 4 full Waterskin's.
+- We have Thieves Tools now which we shouldn't forget about since they'll probably be pretty important.
+  - This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your Proficiency Bonus to any Ability Checks you make to Disarm traps or open locks (D&D 5e).
 
 ------------
 
