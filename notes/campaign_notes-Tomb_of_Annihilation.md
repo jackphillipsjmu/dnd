@@ -450,7 +450,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Dangerous Dank
   - Thin blue mist, turn around that's **Mad Monkey Fever**. If inhaled you can go mad magazine bro. If someone comes down with this there is a beetle in the forest Yahtha that can be consumed raw or cooked to overcome the fever.
 - Recommended
-  - **Wocka Nuts**: If shaken can emit light if we're in the need for that. Be careful this is a popular spot for creatures.
+  - **Wukka Nuts**: If shaken can emit light if we're in the need for that. Be careful this is a popular spot for creatures.
     - **Jakooli**: Poisonous snakes that live near the nuts
     - **Zorbos**: Small bear with matted brown hair and sharp claws that can be nasty beasts and have a taste for human flesh
   - **Wild Root**: Cure poison
@@ -462,6 +462,11 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Jobal is ambitious and wants to chart out Chult. Interested in using guides to map out the jungles and if you go against him you may be in hot water.
   - Freya is a map lover and we may be able to help out in this effort for coin or something else.
 - Head out without seeing Jobal because it will take a few hours before we can meet.
+
+<p align="center">
+  <img src="img/golden_throne.png" width="300" height="250">
+  <p align="center"><em>Golden Throne</em></p>
+</p>
 
 #### [SAIL!](https://www.youtube.com/watch?v=tgIqecROs5M)
 - Hug the coasts so we don't encounter Aremag the Turtle Dragon.
@@ -840,14 +845,21 @@ _**TODO: Complete the Notes for this Session**_
 - While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descends upon the camp.
 - We can't hear or see much due to the heavy rain and the darkness so Pan's warning's fall on deaf ears.
 - Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
-- Pan fails to light a tree on fire and kill one of the froggy freshes
-- As the frogs jump between the trees Waaka nuts are knocked down and start to illuminate the camp because they will produce light!
-- Vicious strikes on the frogs fall like the pouring rain now that everyone can see.
-- Leader/General Froggo is a poisonous bastard and gives us some trouble but eventually combat is over and we're all still in one piece.
+- Pan fails to light a tree on fire and kill one of the froggy freshes.
 
 <p align="center">
   <img src="img/session_nine_grungs.jpg" width="350" height="250">
   <p align="center"><em>The Grungs</em></p>
+</p>
+
+### Deez What?
+- As the frogs jump between the trees Wukka nuts are knocked down and start to illuminate the camp because they will produce light!
+- Vicious strikes on the frogs fall like the pouring rain now that everyone can see.
+- Leader/General Froggo is a poisonous bastard and gives us some trouble but eventually combat is over and we're all still in one piece.
+
+<p align="center">
+  <img src="img/wukka_nuts.jpg" width="350" height="250">
+  <p align="center"><em>Deez Wukka Nuts</em></p>
 </p>
 
 ## Things to Note!
