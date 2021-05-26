@@ -771,7 +771,7 @@ _**TODO: Complete the Notes for this Session**_
 ------------
 ## <a name="session_nine"></a>Session Nine
 
-## Jungle Preppin'
+### Jungle Preppin'
 - Wake up to a knock at the door that Breakfast is served downstairs.
   - Breads, cheeses and a sweeter Tej than we're used to.
 - The Party is asked if they, "Want to buy a Pack Mule?""
@@ -786,7 +786,7 @@ _**TODO: Complete the Notes for this Session**_
 - Break up into groups of 4, the party minus Pan and Pan and the rest of the NPC crew.
 - Make it around Port Nyanzaru and leave the city behind.
 
-## Welcome to the Jungle
+### Welcome to the Jungle
 - Mid day and it starts to rain a little bit.
 - Qawasha starts talking to Pandas  
   - Qawasha, "There's another reason to journey into the jungle, Weed's family is in danger. He's from a small town called DE-TIE-TA. Hasn't been there before but it's deep in the jungle near KEEL-SA-BALL. Heard of evil bringing destruction of the Vegepygmies. Weed was informed by the chief to get out alive"
@@ -807,7 +807,7 @@ _**TODO: Complete the Notes for this Session**_
   <img src="img/session_nine_plesiosaurus-size.jpg">
 </p>
 
-### Oh Lord They Chargin'
+#### Oh Lord They Chargin'
 - Few misses on the dino nugs part to start out, looking hot here team.
 - Dino at Pan's canoe flips it and all the members enter the water resulting in Pan getting a major bite.
 - Pan's canoe members start jumping ship and heading to land as the canoe drifts down the river.
@@ -823,7 +823,7 @@ _**TODO: Complete the Notes for this Session**_
 - After some more hits the second dino swims away.
 - After catching our breath we grab the canoes down river and set off again down the river.
 
-## Deadly Sight Seeing
+### Deadly Sight Seeing
 - The Party spots something around the river bend as we coast along.
 - Getting a little thirsty on the boat since each person needs to drink 2 gallons of water per day.
 - See something jump between trees overhead.
@@ -841,7 +841,7 @@ _**TODO: Complete the Notes for this Session**_
 - Skogur and Undril get cozy on the bottom side of the camp.
 - The rest of the party breaks out and tries to get a short rest in as the rain continues to fall.
 
-## Grungus Amongus
+### Grungus Amongus
 - While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descends upon the camp.
 - We can't hear or see much due to the heavy rain and the darkness so Pan's warning's fall on deaf ears.
 - Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
@@ -852,7 +852,7 @@ _**TODO: Complete the Notes for this Session**_
   <p align="center"><em>The Grungs</em></p>
 </p>
 
-### Deez What?
+#### Deez What?
 - As the frogs jump between the trees Wukka nuts are knocked down and start to illuminate the camp because they will produce light!
 - Vicious strikes on the frogs fall like the pouring rain now that everyone can see.
 - Leader/General Froggo is a poisonous bastard and gives us some trouble but eventually combat is over and we're all still in one piece.
@@ -862,7 +862,7 @@ _**TODO: Complete the Notes for this Session**_
   <p align="center"><em>Deez Wukka Nuts</em></p>
 </p>
 
-## Things to Note!
+### Things to Note!
 - Gotta call out opportunity attacks
 - Call out reactions, if you see something hit it. For instance, you can ready an attack if you can't see. If all of the sudden an enemy is appears in your line of sight you can perform that reaction.
 - Bonus Actions can be done before Actions, and of coarse vice versa.
