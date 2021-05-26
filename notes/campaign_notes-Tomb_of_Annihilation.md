@@ -580,6 +580,8 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 **A potential undead attack is happening as we hear someone screaming for help in the distance. More adventuring to come next week!**
 
+[_Back to Top_](#top_of_page)
+
 ------------
 ## <a name="session_six"></a>Session Six
 
@@ -679,6 +681,8 @@ _Note that this first Session notes aren't as well rounded as the others but may
     <p align="center"><em>Gang All Back Together</em></p>
   </p>
 
+[_Back to Top_](#top_of_page)
+
 ------------
 ## <a name="session_seven"></a>Session Seven
 
@@ -745,6 +749,8 @@ _Note that this first Session notes aren't as well rounded as the others but may
     - Kwayothe is the merchant of Wine, ale, rain catchers, bug spray's, etc. that can help throughout the journey. Help fight off throat leaches and other nasty things.
     - Wakanga is a friend of Syndra Silvane and presides over magic and lore.
 
+[_Back to Top_](#top_of_page)
+
 ------------
 ## <a name="session_eight"></a>Session Eight
 
@@ -767,6 +773,8 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Wild Root: Introducing the juice of a wildroot into a poisoned creature's bloodstream (for example, by rubbing it on an open wound) rids the creature of the poisoned condition. Once used in this way, a wildroot loses this property.
 
 _**TODO: Complete the Notes for this Session**_
+
+[_Back to Top_](#top_of_page)
 
 ------------
 ## <a name="session_nine"></a>Session Nine
@@ -871,6 +879,8 @@ _**TODO: Complete the Notes for this Session**_
 - We have Thieves Tools now which we shouldn't forget about since they'll probably be pretty important.
   - This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your Proficiency Bonus to any Ability Checks you make to Disarm traps or open locks (D&D 5e).
 
+[_Back to Top_](#top_of_page)
 ------------
+
 
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
