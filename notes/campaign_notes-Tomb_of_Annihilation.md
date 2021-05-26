@@ -376,7 +376,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 ------------
 ## <a name="session_five"></a>Session Five
 
-## Thunder Dome at the Thundering Lizard
+### Thunder Dome at the Thundering Lizard
 - Virra is approached by 2 Tabaxi's (Rivermist and Flask of Wine)
   - **River Mist and Flask of Wine**: May put us on the wrong side of Jabol if we go with them. River Mist is missing an eyeball (female Tabaxi) from the Death Curse. Flask of Wine isn't too talkative (Helen Keller esc?)
   - Prefer to stay off the grid to avoid the risk of the Merchant Princes. Jabol likes to behead people that cross him.
@@ -400,7 +400,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Assemble the party to play a drinking game with the other adventurers
 - Continue discussion after the drinking competition
 
-### [Beerfest!](https://www.youtube.com/watch?v=my-VMxj6YlI)
+#### [Beerfest!](https://www.youtube.com/watch?v=my-VMxj6YlI)
 - Pan is asked to explain a Satyr game, **Flippith thy Cup**.
   - **Rules**: No magic, a test of grossness
   - Friendly wager of 15 GP
@@ -409,7 +409,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Other party seems to be cheating like some punk ass bitches
 - After a dead heat in the end between Virra and Viki, we won!
 
-### Post-Game Like We Won the Championship Game
+#### Post-Game Like We Won the Championship Game
 - Azaka approaches us impressed with our drinking skillz.
   - Says to get on the good side of the merchant princes (wave charter fee) by completing tasks for them.
   - Azaka input on Faroul and Gondolo: Bafoons but aren't bad dudes that wouldn't lead us astray.
@@ -419,21 +419,21 @@ _Note that this first Session notes aren't as well rounded as the others but may
     - Ladders to get up to the camp of the folks that stole the mask. Can lead us there but probably won't climb up. Can support from the ground if needed with her longbow.
   - Throw up a silver coin to test her dexterity which she catches as Skógur tosses it in the air. V impressed but maybe not the chick for us.
 
-### Take a Load Off Baby
+#### Take a Load Off Baby
 - Stay at the Thundering Lizard for the night for 15 SP. Freya dedicates the Long Bow as her weapon but takes out the unarmed strike ability for most situations - _shadow boxing x100_.
 - Others prepare spells for the journey ahead.
 - Get a nice rest after the other party (Silver Hydras)
   - Ask what our name is but unsure of this. **Come up with a sick name**.
 - Undril is staying at the House of Repose but will join up with us later on **after we get the charter**.
 
-## The Morning After
+### The Morning After
 - Head over to the Harbor Ward where the Windwaker is still in port.
 - Ask Captain Zeed for passage to Fort Beluarian
   - Quick ride, only a few hours
   - Forgot we needed to meet with Belym and Draza
   - Does not like being called Bird Person as highlighted by Virra
 
-### Jessamine Golden [~~Toilet~~](https://www.youtube.com/watch?v=ZALSvE6N5d0) Throne
+#### Jessamine Golden [~~Toilet~~](https://www.youtube.com/watch?v=ZALSvE6N5d0) Throne
 - Pass temple of Sabris while heading to the Throne. Looks a bit like Charleston
 - Guards with rippling muscles at the front gate and ask why we're there.
 - Belym and Draza run up and tell Olu (guard) that we're there to see Jessamine. _We're on the list I swear_.
@@ -463,7 +463,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Freya is a map lover and we may be able to help out in this effort for coin or something else.
 - Head out without seeing Jobal because it will take a few hours before we can meet.
 
-### [SAIL!](https://www.youtube.com/watch?v=tgIqecROs5M)
+#### [SAIL!](https://www.youtube.com/watch?v=tgIqecROs5M)
 - Hug the coasts so we don't encounter Aremag the Turtle Dragon.
 - Arrive to the destination mid-afternoon.
 - Stretch of beach and anchors in about 1/2 mile off shore.
@@ -471,12 +471,12 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Zeed will wait for us until ~~nighttime~~ couple days (due to the 14 hour trek ahead).
 - Guards come out in a rowboat and take us to the beach
 
-## Let's Go to the Beach Beach
+### Let's Go to the Beach Beach
 - Land on the Beach Beach
 - Notice a straight forward, unmonitored trail that will take **14 hours to traverse**.
 - Apply that sweet bug salve to avoid any creepy crawlies.
 
-## To the Flaming Fist
+### To the Flaming Fist
 - Notice that something stumbles onto the path in front of us. An enormous snapping turtle _dun-dun-dun_ that's sun-bathing.
 - Pan throws some food and the turtle eats it and seems to enjoy it.
 - Pan pets the turtle head poking out after an animal handling check.
@@ -521,7 +521,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Pan turns into a Wolf after they are done looking for our fake money bag. Liara Portyr is concerned immediately and asks her to change back. Tried to persuade her that it's just kinda her thing but all checks fail after some threats and Pan changes back to her OG form.
   - Skógur tries to swoon Liara to distract her but is too busy with other appointments during the day. Maybe a late night booty call is in order.
 
-### After Liara Hits Skates
+#### After Liara Hits Skates
 - Rokh asks what is the plan.
 - Pan wants to summon her Owl familiar but is caught by Grutta mid spell asking if she is creating another Wolf _boo_.
 - Try to get Grutta to go with Skógur to the kitchen but says we can operate on our own even after trying to plead our case.
@@ -529,7 +529,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Pan fails to sneak around and is escorted out of the building.
 - Freya and Rez attempt to make a distraction for Rokh as he moves away from the party.
 
-### Ring My Bell ([	&#127932; Ring My Bell &#128276;](https://www.youtube.com/watch?v=URAqnM1PP5E))
+#### Ring My Bell ([	&#127932; Ring My Bell &#128276;](https://www.youtube.com/watch?v=URAqnM1PP5E))
 - Freya climbs her way up the tower after being stealthy and rings the bell.
 - Guards think it's just a change in shift initially, but then call to "Man the Walls!" after it persists.
 - Virra runs out of the kitchen up to the Bell Tower and tells Freya to run away.
@@ -538,7 +538,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Guards recognize that this is not a threat, try to throw Chef under the bus but isn't very useful.
 - Rez goes up to Qawasha and Kupalué and brings them to the party.
 
-### Gabbing with Qawasha (Druid) and Kupalué (Veggietales)
+#### Gabbing with Qawasha (Druid) and Kupalué (Veggietales)
 - Qawasha wants to rid the world of the undead and Ras Nsi. Opposes necromancy with bad motives.
 - [Ubtao](https://forgottenrealms.fandom.com/wiki/Ubtao) (maze god)
   - Seven chosen of Ubtao, 6 of which are good to go but Ras Nsi wasn't on board and summoned undead which ravaged the lands.
@@ -549,7 +549,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - _Radiant and fire damage is useful against them - **Rez's time to shine!**._
 - Rokh comes back and says we should hit the ol' dusty trail.
 
-## Making Our Way Down-Chult
+### Making Our Way Down-Chult
 - Pan and Rokh try to open the box he stole but are not successful.
   - Lock picking was mentioned in the early sessions as a valuable thing. Maybe we need to get better at this/get someone who is?
 - Move on and we see people hauling the remains of the snapping turtle we saw before.
@@ -564,7 +564,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Speak with the Inn-keeper at the Thundering Lizard (speak with River Mist, seems kinda sketch).
 - Rokh Seems to be working for either River Mist or Flask of Wine.
 
-#### Notes on [Vegepygmies](https://forgottenrealms.fandom.com/wiki/Vegepygmy)
+##### Notes on [Vegepygmies](https://forgottenrealms.fandom.com/wiki/Vegepygmy)
 - Primitive Plants. Vegepygmies, also called mold folk or moldies, inhabit dark areas that are warm and wet, so they are most commonly found underground or in dense forests where little sunlight penetrates. A vegepygmy instinctively feels kinship with other plant and fungus creatures, and thus vegepygmy tribes coexist well with creatures such as myconids, shriekers, and violet fungi.
 - Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, meaning that they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can’t speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and rhythmic tapping on the body. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 - Mold Begets Mold. Vegepygmies originate from the remains left behind when a humanoid or a giant is killed by russet mold.
@@ -578,7 +578,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 ------------
 ## <a name="session_six"></a>Session Six
 
-## [Back, Back to Port Nyanzaru-ooh ](https://youtu.be/Hdvc5AmrzlM?t=49)
+### [Back, Back to Port Nyanzaru-ooh ](https://youtu.be/Hdvc5AmrzlM?t=49)
 - A blaring alarm horn alerts us of danger from Malar's Throat (a slum we're we were stolen from before).
 - Women screaming "The Undead have Returned!". _Pants defecated_.
 - Militia stands at attention near the gates ready for the undead horde.
@@ -591,7 +591,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   <p align="center"><em>Malar's Throat</em></p>
 </p>
 
-## Test Your Might, Skill Challenge
+### Test Your Might, Skill Challenge
 - We gotta make it to those doors!
 - Virra fails to make it through the crowd after someone steps on her tail due to an impressive natural 1 roll.
 - The Monks in the party, Freya and Skógur, ban together to part the Red Sea of people with their quarterstaff's. As they make their way through the crowd the Monks almost make it to the door while the rest of the party is left in the dust. The door quickly closing on people trying to get inside and out of danger.
@@ -609,7 +609,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   <img src="img/zombiehorde.jpg">
 </p>
 
-## When You Call My Name it's Like a Little Prayer
+### When You Call My Name it's Like a Little Prayer
 - Burst inside, shut the door and catch our breath as more undead rush to the Temple. It won't be long until they break through and ravage us and the occupants of the Temple.
 - Looking at who all made it in most are children but two other women are also there trying to come up with a plan to get out.
 - We see Sister Clara (blackish eyes) who is the woman that let us in. She says she took over duties from Father Balton after his passing and we have to hurry to not be slaughtered. This is more undead than they've ever seen before and are worried they will break in before the militia can handle the situation.
@@ -619,12 +619,12 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Clara Pushes open a stone alter and leads us down into a crypt.
   - As we descend, it is pitch black. Pan casts produce flame to illuminate the room for others without Dark Vision.
 
-## Tales of the Crypt
+### Tales of the Crypt
 - At the back of the crypt a statue with a coin is being held face down looking over the resting places of the elders.
 - After a drawn out discussion the undead have broken into the Temple. In a haste, Clara flips the coin over and a path is revealed behind the statue.
 - We get our marching order and go down the opened path to try and escape with the party leading the pack and Clara and the rest of the children closely behind.
 
-### Charlie Kelly: King of the Rats
+#### Charlie Kelly: King of the Rats
 - Freya having the highest AC bravely goes first into the darkness while swarms of rats attack her with a vengeance.
 - After hitting one swarm in it's whiskers they flee into a mouth that opens up down the path allowing the hurt swarm to be consumed.
 - Skógur takes bathroom break in the corner and several swarms of rats start to attack and attach themselves to several party members.
@@ -634,7 +634,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - As we move forward after the rat slaying we notice that water we've been walking through seems to get deeper the further and further we move.
 - Unsure of what lies ahead and the weird mouth that swallowed some rats previously the party throws a dead rat towards the mouth's location. On queue, it eats the rat as soon as it hits the water. We got ourselves a situation.
 
-## Hit em' in the Mouth
+### Hit em' in the Mouth
 - The party pairs off and ties themselves together with rope just in case something bad happens. Skógur with his nasty feet and low strength is the only one left out but hopefully he can move swiftly to get around any dangerous situations.
 - As the party approaches the mouf they notice that is is indeed a mouth and it belongs to a stupidly large frog.
 - Planning out how we get around the frog Skógur cautiously grabs a handful of rats by their tails lacing them between each of his fingers as bait.
@@ -650,11 +650,11 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - After seeing Pan's near death experience the party throws away their fears and dives in to save Virra.
 - Fists fly slowly taking away HP from the Toad and the combat ends with a final strike from Freya's trident.
 
-## Legend of Zelda, Water Temple on Steroids
+### Legend of Zelda, Water Temple on Steroids
 - With the Toad vanquished the party veers off in two directions under the water in the cavern.
 - The group led by Pan goes left past the fork in the cavern and encounters a chest. It is adorned with numbered dials and a slot for gold pieces to be placed into it.
 
-### Playing the Slots
+#### Playing the Slots
 - Pan and the rest of the compadres start pumping gold into the chest.
 - After the first coin, the dials change to `3 - 3 - 4`. Trying again, `1 - 1 - 2`, no dice. After burning through another 4 gold pieces a lucky number 7 dice roll occurs and boom the chest opens!
 - **What's in the box?!**
@@ -664,7 +664,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - As Pan holds it she realizes there is something special about it. One check later it is found out that it makes you lucky, and we out here trying to get lucky.
     - Message from the DM: _"Note that the lucky coin Pan got is a magical item that doesn't require attunement so it doesn't necessarily have to be Pan who uses it. she could through it to Skogur for example before he makes a daring leap across a ravine to give him advantage on his Acrobatics check. But it's once use per day no matter who uses it"_
 
-### Two Monks, a Dragon and some Kids Walk into a Swim Up Bar
+#### Two Monks, a Dragon and some Kids Walk into a Swim Up Bar
 - Freya, Rez, Skógur and the chitlens venture to the right as they try to figure things out unbeknownst that Pan and friends found anything on the other side. They all swim up a path out of the water and see a lever and doorway.
 - Muffles of shouting from other side:
   - _"We're taking over the establishment no matter what, hand over the dancing monkey fruit you brute"_.
@@ -672,7 +672,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 ------------
 ## <a name="session_seven"></a>Session Seven
 
-## What's that Sound?
+### What's that Sound?
 - After the rest of the Party joins Freya, Rez and Skógur they notice a crack where the muffled shouting was coming from.
 - Rez pulls to lever to reveal a dark sewer so most of the party cannot see a thang.
 - To the right in the sewer is a thick metal grate, to the left is debris. In front is a path forward that leads to a door.
@@ -680,37 +680,37 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - Freya takes a stab at it and is able to hear, "Where's the rest of the shipment?!" then a threat to start cutting of digits of whoever they're yelling at behind the door. Mentions  of a Secret Trove and a void pleading with the angered men stating that they don't have any of the other things they want and only have Dancing Monkey Fruit.
 - _Note: The reason why the Zombie horde isn't right behind us is because they can't swim! Not 28 Days Later Zombies I guess._
 
-### Knock Knock It's a Dragon
+#### Knock Knock It's a Dragon
 - After being told of what was overheard behind the door Rez bursts open the door with her War Hammer.
 - Surveying the room 2 men are dead on the floor and one that is still alive with a missing finger (Wakko). A large man (Grim of the Zhentarim) with a scar across his white eye is looming over the bleeding man.
 - The men that were yelling are dressed in all black (Grim and his gang of Thugs) while the dead men/Freddie Got Fingered (Wakko, Bandits) are in dingy garbs.
 - As we all are preparing for battle to start Rez tries to reason with the black cloaked men, which after some banter, the situation is resolved without violence.
 - Grim and his thugs take off leaving the Party and Wakko along in the sewer system.
 
-## Wakko-Mole
+### Wakko-Mole
 - After disarming the situation, Wakko reveals a hidden door which leads to a room where there are casks lining the walls. Exactly what Grim was asking for.
 - Wakko is a member of "The Net" and smuggles valuables under the noses of the Merchant Princes.
 - He points out a sewer leading in and out of the port which is there way of going unnoticed with contraband.
 
-### What's in the Casks?
+#### What's in the Casks?
 - Drugs, lots and lots of drugs.
 - "Rot" is one of the things The Net sells and is distilled from Jungle undead. It causes people to not need sleep or food but are lackadaisical. Other hallucinogenic things such as Dream Tincture are for sale as well which the party buys after some bartering.
   -  Rot could be helpful for Chult!
 - Wakko tells us if we're in need of any drugs or information to ask for The Net.
 - Before the party leaves they take a Short Rest in a neighboring room.
 
-### Do it for the Kids
+#### Do it for the Kids
 - Since the squad saved Sister Clara and the children as a reward she sets up a meeting with Grandfather Zatembei from the Temple of Savros.
 - Pan creates some berries for the wee ones to take and they head out to the Golden Temple.
   - Hall of Gold: God of Wua-Keen-Pheonix
 - After a tough grind through the sewers there's only one thing to do.
 
-## House of Repose, You still here Undril?
+### House of Repose, You still here Undril?
 - Party heads to the house of Repose and spots Undril is still there mulling about the bar.
 - Virra decides to break out some jams and has to perform 3 performance checks to be paid at the end of the night. After shaking off the jitter and with a little inspiration and cheering for the party Virra serenades the crowd and maintains her position as top Cat musician, aside from maybe Cloud on the Mountain Top.
 - We hear that the Dragon races are taking place tomorrow and we should sign up or bet on them to try and win some money. Which the party plans to do!
 
-## Check in on Gramps
+### Check in on Gramps
 - Party heads out from the House of Repose to the Temple of Savros.
 - Hearing chatter walking into the temple we hear an older man (member of Savros/the All Seeing Eye Temple - symbol is an Unblinking eye looking to the sky) mutter to 3 people,
   - "We will not help with the search" says the 3 people.
@@ -721,7 +721,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 -  Grandfather Zatembei sees a vision when asked to give guidance for our quest to learn about the death curse. "A jungle city in enclosed cliffs, snacks, black obelisk drenched in vines" (this might be the SOUL MONGERER) we ask Sister Clara about the Yuanti to see if there is a connection between them, their evil gods and the death curse. Not much comes of this so more exploring to be had.
 - We're quickly escorted away after the heavy vision and head to the Dinosaur races.
 
-## I Want To Ride My Dinosaur
+### I Want To Ride My Dinosaur
 - Arriving at the Coliseum the party bets on a few races we aren't participating in.
 - After selecting our mount and taking to the course in a stunning victory Pan wins the last race and receives
   - A Bejeweled ring. This provides advantage on survival and animal handling checks
@@ -733,6 +733,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 ------------
 ## <a name="session_eight"></a>Session Eight
 
+### Run the Jewel and Get Ready (The Session I Couldn't Read My Hand Writing)
 - With the sack of jewels in hand the party heads to the Thundering Lizard from the Coliseum.
 - A bit difficult to get there given it's GAME DAY! But they arrive and buy ale at 1 Gold Piece each.
   - Bartender seems to know some information but unfortunately cannot perceive it.
