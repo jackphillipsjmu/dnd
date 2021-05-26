@@ -575,7 +575,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
   - Speak with the Inn-keeper at the Thundering Lizard (speak with River Mist, seems kinda sketch).
 - Rokh Seems to be working for either River Mist or Flask of Wine.
 
-##### Notes on [Vegepygmies](https://forgottenrealms.fandom.com/wiki/Vegepygmy)
+#### Notes on [Vegepygmies](https://forgottenrealms.fandom.com/wiki/Vegepygmy)
 - Primitive Plants. Vegepygmies, also called mold folk or moldies, inhabit dark areas that are warm and wet, so they are most commonly found underground or in dense forests where little sunlight penetrates. A vegepygmy instinctively feels kinship with other plant and fungus creatures, and thus vegepygmy tribes coexist well with creatures such as myconids, shriekers, and violet fungi.
 - Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, meaning that they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can’t speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and rhythmic tapping on the body. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 - Mold Begets Mold. Vegepygmies originate from the remains left behind when a humanoid or a giant is killed by russet mold.
