@@ -838,10 +838,10 @@ _**TODO: Complete the Notes for this Session**_
 
 ## Grungus Amongus
 - While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descends upon the camp.
-- We can't hear or see much due to the heavy rain and the darkness so Pan's cries of attack fall on deaf ears.
+- We can't hear or see much due to the heavy rain and the darkness so Pan's warning's fall on deaf ears.
 - Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
 - Pan fails to light a tree on fire and kill one of the froggy freshes
-- As the frogs jump between the trees Waaka nuts are knocked down and start to illuminate the camp.
+- As the frogs jump between the trees Waaka nuts are knocked down and start to illuminate the camp because they will produce light!
 - Vicious strikes on the frogs fall like the pouring rain now that everyone can see.
 - Leader/General Froggo is a poisonous bastard and gives us some trouble but eventually combat is over and we're all still in one piece.
 
@@ -852,9 +852,10 @@ _**TODO: Complete the Notes for this Session**_
 
 ## Things to Note!
 - Gotta call out opportunity attacks
-- Call out reactions, if you see something hit it.
+- Call out reactions, if you see something hit it. For instance, you can ready an attack if you can't see. If all of the sudden an enemy is appears in your line of sight you can perform that reaction.
 - Bonus Actions can be done before Actions, and of coarse vice versa.
 - 2 gallons of water per day is required! Waterskin's in our packs can hold 4 pints of liquid so if we wanted water for a single day we would need to drink 4 full Waterskin's.
+- Cannot take a Long Rest while it is raining heavily outside (unless you find shelter).
 - We have Thieves Tools now which we shouldn't forget about since they'll probably be pretty important.
   - This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your Proficiency Bonus to any Ability Checks you make to Disarm traps or open locks (D&D 5e).
 
