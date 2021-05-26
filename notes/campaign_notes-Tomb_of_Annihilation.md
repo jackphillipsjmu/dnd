@@ -14,15 +14,15 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 | [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
 
 ## Session Notes
-- [Session One: In the Beginning, there are 5 adventurers.](#session_one)
-- [Session Two: Land to Sea](#session_two)
-- [Session Three: The Turtles are Huge Near Chult](#session_three)
-- [Session Four: Snake People and Dinosaurs](#session_four)
-- [Session Five: I'm Not Drunk, You're Drunk Veggie Man!](#session_five)
-- [Session Six: Let's go to the Winchester, have a nice cold pint, and wait for this all to blow over.](#session_six)
-- [Session Seven: Rags to Riches](#session_seven)
-- [Session Eight: Run the Jewels](#session_eight)
-- [Session Nine: Jungle Boogie (Part 1)](#session_nine)
+- [**Session One**: In the Beginning, there are 5 adventurers.](#session_one)
+- [**Session Two**: Land to Sea](#session_two)
+- [**Session Three**: The Turtles are Huge Near Chult](#session_three)
+- [**Session Four**: Snake People and Dinosaurs](#session_four)
+- [**Session Five**: I'm Not Drunk, You're Drunk Veggie Man!](#session_five)
+- [**Session Six**: Let's go to the Winchester, have a nice cold pint, and wait for this all to blow over.](#session_six)
+- [**Session Seven**: Rags to Riches](#session_seven)
+- [**Session Eight**: Run the Jewels](#session_eight)
+- [**Session Nine**: Jungle Boogie (Part 1)](#session_nine)
 
 ---
 ## <a name="session_one"></a>Session One
@@ -30,7 +30,7 @@ _Note that this first Session notes aren't as well rounded as the others but may
 
 ### Level Setting the Campaign
 - **This campaign is famous for killing characters!**
-- Start the campaign at Hamwert's funeral so be prepared to speak.
+- Start the campaign at Hamwert's funeral (the person who connects all of our characters together) so be prepared to speak.
 - Inspiration: Lets you roll any D20 and then it's gone but can be given out for good role playing (get into character!).
 - Advantage: Will be checking abilities for different behaviors (leap off a tree to attack, give an acrobatics check)
 - No Phones during sessions.
