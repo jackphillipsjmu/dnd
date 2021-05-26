@@ -191,6 +191,12 @@ _Note that this first Session notes aren't as well rounded as the others but may
 - [Aremag](https://nat19.fandom.com/wiki/Aremag), Water Turtle Dragon is asking for "Tribute" in Draconic so Rez can understand
   - Knocks a thug into the water when it emerges from the depths
 
+  <p align="center">
+    <img src="img/Aremag_Portrait.png">
+    <p align="center"><em>Aremag</em></p>
+  </p>
+
+
 [_Back to Top_](#top_of_page)
 
 ------------
