@@ -7,10 +7,10 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 
 | Name                  | Race       | Class         | Portrait                | Status |
 | --------------------- | ---------- | ------------- | ----------------------- | ------ |
-| Freya Cimrari         | [Human](https://forgottenrealms.fandom.com/wiki/Human) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/freya_portrait.jpeg" width="100" height="100"> | Alive &#128512; |
-| Virra Wildwander      | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> |  Alive &#128570; |
-| Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin)       | <img src="img/rez_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
-| Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> |  Alive &#128512; |
+| Freya Cimrari | [Human](https://forgottenrealms.fandom.com/wiki/Human) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/freya_portrait.jpeg" width="100" height="100"> | Alive &#128512; |
+| Virra Wildwander | [Tabaxi](https://forgottenrealms.fandom.com/wiki/Tabaxi)     | [Fighter](https://forgottenrealms.fandom.com/wiki/Fighter) | <img src="img/virra_portrait.jpeg" width="100" height="100"> | Alive &#128570; |
+| Norixius Rezena (Rez) | [Dragonborn](https://forgottenrealms.fandom.com/wiki/Dragonborn) | [Paladin](https://forgottenrealms.fandom.com/wiki/Paladin) | <img src="img/rez_portrait.jpeg" width="100" height="100"> | Alive &#128512; |
+| Pan Galanodel         | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf)   | [Druid](https://forgottenrealms.fandom.com/wiki/Druid) | <img src="img/pan_portrait.jpeg" width="100" height="100"> | Alive &#128512; |
 | [Skógur Strákar](skogur_character_notes.md) (_translation Forest Lad_) | [Wood Elf](https://forgottenrealms.fandom.com/wiki/Wood_elf) | [Monk](https://forgottenrealms.fandom.com/wiki/Monk) | <img src="img/skogur_portrait.jpg" width="100" height="100"> |  Alive &#128512; |
 
 ## Session Notes
@@ -797,11 +797,11 @@ _**TODO: Complete the Notes for this Session**_
   - Sindra, thinks Death Curse is coming from inland.
 - Still need to pickup Wild Root since we aren't impervious to poison. That's handled quickly while putzing around the city before we head out on our canoes.
 - We notice a huge statue of Chultin King adorned in a leopard skin and head dress of feathers, dinosaur teeth pooka shell necklace and other Chult-ish garb. This is in the middle of the harbor in the water. Maybe we fight a giant later?
-- Break up into groups of 4, the party minus Pan and Pan and the rest of the NPC crew.
+- Break up into groups of 4, the party minus Pan, and Pan with the rest of the NPC crew.
 - Make it around Port Nyanzaru and leave the city behind.
 
 ### Welcome to the Jungle
-- Mid day and it starts to rain a little bit.
+- Mid day and it starts to rain a little bit, not bad for now.
 - Qawasha starts talking to Pan:  
   - Qawasha, "There's another reason to journey into the jungle, Weed's family is in danger. He's from a small town called DE-TIE-TA. Hasn't been there before but it's deep in the jungle near KEEL-SA-BALL. Heard of evil bringing destruction of the Vegepygmies. Weed was informed by the chief to get out alive"
   - Does not know why they were targeting the weed-folk
@@ -814,7 +814,7 @@ _**TODO: Complete the Notes for this Session**_
   - See that it's a dinosaur, after a nature check it's discovered they're Plesiosaurus (long neck and sharp teeth)
   - Fighting over a giant dead Octopus. [It's a Water Animal](https://youtu.be/ltFB4WBdDg4?t=122)
   - In the fight before they've bitten each other and injured themselves
-  - As we approach they start swimming towards us!
+  - As we approach they start swimming towards the party of adventurers!
 - Animal handling check reveals their territorial so get ready for a bumpy ride.
 
 <p align="center">
@@ -825,26 +825,26 @@ _**TODO: Complete the Notes for this Session**_
 - Few misses on the dino nugs part to start out, looking hot here team.
 - Dino at Pan's canoe flips it and all the members enter the water resulting in Pan getting a major bite.
 - Pan's canoe members start jumping ship and heading to land as the canoe drifts down the river.
-- On the other (right) side, Skogur misses an attack, Freya misses netting the sucka but Virra jumps on it's back like a boss.
+- On the other (right) side, Skógur misses an attack, Freya misses netting the sucka but Virra jumps on it's back like a boss.
 - Virra dodges attacks and stays on board of the dinosaur
 - Back to the left hand side of the river.
   - Qawasha rains down flames on the dinosaurs and apologies to the beast after hitting them.
   - After bloodying the left hand dino it swims away.
-- Back to the right side of the map, the other dino flips the canoe with Skog-daddy and the rest of the party inside plunging us into the water.
+- Back to the right side of the map, the other dino flips the canoe with Skóg-daddy and the rest of the party inside plunging us into the water.
 - Freya gets got with a monster bite and clings on to life since she's strong af.
 - Skogur disengages then swims to Freya and hands off a healing potion to get some HP.
-- The river isn't as calm as we thought and the canoes are moving in the water downstream as everyone has been flung out of the canoes.
+- The river isn't as calm as we thought and the canoes are moving in the water downstream as everyone has been flung out of their canoes.
 - Using a combination of land, air and see attacks the second dino swims away.
 - Catching our breath we grab the canoes down river and set off again.
 
 ### Deadly Sight Seeing
 - The Party spots something around the river bend as we coast along.
-- Getting a little thirsty on the boat since each person needs to drink 2 gallons of water per day.
-- See something jump between trees overhead but shrug it off. What could be so dangerous?
+- Getting a little thirsty on the boat since each person needs to **drink 2 gallons of water per day**.
+- See something jump between trees overhead but shrug it off. _What could be so dangerous?_
 - A totem with a huge wooden mask carved onto it with a picture of an ant.
   - Pan makes a Wisdom and notices that it is a warning/territory marker.
-  - Qawasha says it's the Golem Tribe, "They will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can."
-- Continue on down the river and heavy ran starts to fall.
+  - Qawasha says it's the Golem Tribe, _"They will kidnap you in the night for slavery, just for the sake of it. Avoid them if you can."_
+- Continue on down the river and heavy rain starts to fall.
 - We decide to pull over and try to get out of the elements and capture some much needed H2O.
   - Cannot take a long rest with heavy rain.
 - Try to take canoes in further from the river for safety but can't find cover. Found an elevated rock formation to get us off the muddy jungle floor though
@@ -853,11 +853,11 @@ _**TODO: Complete the Notes for this Session**_
   - Find thieves tools under the body of one of the body after a solid D-100 throw of 91.
 - As night falls, Pan takes first watch on the top side of camp.
 - Weed and Qawasha snuggle up in a leaf den that pops out of nowhere.
-- Skogur and Undril get cozy on the bottom side of the camp. Big will they won't they situation as Skogur see's it.
+- Skógur and Undril get cozy on the bottom side of the camp. Big will they won't they situation as Skógur see's it.
 - The rest of the party breaks out and tries to get a short rest in as the rain continues to fall.
 
 ### Grungus Amongus
-- While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descends upon the camp.
+- While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descend upon the camp.
 - We can't hear or see much due to the heavy rain and darkness so Pan's warning's fall on deaf ears.
 - Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
 - Pan fails to light a tree on fire and kill one of the froggy fresh's.
@@ -878,12 +878,12 @@ _**TODO: Complete the Notes for this Session**_
 </p>
 
 ### Things to Note!
-- Gotta call out opportunity attacks
-- Call out reactions, if you see something hit it. For instance, you can ready an attack if you can't see. If all of the sudden an enemy is appears in your line of sight you can perform that reaction.
+- Gotta call out opportunity attacks!
+- Call out reactions, if you see something hit it. For instance, you can ready an attack if you can't see (like in the pouring rain). If all of the sudden an enemy is appears in your line of sight you can perform that reaction.
 - Bonus Actions can be done before Actions, and of coarse vice versa.
 - 2 gallons of water per day is required! Waterskin's in our packs can hold 4 pints of liquid so if we wanted water for a single day we would need to drink 4 full Waterskin's.
-- Cannot take a Long Rest while it is raining heavily outside (unless you find shelter).
-- We have Thieves Tools now which we shouldn't forget about since they'll probably be pretty important.
+- Cannot take a Long Rest while it is raining heavily outside _(unless you find shelter)_.
+- We have **Thieves Tools** now which we shouldn't forget about since they'll probably be pretty important.
   - This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your Proficiency Bonus to any Ability Checks you make to Disarm traps or open locks (D&D 5e).
 
 [_Back to Top_](#top_of_page)
