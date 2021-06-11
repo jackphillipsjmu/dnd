@@ -6,6 +6,12 @@
 | --------------------- | ---------- | ------------- | ------------- | --------------| -------|
 | Lítið (pronounced _Lee-Tith_, translation _"Little"_) Corlinn | Human      | Fighter    | <img src="img/lt_portrait.jpeg" width="100" height="100"> | Lost Mines of Phandelver| **Dead** from Green Dragon Acid Vomit &#129326; |
 
+<p align="center">
+  <img src="img/lt_rip.png" width="300" height="250">
+  <p align="center"><em>LT Falls in Combat with His Barde Companion by His Side</em></p>
+</p>
+
+
 ## Backstory
 ### Noble Background
 **Feature - Position of Privilege**:
