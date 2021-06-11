@@ -10,7 +10,7 @@
 ### Tomb of Annihilation
 Find the Campaign Notes [Here](notes/campaign_notes-Tomb_of_Annihilation.md)!
 #### When is the Next Session?
-**Next Session TBD**
+**Next Session 06/15/2021 at 8 PM**
 
 ---
 # Characters
