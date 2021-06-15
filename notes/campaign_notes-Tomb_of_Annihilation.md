@@ -23,6 +23,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - [**Session Seven**: _Rags to Riches_](#session_seven)
 - [**Session Eight**: _Run the Jewels_](#session_eight)
 - [**Session Nine**: _Jungle Boogie (Part 1)_](#session_nine)
+- [**Session Ten**: _Ooey Gooey Gross and Jaculi_](#session_ten)
 
 ---
 ## <a name="session_one"></a>Session One
