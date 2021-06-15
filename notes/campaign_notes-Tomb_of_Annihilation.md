@@ -978,7 +978,7 @@ _**TODO: Complete the Notes for this Session**_
 
 
 #### Bring out the White Knights
-- Undril being a boss calls upon [Torm](https://forgottenrealms.fandom.com/wiki/Torm) and casts [Spirit Guardians](https://roll20.net/compendium/dnd5e/Spirit%20Guardians#content) which summons a group of White Knights around the party. If an enemy approaches the Knights will respond and attach them.
+- Undril being a boss calls upon [Torm](https://forgottenrealms.fandom.com/wiki/Torm) and casts [Spirit Guardians](https://roll20.net/compendium/dnd5e/Spirit%20Guardians#content) which summons a group of White Knights around the party. If an enemy approaches the Knights will respond and attack them.
 - Freya goes on the offensive, jumps out from the glow of the fire and the Guardians and darts toward the middle-non-goo Zombie.
   - She hits the Zombie piercing right through it's non-existent nose area followed by a quick slap.
   - Although hitting the undead twice it is still standing and now she is prime for the Zombie picking.
