@@ -964,7 +964,7 @@ _**TODO: Complete the Notes for this Session**_
 - With the bounty of food and drink everyone settles down around the fire, dancing, eating and crafting Beer for the upcoming days so they can celebrate properly.
 - However, the forest is dark and full of terrors.
 
-### Ivan Ooze and His Gang of Goo Men
+### [Ivan Ooze](https://powerrangers.fandom.com/wiki/Ivan_Ooze) and His Gang of Goo Men
 - As the Party is getting down dancing the night away around the fire. Two oddly oozy Zombies approach from the forest with one "normal" undead smacked right in the middle of the oozy ones.
 - Skógur springs into action going after the right-most Oozy hitting it with his Longsword and follows up with a Flurry of Blows.
   - As the hits land the ooze starts to react independently of the Zombie, it's a dang flesh cape!
@@ -975,7 +975,6 @@ _**TODO: Complete the Notes for this Session**_
     <img src="img/goop-boneless-zombie.jpg" width="350" height="250">
     <p align="center"><em>Flesh Cape Goop Zombie Abomination</em></p>
   </p>
-
 
 #### Bring out the White Knights
 - Undril being a boss calls upon [Torm](https://forgottenrealms.fandom.com/wiki/Torm) and casts [Spirit Guardians](https://roll20.net/compendium/dnd5e/Spirit%20Guardians#content) which summons a group of White Knights around the party. If an enemy approaches the Knights will respond and attack them.
