@@ -96,7 +96,8 @@ Wood elves were easily identifiable by their coppery skin and green, brown, or h
 
 #### Level 3 Upgrades
 ##### Monastic Tradition Way of the Drunken Master
-- **Drunken Technique**: Somehow in your drunken stupor you can combine Flurry of Blows with the Disengage action and heightened mobility. Great for weaving in and out of combat.
+- When you choose this tradition at 3rd level, you gain **proficiency in the Performance** skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain **proficiency with brewer's supplies** if you don't already have it ([DND 5E](http://dnd5e.wikidot.com/monk:drunken-master)).
+- **Drunken Technique**: At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.
 
 [_Back to Top_](#top_of_page)
 

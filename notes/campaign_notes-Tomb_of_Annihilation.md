@@ -1,4 +1,4 @@
-###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+injures###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Tomb of Annihilation Campaign
 _Compiled Notes for the Tomb of Annihilation Campaign_
@@ -859,6 +859,7 @@ _**TODO: Complete the Notes for this Session**_
 ### Grungus Amongus
 - While everyone rests a bunch of humanoid frogs (Grung Frogs, around 3 feet tall) descend upon the camp.
 - We can't hear or see much due to the heavy rain and darkness so Pan's warning's fall on deaf ears.
+- Pan turns into a Black Panther to get after the Grung's
 - Luckily, the Frogs miss most of us, except Skogur, who is whittled down to 1 HP but is soon brought back into fighting shape.
 - Pan fails to light a tree on fire and kill one of the froggy fresh's.
 
@@ -877,6 +878,8 @@ _**TODO: Complete the Notes for this Session**_
   <p align="center"><em>Deez Wukka Nuts</em></p>
 </p>
 
+**A large snake like character appears and starts to lunge at the party! More Next Time!**
+
 ### Things to Note!
 - Gotta call out opportunity attacks!
 - Call out reactions, if you see something hit it. For instance, you can ready an attack if you can't see (like in the pouring rain). If all of the sudden an enemy is appears in your line of sight you can perform that reaction.
@@ -887,6 +890,124 @@ _**TODO: Complete the Notes for this Session**_
   - This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your Proficiency Bonus to any Ability Checks you make to Disarm traps or open locks (D&D 5e).
 
 [_Back to Top_](#top_of_page)
+
+------------
+## <a name="session_ten"></a>Session Ten
+
+### My Anaconda Don't Want None
+- After the ordeal with the Grung's, what else could go wrong? Cue the sssnek.
+- A group of large snake-like creatures called [Jaculi](https://forgottenrealms.fandom.com/wiki/Jaculi) come after the party as we're weakened from the fight before.
+- Freya is first to get bit and due to low HP from the last encounter is knocked unconscious. The snake still wiggling around on the ground begins to slither towards Qawasha and Weed.
+- Pan still in Black Panther mode takes on the offensive.
+  - She pounces onto the snake nearest to her and takes it to the ground knocking it prone (somehow you can knock a snake off its feet).
+  - In her primal form, she bites with advantage right into the snakes long neck doing some hefty damage.
+- Skógur slides to the snake that bit Freya and is heading towards the parties guides slicing into the snake with his longsword and following it up with an unarmed strike. But the snek still lives!
+- Virra scoots towards "Pan"ther to get after the long boy and quickly hits and critical injurs it!
+- Undril being the cleric stabilizes Freya so she doesn't have to make Death Saving Throws on each turn.
+- Weed goes crazy on the snake nearest Qawasha, Skógur and itself with a devastating blow ending combat.
+
+<p align="center">
+  <img src="img/jaculi.jpg" width="350" height="250">
+  <p align="center"><em>Jaculi Snek</em></p>
+</p>
+
+- As the party catches their breath the hard rain turns into more of a drizzle but due to the circumstances in camp no one can perform anything but a Short Rest.
+- Freya gets some much needed HP back from the Short Rest and nothing sneaks up on the party in the process.
+  - **Note**, dice rolls for Short Rests are returned after a Long Rest. Other things such as Ki points for Monk characters only come back during a Long Rest as well. We need to find some structure like a cave to take a Long Rest.
+
+### Love Boat?
+- Wake up in the morning feeling like P-Diddy
+  - Light breaks through the dense forest canopy.
+  - As the morning goes on the rain from last night evaporates making it a gross sweat box.
+- During the night some good came from putting out our rain catchers and we were able to nab 18 gallons of water.
+- After some chit-chat over who is riding in who's canoe for the day Skógur takes the chance to get closer to Undril and offers to ride with the NPC crew.
+- To reach our destination we estimate it will take 4 - 5 days going down river.
+- After applying some bug salve the party hits the water cramming into their 2 canoes.
+
+### Pigs Do Fly
+- Heading down the river bugs begin trying to bit the party but are trapped by the grease in the salve and are suffocated as they stick to us.
+- Freya after a perception check hears something in the distance.
+- Soon after a large Pig (bore) bursts through the foliage followed by a wee-piglet child.
+  - Observing the piggy it is a mossy boy and has creatures riding it like a dependent parasites.
+  - The party tries to look up the Bore in our Bestiary but no record can be found.
+  - After a Nature check we determined it has a tie to nature and is indeed a beast.
+- The canoes move down the river and the party is now about 15 feet away from the small family of Pigs.
+- As the party looks on a loud shriek and the sound of giant wings fills the air.
+- Once in view the party see's that it is a large bird-lizard of some sort and has a 20 foot wing span, huge talons and beak with gray skin.
+- Noticing the Poppa and Child on the coastline the birds dive and start to attack the baby pig.
+- Poppa-Pig doesn't like that and gores one of the birds with ferocity.
+- As the team decides what we should do we continue to move down river and are now about 20 feet away from the encounter.
+- Qawasha states that the flying lizard birds are Terror Folk and are evil creatures. They're known to be treasure hungry and to pick up explorers and drop them from the sky to their deaths.
+- As the party is still debating on whether to help or not the Terror Folk sinks it's claws in and starts to take the piglet for a joy ride through the skies.
+- Poppa-Pig runs after his child and the Terror Birds as the canoes float further down river and the encounter is out of their vision. Maybe it's better we didn't help this time?
+
+### Where's the Holiday Inn?
+- Traveling in the canoes dusk is on the horizon and the party looks on the coasts for a place to shack up and take a rest.
+- Given the thickness of the surrounding jungle they cannot see any available lodging for the evening.
+- Pan summons her Owl familiar Artemis and sends it to try and find shelter. Unfortunately, Artemis cannot find any caves while in flight and returns to perch on Pans head.
+- As night descends the party stops on a bank, take a much needed water break and begin to setup camp.
+- With our rations in short supply Pan and Skógur lead the charge to go forage some eats from the forest. With the urging of Skógur, Undril tags along to hunt alongside Freya.
+- Meanwhile, Rez plops down by the river with her fishing line to catch some Chult fish.
+
+#### Party Like There's No Tomorrow
+- Everyone comes back together to tally up what they got.
+  - Pan and Skógur were able to retrieve a boat load of berries, mushrooms and water while scavenging the forest.
+  - Unfortunately, the hunt wasn't as fruitful but Rez was able to rake in quite a few fish!
+- With the bounty of food and drink everyone settles down around the fire, dancing, eating and crafting Beet for the upcoming days so they can celebrate properly.
+- However, the forest is dark and full of terrors.
+
+### Ivan Ooze and His Gang of Goo Men
+- As the Party is getting down dancing around the fire 2 oddly oozy Zombies approach from the forest with one "normal" undead smacked right in the middle of the oozy ones.
+- Skógur springs into action going after the right-most Oozy hitting it with his Longsword and follows up with a Flurry of Blows.
+  - As the hits land the ooze starts to react independently of the Zombie, it's a dang flesh cape!
+  - The undead boneless abomination lifts up from the Zombie host ready to attack.
+  - Skógur seeing this happening decides to nope right out of there risking an opportunity attack. The goo-guy attempts to cling to him but leaves nothing but a bloody red goop on his arm as he returns to the rest of the party.
+
+  <p align="center">
+    <img src="img/goop-boneless-zombie.jpg" width="350" height="250">
+    <p align="center"><em>Skin Sack Goop Zombie Abomination</em></p>
+  </p>
+
+#### Bring out the White Knights
+- Undril being a boss calls upon [Torm](https://forgottenrealms.fandom.com/wiki/Torm) and casts Spirit Guardians which summons a group of White Knights around the party. If an enemy approaches the Knights will respond and attach them.
+- Freya goes on the offensive, jumps out from the glow of the fire and the Guardians and goes after the middle-non-goo Zombie in the middle.
+  - She hits the Zombie piercing right through it's non-existent nose area followed by a quick slap.
+  - Although hitting the undead twice it is still standing and now she is prime for the Zombie picking.
+  - She skirts around some of the Zombies to avoid all but a single opportunity attach.
+- Zombies noticing she is in the danger zone though gang up on Freya.
+  - First, she is slammed for 5 HP of damage.
+  - The right-hand goo-Zombie attacks twice missing once then landing a second hit knocking her to just 4 HP.
+  - The flesh sack jumps to attack Freya but misses!
+  - The other Zombies try to go full Hulk Hogan and slam her again but both attacks miss, phew.
+- Virra takes aim with her bow and unleashes an arrow through the fire hitting the right-hand goo-Zombie severely damaging it.
+- Seeing Freya is in bad shape Pan uses her Thorn Whip to bring her back to the Guardians defense line.
+  - Since this is an attack technically, it could mean the end for Freya. Luckily, it only does 2 points of damage and Freya is pulled back without an issue since all of the Zombies have used their reactions earlier in the turn.
+- Weed pulls out his trusty slingshot and with deadly aim critically hits one of the Zombies with a rock to the dome.
+- Qawasha casts Produce Flam hitting the enemies and filling the air with the smell of burning flesh.
+- Rez is up next and unleashes a mist that kinda looks like bad breath from her snoot.
+  - 2 of the enemies are hit for 10 points of damage! Deadly breath on the Dragonborne.
+- As the Zombies inch closer Skógur readies an attack to hit the Zombies if they break through the Guardian defense ending his turn.
+- Undril does her best to attack the undead but misses.
+- Freya still bloodied unleashes two attacks on one of the Zombies. First a strike with her Trident and next is a swift kick to the nads. With the nards jumbled the Zombie dies holding his disgusting manhood.
+- The remaining Zombies approach the Guardians and are quickly met with a counter attack causing dark, deep burns from their swords as they slice into the Zombie flesh. Although beaten up, the Zombies continue their assault.
+- Boneless-Beeyotch goes after Undril and latches to her face cutting off her air supply.
+- Virra risks it for the biscuit and tries to hit the blob off Undril but it's still sticking.
+- Pan springs into action and pries the back of goop off of her face relieving both Undril and Skógur.
+- Qawasha and Weed unleash attack on the sack of goo but they're at disadvantage and both miss.
+- Res approaches the blob with her Battle Axe trying to end it for good but fails.
+- Skógur also goes after the blob but cannot take it down with his sword.
+- Undril casts Sacred Flame hitting the goo-Zombie-blob ending it's life.
+- Freya shoots her long at the last remaining zombie and hits!
+- The Guardians take care of the last Zombie flogging it into ash.
+
+#### Goo-B-Gone
+- After the encounter Qawasha says that they're the undead they intend to destroy but has seen much worse. He voices concerns about Undril leaving as our main healer will no longer be with the Party.
+- Seeing Freya is looking rough he tosses her a Green Goo (good goo not bad goo) to restore some health.
+  - Party learns that Rex can grant up to 10 HP to party per Long Rest.
+- As the Party settles in for another night among the stars without shelter Skógur takes first watch.
+- After a terrible roll, we just hope to survive what goes bump in the night.
+
+**Will the Party survive the night? Will they ever get a Long Rest? Will Skógur ever find true love? Tune in Next Time!**
 
 ------------
 
