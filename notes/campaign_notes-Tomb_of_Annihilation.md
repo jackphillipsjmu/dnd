@@ -914,7 +914,7 @@ _**TODO: Complete the Notes for this Session**_
 
 - As the party catches their breath the hard rain turns into more of a drizzle but due to the circumstances in camp no one can perform anything but a Short Rest.
 - Freya gets some much needed HP back from the Short Rest and nothing sneaks up on the party in the process.
-  - **Note**, dice rolls for Short Rests are returned after a Long Rest. Other things such as Ki points for Monk characters only come back during a Long Rest as well. We need to find some structure like a cave to take a Long Rest.
+  - **Note**, dice rolls for Short Rests are returned after a Long Rest. For Monks, when you spend a Ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended Ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your Ki points.
 
 ### Love Boat?
 - Wake up in the morning feeling like P-Diddy
