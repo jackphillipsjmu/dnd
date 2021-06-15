@@ -997,8 +997,8 @@ _**TODO: Complete the Notes for this Session**_
   <p align="center"><em>MVP of the Session Is... Weed! Otherwise known as Kupalué</em></p>
 </p>
 
-- Qawasha casts Produce Flam hitting the enemies and filling the air with the smell of burning flesh.
-- Rez is up next and unleashes a mist that kinda looks like bad breath from her snoot (her words not mine).
+- Qawasha casts Produce Flame hitting the enemies and filling the air with the smell of burning flesh.
+- Rez is up next and unleashes a mist that kinda looks like bad breath from her snoot _(her words not mine)_.
   - 2 of the enemies are hit for 10 points of damage! Deadly breath on the Dragonborne, yes. Effective? Also yes.
 - As the Zombies inch closer Skógur readies an attack to hit the Zombies if they break through the Guardian defense ending his turn.
 - Undril does her best to attack the undead but misses.
