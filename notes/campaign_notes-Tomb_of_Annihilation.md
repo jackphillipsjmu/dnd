@@ -978,19 +978,25 @@ _**TODO: Complete the Notes for this Session**_
 
 #### Bring out the White Knights
 - Undril being a boss calls upon [Torm](https://forgottenrealms.fandom.com/wiki/Torm) and casts [Spirit Guardians](https://roll20.net/compendium/dnd5e/Spirit%20Guardians#content) which summons a group of White Knights around the party. If an enemy approaches the Knights will respond and attack them.
-- Freya goes on the offensive, jumps out from the glow of the fire and the Guardians and darts toward the middle-non-goo Zombie.
-  - She hits the Zombie piercing right through it's non-existent nose area followed by a quick slap.
+- Freya goes on the offensive, jumps out from the glow of the fire and the Guardians then darts toward the middle-non-goo Zombie.
+  - She hits the Zombie piercing right through it's non-existent nose with her Trident which is then followed by a quick slap.
   - Although hitting the undead twice it is still standing and now she is prime for the Zombie picking.
   - She makes a good play and skirts around some of the Zombies to avoid all but a single opportunity attack.
 - Zombies noticing she's flown into the danger zone gang up on Freya.
   - First, she is slammed for 5 HP of damage.
   - The right-hand goo-Zombie attacks twice missing once then landing a second hit knocking her to just 4 HP.
   - The flesh sack jumps to attack Freya but misses!
-  - The other Zombies try to go full Hulk Hogan and slam-wow her again but both attacks miss, phew.
+  - The other Zombies try to go full Hulk Hogan and slam-wow her again but both attacks miss, _phew_.
 - Virra takes aim with her bow and unleashes an arrow through the fire hitting the right-hand goo-Zombie severely damaging it.
 - Seeing Freya is in bad shape Pan uses her Thorn Whip to bring her back to the Guardians defense line to avoid taking more damage.
   - Since this is an attack technically, it could mean the end for Freya if it's a little too thorny. Luckily, it only deals 2 points of damage and Freya is pulled back without issue since all of the Zombies have used their reactions earlier in the turn.
 - Weed pulls out his trusty slingshot and with deadly aim critically hits one of the Zombies with a rock to the dome.
+
+<p align="center">
+  <img src="img/weed_portrait.jpg" width="150" height="200">
+  <p align="center"><em>MVP of the Session Is... Weed! Otherwise known as Kupalué</em></p>
+</p>
+
 - Qawasha casts Produce Flam hitting the enemies and filling the air with the smell of burning flesh.
 - Rez is up next and unleashes a mist that kinda looks like bad breath from her snoot (her words not mine).
   - 2 of the enemies are hit for 10 points of damage! Deadly breath on the Dragonborne, yes. Effective? Also yes.
@@ -1020,6 +1026,8 @@ _**TODO: Complete the Notes for this Session**_
   - Party learns that Rex can grant up to 10 HP to party per Long Rest. Useful for the future!
 - As the Party settles in for another night among the stars without shelter Skógur takes first watch as he has Alert as his feat.
 - However, after a terrible roll, the party may not survive what goes bump in the night.
+
+
 
 _**Will the Party survive the night?**_
 
