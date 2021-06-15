@@ -934,7 +934,7 @@ _**TODO: Complete the Notes for this Session**_
   - After a Nature check they determine it has a tie to nature and is indeed a beast (even if undocumented).
 - The canoes move down the river and the party is now about 15 feet away from the small family of Pigs.
 - As the party looks on a loud shrieking and the sound of giant wings fill the air.
-- Once in view the party see's that it is a group of large bird-lizard's of some sort have 20 foot wing spans, huge talons and beaks with gray skin.
+- Once in view the party see's that it is a group of large bird-lizard's of some sort. Each with a 20 foot wing span, huge talons and sharp beak with gray skin.
 - Noticing the Poppa and Child on the coastline the birds dive and start to attack the baby pig.
 - Poppa-Pig doesn't like that and gores one of the birds with ferocity.
 - As the team decides what we should do we continue to move down river and are now about 20 feet away from the encounter.
