@@ -1022,7 +1022,13 @@ _**TODO: Complete the Notes for this Session**_
 - As the Party settles in for another night among the stars without shelter Skógur takes first watch as he has Alert as his feat.
 - However, after a terrible roll, the party may not survive what goes bump in the night.
 
-**Will the Party survive the night? Will they ever get a Long Rest? Will Skógur ever find true love? Tune in Next Time!**
+_**Will the Party survive the night?**_
+
+_**Will they ever get a Long Rest?**_
+
+_**Will Skógur ever find true love?**_
+
+**Tune in Next Time to Find Out!**
 
 ------------
 
