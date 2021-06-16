@@ -1007,7 +1007,7 @@ _**TODO: Complete the Notes for this Session**_
 - Leaving Skógur's feeble attempt to hold hands behind the Guardian line she moves outside of the White Knight's range of effectiveness.
 - The Boneless-Beeyotch goes after Undril and latches to her face cutting off her air supply.
 - Virra risks it for the biscuit and tries to hit the blob off Undril but it holds on wrapping it's gooey arms around Undril's noggin tighter.
-- Pan pounces into action (not as "Pan"ther) and pries the back of goop off of Undril's face relieving both Undril and Skógur.
+- Pan pounces into action (not as "Pan"ther) and pries the bag of goop off of Undril's face relieving both Undril _(and Skógur)_.
 - Qawasha and Weed unleash attack on the sack of goo but they're at disadvantage and both miss.
 - Rez approaches the blob with her Battle Axe trying to end it for good but fails to do so.
 - Skógur also goes after the blob but cannot take it down with his sword. Slippery bastard.
