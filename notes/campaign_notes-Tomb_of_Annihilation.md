@@ -1085,7 +1085,7 @@ _**Will Skógur ever find true love?**_
 - The last of the gang of Wasps targets Freya but misses and hits skates fleeing the seen.
 - Virra readies her Long Bow, draws back and releases hitting the Wasp in flight.
 - Qawasha nods and tells the party, _"I'll end dis"_ but misses.
-- Skógur musters up whatever scraps of game and confidence he has without having a stiff drink for the past 3 days. He looks at Undril and says, _"Watch this"_, aims his short bow and hits the Wasp ending it's life and combat.
+- Skógur musters up whatever scraps of game and confidence he has without having a stiff drink for the past 3 days. Looks at Undril and says, _"Watch this"_, aiming his short bow down river and firing. The rolls are nice and it hits the Wasp ending it's life and combat.
   - Undril claps as Skógur's Elvish face glows red with his heart beating out of his chest.
 - **Total Flame On Count _(so far)_**: `5`
 
