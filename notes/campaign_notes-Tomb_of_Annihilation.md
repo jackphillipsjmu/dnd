@@ -1138,6 +1138,11 @@ _**Will Skógur ever find true love?**_
   - **_Goodnight!_**
 - With nightmare fuel in their heads Skógur takes first watch as the party gets some rest.
 
+<p align="center">
+  <img src="img/sesh_11_headcrab.jpg" width="250" height="250">
+  <p align="center"><em>Head Spider Artist Depiction</em></p>
+</p>
+
 ### Whose Mans is This?
 - As Skógur surveys the camp a sudden chill runs up his spine.
 - A short moment later a ghostly figure emerges from the jungle and is heading towards him.
