@@ -1067,7 +1067,7 @@ _**Will Skógur ever find true love?**_
 </p>
 
 #### ['Cause Now I'm Finna WASP](https://www.youtube.com/watch?v=k_cfM204P6s)
-- Skógur is first up and readies his short bow from the canoe and lets it rip nailing the leading Wasp in it's dumb torso.
+- Skógur is first up and readies his short bow from the canoe and lets it rip nailing the leading Wasp in it's dumb colored tummy.
 - Pan is up next and produces a solid flame engulfing but not killing one of the Wasps.
 - Freya uses her Trident and tries to stab one out of the air but misses. She readies Patient Defense just in case which puts all enemy attacks at disadvantage.
 - The Wasps being a-holes come at Virra with a vengeance but are met with a swift shield block for no damage.
