@@ -1108,7 +1108,7 @@ _**Will Skógur ever find true love?**_
 - As the party settles in for another Short Rest. Skógur purifies water as he takes first watch so everyone can stay hydrated.
 - When Skógur's watch has ended he wakes up Pan to take second watch which thankfully is uneventful.
 
-### Bundle Up it's Day 4
+### Bundle Up! It's Day 4
 - Wake up and it's oddly cold in Chult, around 50 degrees, the animals in the jungle around them are lackadaisical due to the change in weather.
 - No rain was caught last night but luckily Skógur purified 6 gallons of water for everyone to drink (max he can do with Brewers supplies in one sitting).
 - The party heads back down the lazy river in their canoes until the early evening.
@@ -1138,7 +1138,7 @@ _**Will Skógur ever find true love?**_
   - **_Goodnight!_**
 - With nightmare fuel in their heads Skógur takes first watch as the party gets some rest.
 
-### Who's Mans is This?
+### Whose Mans is This?
 - As Skógur surveys the camp a sudden chill runs up his spine.
 - A short moment later a ghostly figure emerges from the jungle and is heading towards him.
 - Frozen by fear, the ghost approaches Skógur and as he screams out to stay away it lays a hand on his shoulder causing 14 points of damage.
@@ -1159,17 +1159,18 @@ _**Will Skógur ever find true love?**_
 - Virra then fires from her Long Bow but misses the ghostly-ghoul.
 - Freya, being a Monk, attempts to reason with the floaty dude.
   - _"We don't want any trouble, we're just trying to help. What brought you herer? What kept you here?"_
-  - The spirit turns and looks at Freya, wails loudly then flys to the south into the dense jungle.
-- Shrieks are heard from the jungle and then it appears again into the parties view and then again out of sight.
+  - The spirit turns and looks at Freya, wails loudly, then flys to the south into the dense jungle.
+- Shrieks are heard from the jungle, then it appears again into the parties view, and then again out of sight in the jungle.
 - _Does it seriously want us to follow it?_
 
 ##### Spirit Fingers
-- With the party wondering what to do, Undril lights a stick for Freya and they begin to head towards where it flew into the jungle. Skógur sucks it up for Undril and follows closely behind as they enter the dense brush.
+- With the party wondering what to do, Undril lights a stick for Freya to see in the dark and they begin to head towards where the apparition flew into the jungle.
+- Skógur sucks it up for Undril and follows closely behind as they enter the dense brush.
 - Soon after the group of three see the ghost floating over what seems to be more than just Earth.
   - It appears to be the bones of a humanoid creature that was cooked and nawed on.
   - The visage shrieks again _(c'mon, use your words please)_.
-- After asking the ghost if it's chill with burrying it's bones or wants vengeance Undril casts a spell on the pile of bones and the spirit evaporate into the night sky. To make sure it doesn't come back a quick burial needs to take place.
-- Undril notices as they approach a sack 10 feet ahead of us.
+- After asking the ghost if it's chill with burrying it's bones or wants vengeance Undril casts a spell on the pile of bones. The spirit evaporate into the night sky and the three take a sigh of relief. To make sure it doesn't come back a quick burial needs to take place.
+- Undril notices as they approach a sack 10 feet ahead of them.
 - Freya picks it up, rolls a natural 1 and there's nothing in the sack of value. _Poop_.
 - They put to rest the former ghostly adventurer in a grave before returning.
 - The Spirit Saviours head back to the greater group where Pan takes an uneventful watch as the rest of the party sleeps it off.  
@@ -1218,6 +1219,11 @@ _**Will Skógur ever find true love?**_
 - Qawasha and Weed stay by the shrine and sleep there while the rest of the party takes a Long Rest near the statue of Torm. **Bringing everyone up to level 3!**.
 
 **What will happen in the Shrines of Camp Righteous? Tune in Next Time to Find Out!**
+
+### Things to Note!
+- When rolling different checks use a Private GM roll so the party is unaware of what happened.
+- Purple Berried vines are probably dangerous so approach with caution.
+- About 2 hexes on the map per day traveling on the river.
 
 [_Back to Top_](#top_of_page)
 
