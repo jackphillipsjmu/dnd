@@ -1163,6 +1163,11 @@ _**Will Skógur ever find true love?**_
 - Shrieks are heard from the jungle, then it appears again into the parties view, and then again out of sight in the jungle.
 - _Does it seriously want us to follow it?_
 
+<p align="center">
+  <img src="img/specter.png" width="250" height="300">
+  <p align="center"><em>Spooky Specter Ghost</em></p>
+</p>
+
 ##### Spirit Fingers
 - With the party wondering what to do, Undril lights a stick for Freya to see in the dark and they begin to head towards where the apparition flew into the jungle.
 - Skógur sucks it up for Undril and follows closely behind as they enter the dense brush.
