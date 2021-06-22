@@ -1208,7 +1208,7 @@ _**Will Skógur ever find true love?**_
   <p align="center"><em>Ravaged Camp Righteous</em></p>
 </p>
 
-- A giant shrine of a person is built into the hillside that has an enormous Alligator draped around it's shoulders acting like a sort of head piece.
+- A giant shrine of a person is built into the hillside that has an enormous Alligator draped around its shoulders acting like a sort of head piece.
 
 <p align="center">
   <img src="img/alligator_statue.png" width="350" height="250">
