@@ -1228,7 +1228,7 @@ _**Will Skógur ever find true love?**_
   - Sensing that Qawasha and Weed would like to adventure into the statue then and there Skógur suggests to get some rest and they'll hit it in the AM which they agree too.
 - Qawasha and Weed stay by the shrine and sleep there while the rest of the party takes a Long Rest near the statue of Torm. **Bringing everyone up to level 3!**
 
-**What will happen in the Shrines of Camp Righteous? Tune in Next Time to Find Out!**
+**What will happen in the Shrines of Camp Righteous? What new abilities await when hitting Level 3? Tune in Next Time to Find Out!**
 
 ### Things to Note!
 - When rolling different checks use a Private GM roll so the party is unaware of what happened.
