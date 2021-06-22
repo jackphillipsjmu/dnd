@@ -1221,7 +1221,7 @@ _**Will Skógur ever find true love?**_
   - Local mytholigical creature that signifies much to their culture.
   - Qawasha says alligators/corocodiles may be lurking in the pathway under the statue but can handle it since he can speak to animals. But is worried that the undead caused this destruction.  
   - Sensing that Qawasha and Weed would like to adventure into the statue then and there Skógur suggests to get some rest and they'll hit it in the AM which they agree too.
-- Qawasha and Weed stay by the shrine and sleep there while the rest of the party takes a Long Rest near the statue of Torm. **Bringing everyone up to level 3!**.
+- Qawasha and Weed stay by the shrine and sleep there while the rest of the party takes a Long Rest near the statue of Torm. **Bringing everyone up to level 3!**
 
 **What will happen in the Shrines of Camp Righteous? Tune in Next Time to Find Out!**
 
