@@ -1188,7 +1188,7 @@ _**Will Skógur ever find true love?**_
       - Punishing an evil act is just. Punishing an evil thought is not.
   - Chosen for the shrine that was built in the hillside.
   - Hopes to find Commander Niles there.
-    - _"Who tf is Niles?"_ - Skógur
+    - _"Who **tf** is Niles?"_ - Skógur
 
 #### Uh Oh
 - As the party rounds the last bend they are met with the sight of a dark and ravaged camp.
