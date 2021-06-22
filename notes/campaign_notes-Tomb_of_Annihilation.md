@@ -1,4 +1,4 @@
-injures###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
+###### <a name="top_of_page"></a>[&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
 
 # Tomb of Annihilation Campaign
 _Compiled Notes for the Tomb of Annihilation Campaign_
@@ -24,6 +24,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - [**Session Eight**: _Run the Jewels_](#session_eight)
 - [**Session Nine**: _Jungle Boogie (Part 1)_](#session_nine)
 - [**Session Ten**: _Ooey Gooey Gross and Jaculi_](#session_ten)
+- [**Session Eleven**: _Can We Nap at Camp Righteous?_](#session_eleven)
 
 ---
 ## <a name="session_one"></a>Session One
@@ -1027,8 +1028,6 @@ _**TODO: Complete the Notes for this Session**_
 - As the Party settles in for another night among the stars without shelter Skógur takes first watch as he has Alert as his feat.
 - However, after a terrible roll, the party may not survive what goes bump in the night.
 
-
-
 _**Will the Party survive the night?**_
 
 _**Will they ever get a Long Rest?**_
@@ -1037,7 +1036,184 @@ _**Will Skógur ever find true love?**_
 
 **Tune in Next Time to Find Out!**
 
-------------
+[_Back to Top_](#top_of_page)
 
+------------
+## <a name="session_eleven"></a>Session Eleven
+
+### &#x1F919; Camp Righteous! Righteous! &#x1F919;
+- Luckly for the band of adventurers nothing went bump in the night and they awaken to another 95 degree sweat box of a day.
+- The party does their morning routine of lathering up with some bug salve _(1 per day)_. However, Qawasha has other plans casting Bark Skin after approaching a nearby tree which, you guessed it, turns his skin into bark. No salve for the guides it seems.  
+- Before they set off down River Soshenstar they determine it will take 3 days ride to get to Camp Righteous (around 2 hexes on the map per day).
+- The party splits up into the two tightly packed canoes. One with Undril, Pan, Freya and Skógur, and the rest of the party and guides in the other.
+- Shoving off the bank towards Camp Righteous to get Undril in contact with her compadres the gang hopes for smooth passage down the river.
+
+<p align="center">
+  <img src="img/chult_rivers_north.jpg">
+  <p align="center"><em>Northern Chult Rivers</em></p>
+</p>
+
+### When in Doubt, Produce a Flame
+- Coasting along the river the morning hours don't bring much entertainment but as soon as they begin to get comfortable, right before afternoon nappies at 2:00 pm, they start to hear an odd noise.
+- Heavy droning is coming from the East river in the depths of the jungle.
+  - Pan rolls a Nature check and has never heard something this aggressive.
+  - _It sounds like... Bugs... Big ones... And it's getting louder._
+- Hoping that maybe it'll pass the party continues on until 6 largs Wasps emerge from the tree line looking like pissed off bastards. As Wasps typically look.
+  - Each Wasp adorns a big ol' butt stinger's with different colors expanding across their torsos (Torsos? Abdomen? `¯\_(ツ)_/¯`)
+
+<p align="center">
+  <img src="img/bees.jpg" width="350" height="250">
+  <p align="center"><em>Nah, Wasps. As they begin to buzz up to the party combat begins</em></p>
+</p>
+
+#### ['Cause Now I'm Finna WASP](https://www.youtube.com/watch?v=k_cfM204P6s)
+- Skógur is first up and readies his short bow from the canoe and lets it rip nailing the leading Wasp in it's dumb torso.
+- Pan is up next and produces a solid flame engulfing but not killing one of the Wasps.
+- Freya uses her Trident and tries to stab one out of the air but misses. She readies Patient Defense just in case which puts all enemy attacks at disadvantage.
+- The Wasps being a-holes come at Virra with a vengeance but are met with a swift shield block for not damage done.
+- Rez winds up and casts Sacred Flame chalking up 6 points of damage.
+- Undril finishes off the injured Wasp with her rendition of Sacred Flame.
+- Virra stashes her shield away, knocks an arrow and lets it fly bloodying one of the airborn turds.
+- Back near Freya the Wasp retaliates but given her patient defense is able to dodge the attack unscathed.
+- Qawasha joins the flame party and produces it right at the Wasp nearest Virra inflicting fire damage.
+- The Wasps not gettin' none are able to sting Virra but are left unsatisfied as their attempts to poison her fail.
+- Skógur not having no Wasp sting his bud fires another arrow from his short bow hitting the Wasp that just stung Virra.
+- Pan getting tired of this ish produces flame and flicks an ember off of her finger tip that worms its way into the Wasps head. After a brief moment with the party looking up at the Wasp its head suddenly bursts into flame critically injuring it.
+- Although the Wasp is in bad shape it still manages to pull one last sting on Pan before flying away like a coward.
+- Freya steadies her aim and lets loose with her Long Bow putting the second to last Wasp on its last wing.
+- Rez pulls a new trick out of her sleeve and casts [Toll the Dead](http://dnd5e.wikidot.com/spell:toll-the-dead) on the second to last Wasp. Hearing bells in its ear holes the Wasps head spins violently Exorcist style until finally it pops off falling to the river below.
+- The last of the gang of Wasps targets Freya but misses and hits skates fleeing the seen.
+- Virra readies her Long Bow, draws back and releases hitting the Wasp in flight.
+- Qawasha nods and tells the party, "I'll end dis" but misses.
+- Skógur musters up whatever scraps of game and confidence he has without having a stiff drink for the past 3 days. He looks at Undril and says, "Watch this", aims his short bow and hits the Wasp ending it's life and combat.
+  - Undril claps as Skógur's Elvish face glows red with his heart beating out of his chest.
+- **Total Flame On Count (so far)**: `5`
+
+<p align="center">
+  <img src="img/after-the-wasp-battle.png" width="350" height="250">
+  <p align="center"><em>After the Wasp War</em></p>
+</p>
+
+#### It Ain't Over
+- As the party relaxes, Pan starts to turn white and starts feeling light headed as nightfall quickly approaches.
+- Succombing to the Wasp's poison Pan's teeth begin chattering as she falls over onto the canoe deck. After Rez asks what is going on Qawasha mutters, "It's da Shivering Sickness" as the group grows more concerned.
+- Pan shakily plucks a vile of anti-poison from her bag but upon recounting what it does and cures realizes it won't help and drops it back into her napsack.
+- Rez lays them Dragon hands on Pan which eminates heat and Pan's teeth stop chattering and is cured! Undril is impressed with her skills.
+
+### How Bout that Long Rest?
+- Flipping a coin Pan spawns her Owl familiar Artemis and teslls it to search the West bank for shelter but comes up empty.
+- The party needs shelter quickly as it's 8 pm and the sun is setting quickly.
+- Knowing they won't make it to Camp Righteous they dock on a nearby bank to catch some _Zzz's_ and gather supplies.
+- After some poor Survival checks at the camp only Pan water and food for the group.
+- As the party settles in for another Short Rest Skógur purifies water as he takes first watch so everyone can stay hydrated.
+- When Skógur's watch has ended he wakes up Pan to take second watch which thankfully is uneventful.
+
+### Bundle Up it's Day 4
+- Wake up and it's oddly cold in Chult, around 50 degrees and the animals in the jungle around them are lackadaisical due to the change in weather.
+- No rain was caught last night but luckily Skógur purified 6 gallons of water for everyone to drink.
+- The party heads back down the lazy river in their canoes until the early evening.
+
+#### We're a Red Vines Family
+- As the group glides along the water a noise is heard from the East.
+- From the jungle a large Stegosaurus appears. The giant dino looks at the adventurers and then goes about it's daily feeding time.
+- Suddenly, vines begin to wrap around the Steg-O. As it fights against nature itself the vines grow tighter and tighter.
+- Losing energy, the dino collapses to the floor and is drawn back into the dense jungle.
+- Freya uses her Perception to determine the vines came from the jungle floor.
+- The party paddles towards the bank with the vines for a closer look.
+  - Vines seem pretty normal but there are **purple berries** growing from it (may be important!)
+- Wondering if the vines are really carnivourous Freya tosses some jerky from her pack towards the vines and the rest of the group waits in anticipation. Then! Nothing happens.
+- Dissappointed, Freya asks Weed to shoot at the vines to try and get some reaction. Again, nada.
+- With nothing provoking the vines the party heads down river another 10 miles.
+
+<p align="center">
+  <img src="img/stegosaurus.jpg" width="350" height="250">
+  <p align="center"><em>RIP</em></p>
+</p>
+
+### Tales of the Crypt With Qawasha
+- As night falls the crew docks and sets up camp.
+- Rez is able to catch some fish while Pan and Skógur scavenge from some root veggies and small animals totalling 18 pounds of food and 14 gallons of water.
+- As everyone is tucking in for the night Rez asks Qawasha for a bedtime story. Pan wants one about the undead which he delivers.
+  - Qawasha tells a tale of adventuring with another party through the southern Chult jungles. There they found a body with 6 spears and no head. After going to sleep that night they are awakaned to see a Zombie head with spider like heads biting at one of their party members.
+  - **_Goodnight!_**
+- With nightmare fuel in their heads Skógur takes first watch as the party gets some rest.
+
+### Who's this Guy?
+- As Skógur surveys the camp a sudden chill runs up his spine.
+- A short moment later a ghostly figure emerges from the jungle and is heading towards him.
+- Frozen by fear, the ghost approaches Skógur and as he screams out to stay away lays a hand on him causing 14 points of damage.
+- Hearing Skógur's cries some of the party wakes up while others remain fast asleep.
+- Qawasha wakes up Pan and the fight is on!
+
+#### I Ain't Afraid of No Ghosts
+- Skógur rolls the highest initiative and lays into the ghost with his Long Sword then disengages and runs toward Undril and Virra.
+- Undril casts Sacred Flame but unfortunately misses.
+- The ghostly figure launches an attack back at Undril critical injuring her as she's knocked to the groun. But she's still kicking!
+- Rex runs to Undril and lays them hands again granting 2 HP.
+- Qawasha casts Produce Flame and misses.
+- Pan moves around the camp, casts Produce Flame and finally is able to hit the Ghost successfully but it's resistant to flame!
+- Weed using his trust Sling Shot slangs at what we discovered was a Scepter hitting for a minor amount of damage.
+- Skógur moves around the battlefield and takes a shot with his short bow but the dude is a strong one.
+- The party upon giving a double and triple take notice that it is a former adventurer.
+- Virra then fires from her Long Bow but misses the ghostly-ghoul.
+- Freya, being a Monk, attempts to reason with the Scepter.
+  - "We don't want any trouble, we're just trying to help. What brought you herer? What kept you here?"
+  - The spirit turns and looks at Freays, wails and flys to the south into the dense jungle.
+- More shrieks are heard from the jungle and then it appears again into the parties view. Does it seriously want us to follow it?
+
+##### Spirit Fingers
+- With the party wondering what to do Undril lights a stick for Freya and they begin to head towards where the Scepter flew into the jungle. Skógur sucks it up for Undril and follows closely behind as the enter the jungle.
+- Soon after the group of three see the ghost floating over what seems to be more than just Earth.
+  - It appears to be the bones of a humanoid creature that was cooked and nawed on.
+  - The visage shrieks again (use your words please).
+- After asking the ghost if it's chill with burrying it's bones or wants vengeance Undril casts a spell on the pile of bones and it evaporates into the night sky. To make sure it doesn't come back a quick burial needs to take place.
+- Undril notices a sack 10 feet ahead of us near the pile of bones.
+- Freya picks it up, rolls a natural 1 and there's nothing in the sack of value.
+- The Spirit Saviours head back to the greater group where Pan takes an uneventful watch as the rest of the party sleeps it off.  
+- **Total Flame On Count**: `8`
+
+### Day 5, Not So Righteous
+- With a strong wind at the adventurers back they hit the water taking note that arrows in such high winds may impact how arrows fly.
+- The gang hears thunderous hooves throug the trees and a Brontosaurus breaks through the jungle.
+  - As it crosses the river the party is of no interest to the dino and it crosses without hurting a fly.
+- As they continue downriver with Camp Righteous approaching soon Undril dishes about the Camp.
+  - Earlier camp for the Order of the Gauntlet.
+  - Chosen for the shrine that was built in the hillside.
+  - Hopes to find Commander Niles there.
+    - "Who tf is Niles?" - Skógur
+
+#### Uh Oh
+- As the party rounds the last bend they are met with the sight of a dark and ravaged camp.
+
+<p align="center">
+  <img src="img/entering_the_camp.png" width="370" height="250">
+  <p align="center"><em>Ravaged Camp Righteous</em></p>
+</p>
+
+- A giant shrine of a person is built into the hillside that has an enormous Alligator draped around it's shoulders acting like a sort of head piece.
+
+<p align="center">
+  <img src="img/alligator_statue.png" width="350" height="250">
+  <p align="center"><em>Big Ol' Gator Shrine</em></p>
+</p>
+
+- As they land and survey the camp it's been abandoned. Moldy tents and burned building dot the lanscape leading up to the 80 foot stone statue that has a pathway underneath it.
+- Another statue of the God Torn catches the eye of the party as well.
+- Confused on what happened, Virra asks Undril what the last communication to the Camp was.
+  - She said she had last spoke to them before setting out to Chult. So whatever happened it was relatively recent.
+- Rez and Undril look for shelter as everyone strolls through the camp.
+- Rez approaching the non-gator statue notices a Symbol of Torm. After asking Undril if it's chill to take Rez grabs it and notices it's valued at 25 gold pieces.
+- Qawasha and Weed go straight to the Alligator-man-shrine gazing upwards at it.
+- Skógur seeing the guides go so quickly to the gator shrine asks what they're looking at.
+  - Local mytholigical creature that signifies much to their culture.
+  - Qawasha says alligators/corocodiles may be lurking in the pathway under the statue but can handle it since he can speak to animals. But is worried that the undead caused this destruction.  
+  - Sensing that Qawasha and Weed would like to adventure into the statue then and there Skógur suggests to get some rest and they'll hit it in the AM which they agree too.
+- Qawasha and Weed stay by the shrine and sleep there while the rest of the party takes a Long Rest near the statue of Torm. **Bringing everyone up to level 3!**.
+
+**What will happen in the Shrines of Camp Righteous? Tune in Next Time to Find Out!**
+
+[_Back to Top_](#top_of_page)
+
+------------
 
 ###### [&#9754; _Back to Main Page_](https://jackphillipsjmu.github.io/dnd)
