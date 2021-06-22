@@ -1144,7 +1144,7 @@ _**Will Skógur ever find true love?**_
 - Frozen by fear, the ghost approaches Skógur and as he screams out to stay away it lays a hand on his shoulder causing 14 points of damage.
 - Hearing Skógur's cries some of the party wakes up while others remain fast asleep.
 - Qawasha jumps into action and wakes up Pan.
-- **_The fight is on!_**
+- **_As the rest rise from their slumber, the fight is on!_**
 
 #### I Ain't Afraid of No Ghosts
 - Skógur rolls the highest initiative and lays into the ghost with his Long Sword then disengages and runs toward Undril and Virra.
