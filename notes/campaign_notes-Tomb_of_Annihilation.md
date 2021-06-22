@@ -1043,21 +1043,21 @@ _**Will Skógur ever find true love?**_
 
 ### &#x1F919; Camp Righteous! Righteous! &#x1F919;
 - Luckly for the band of adventurers nothing went bump in the night and they awaken to another 95 degree sweat box of a day.
-- The party does their morning routine of lathering up with some bug salve _(1 per day)_. However, Qawasha has other plans casting Bark Skin after approaching a nearby tree which, you guessed it, turns his skin into bark. No salve for the guides it seems.  
-- Before they set off down River Soshenstar they determine it will take 3 days ride to get to Camp Righteous (around 2 hexes on the map per day).
+- The party does their morning routine of lathering up with some bug salve _(1 per day)_. However, Qawasha has other plans casting [Barkskin](http://dnd5e.wikidot.com/spell:barkskin) after approaching a nearby tree which, you guessed it, turns his skin into bark. No salve for the guides it seems.  
+- Before they set off down **River Soshenstar** they determine it will take 3 days float to get to Camp Righteous _(around 2 hexes on the map per day)_.
 - The party splits up into the two tightly packed canoes. One with Undril, Pan, Freya and Skógur, and the rest of the party and guides in the other.
 - Shoving off the bank towards Camp Righteous to get Undril in contact with her compadres the gang hopes for smooth passage down the river.
 
 <p align="center">
-  <img src="img/chult_rivers_north.jpg">
+  <img src="img/chult_rivers_north.png">
   <p align="center"><em>Northern Chult Rivers</em></p>
 </p>
 
 ### When in Doubt, Produce a Flame
-- Coasting along the river the morning hours don't bring much entertainment but as soon as they begin to get comfortable, right before afternoon nappies at 2:00 pm, they start to hear an odd noise.
+- Coasting along the river the morning hours don't bring much entertainment. On queue as soon as they begin to get comfortable, right before afternoon nappies at 2:00 pm, they start to hear an odd noise.
 - Heavy droning is coming from the East river in the depths of the jungle.
   - Pan rolls a Nature check and has never heard something this aggressive.
-  - _It sounds like...Bugs...Big ones...And it's getting louder..._
+  - _It sounds like... Bugs... Big ones... And it's getting louder..._
 - Hoping that maybe it'll pass the party continues on until 6 largs Wasps emerge from the tree line looking like pissed off bastards. As Wasps typically do.
   - Each Wasp adorns a big ol' butt stinger with different colors expanding across their torsos (Torsos? Abdomen? `¯\_(ツ)_/¯`)
 
