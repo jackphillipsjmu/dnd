@@ -1159,7 +1159,7 @@ _**Will Skógur ever find true love?**_
 - Virra then fires from her Long Bow but misses the ghostly-ghoul.
 - Freya, being a Monk, attempts to reason with the floaty dude.
   - _"We don't want any trouble, we're just trying to help. What brought you herer? What kept you here?"_
-  - The spirit turns and looks at Freya, wails loudly, then flys to the south into the dense jungle.
+  - The spirit turns and looks at Freya, wails loudly, then flys to the south into the dense jungle like a child being told to go to their room.
 - Shrieks are heard from the jungle, then it appears again into the parties view, and then again out of sight in the jungle.
 - _Does it seriously want us to follow it?_
 
