@@ -25,6 +25,7 @@ _Compiled Notes for the Tomb of Annihilation Campaign_
 - [**Session Nine**: _Jungle Boogie (Part 1)_](#session_nine)
 - [**Session Ten**: _Ooey Gooey Gross and Jaculi_](#session_ten)
 - [**Session Eleven**: _Can We Nap at Camp Righteous?_](#session_eleven)
+- [**Session Twelve**: _What is this Trap House?_](#session_twelve)
 
 ---
 ## <a name="session_one"></a>Session One
@@ -1234,6 +1235,195 @@ _**Will Skógur ever find true love?**_
 - When rolling different checks use a Private GM roll so the party is unaware of what happened.
 - Purple Berried vines are probably dangerous so approach with caution.
 - About 2 hexes on the map per day traveling on the river.
+
+_**NOTE:** Your humble narrator was mistaken before about what the Gator-Person statue was. It is indeed a Crocodile-Person statue  (Crikey!)._
+
+[_Back to Top_](#top_of_page)
+
+------------
+## <a name="session_twelve"></a>Session Twelve
+
+### Let Me Upgrade You _(featuring Jay-Z)_
+_With Level 3 comes some upgrades! Here are a few highlights_
+
+#### Pan
+- Upgraded Druid for max dope-ability.
+- Continued on as a member of the Circle of Dreams
+  - _"Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest."_ - Xanathar's Guide to Everything
+- Each level gains increased healing ability.
+- She can even teleport at level 6!
+
+#### Freya
+- As a Monk Freya chose the Way of Mercy Monastic Tradition. She can now manipulate life force to help or end suffering.
+  - _"Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy. Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies.The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death."_
+- Ki ability is uppped and she can now inflict wounds for necrotic damage.
+
+#### Virra
+- She be an Eldritch Knight meow with a focus on magic energy.
+  - _"Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic: abjuration and evocation...These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook."_
+- Comes pre-packaged with protection and multi-energy damage.
+- Will need to focus on spells and if they require her to use her hands, speak, etc. as it may cause some unforseen outcomes.
+
+
+#### Rez
+- Took the Oath of Devotion which binds a Paladin to the loftiest Ideals of justice, virtue, and order.
+  - _"Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the Knight in shining armor, Acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their Ideals, and incorporate images of angelic wings into their helmets or coats of arms."_
+- Immune AF to diesease.
+- Can now Turn the Unholy (_suck it undead_).
+
+#### Skógur
+- Other Monk in the crew chose the Monstastic Tradition of the Drunken Master.
+  - _"The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe."_
+- Picked up some Cooking Utensils as well which unfortunately wasn't thought of during the shopping trips in Chult. Still, knowledge of the local history of the culture's eating habits may come in handy.
+
+### Swear that Was a Gator Around His Neck
+- The party wakes up in the burnt shring to the blistering heat that only Chult can offer. Qawasha and Weed are just chillin' out in the shade staying out of the heat in the shadow of the Crocodile shrine.
+- After stretching out the aches of the previous day Skógur approaches Qawasha and Weed and asks about the shrine they chose to sleep under.
+- Qawasha tells the tale
+  > "In the early days of the world, Man stood by the banks of
+  > a river, frightened . Crocodile raised his head from the water
+  > and asked, “What troubles you, cousin Man?”
+  > Man said, " I must cross this river, but I fear to enter
+  > the water alone, because it teems with your brethren."
+  > Crocodile rep lied, “It’s true, you would not be safe. But
+  > I will carry you across the river safely on my back, if you
+  > promise to return the favor.” Man agreed, and Crocodile
+  > bore him safely across the water
+  > When they reached the f ar bank , Man asked, “How can
+  > I repay you?” Crocodile replied, “I wish to see the realm
+  > of Humans, but I fear to go there alone, because it teems
+  > with your brethren. You must carry me on your back
+  > across your realm.” Man had been tricked, but a promise
+  > is a promise, so he carried Crocodile safely on his back
+  > across the entire realm of humans, a journey that lasted
+  > many years. He also swore, in his anger, that never again
+  > would Men and Crocodiles be friends , and so it has remained
+  > to this day."
+
+- Guess they should go in the shrine and check it out?
+- With the story told the adventurers taks a swig of water and approach the Croc-shrine.
+
+### Is it Safe?
+- Approached the 80 foot tall statue the party looks inside to see that it has a 23' ceiling with mud and leaves blown into the entryway.
+- Pan percieves it's chill so they soldier on into the shrine.
+- Getting closer they notice that the shrine has three tiers. The first tier is the base level floor while the others have ledges extending to the ceiling that are each 7'.
+- Virra being the agile cat she is, takes the first steps onto the first tier.
+- Immediately the floor drops away to reveil a 25' death pit. Luckly, her cat like reflexes get her out of the jam and with an athletics check is able to cling to the wall and escape the plunge.
+- Afte the floor drops out from underneath Virra there is a thin wall where the adventurers could potentially cling too. Sounds sketchy though.
+- As Virra clings to the wall Pan reacts, shrinks her Druid body down, and turns herself into a tiny green spider. She scales the wall across the room and drops down on the other side.
+
+<p align="center">
+  <img src="img/pan_green_spider.png">
+  <p align="center"><em>Spider Pan, Spider Pan, Does Whatever a Spider Pan Does</em></p>
+</p>
+
+### We Got This
+- As Pan touches down she transforms back into her true Druid shape.
+- As the party looks on giant Scythe blades come out of the walls cutting into Pan taking 18 point of damage in the process. Luckily, she Balm's the Summer Court out of herself to mellow out the damage.
+- As Pan lays the floor, Skógur asks from across the room, _"Any triggers you on?"_
+  - After Pan makes a perception check she see's there is a weighted floor under her.
+- Virra having the Thieves Tools that they found before in the jungle needs to get to Pan to assist the situation.
+- Gingerly, Virra heads back to the party where they wrap the Thieves Tools in rope to hopefully not loose it tossing it to Pan.
+- With a great throw the tools they stick the landing and no other traps are triggered!
+- Thieves Tools in hand Pan scans the area and see's that the traps may be able to be [jammed up](https://www.youtube.com/watch?v=ebGFXr2QpoA) in some sort of way.
+
+#### Lockpicking Lawyer(s)
+- Everyone begins discussing what to do as Pan still in the danger as the sharp Scythe's could come out at any moment.
+- As battle strategies are hashed out (10 mins or so) the floor on the first ground level tier rises up creating the most dangerous floor plan ever.
+- Trying not to get [Home Alone'd](https://www.youtube.com/watch?v=izXfM45jcNM) Freya looks for something to jam up the trap.
+- Finding a log she hurls it at Pan, although it knocks the wind of of her, it makes it to other side.
+- After a Strength check Pan plunges the log into the trap mechanism crevice.
+  - Although it looks like it will hold, it ain't sturdy.
+  - Freya grabs some stones, tosses them to Pan and she is able to jam that trap up nicely.
+- Growing tired of the non-Chult patron shenanigans Qawasha asks, _"What are you doing?"_ with Weed on his shoulder and crosses the trap floor without falling to their deaths.
+- Well then, lets try to figure this thing out.
+
+### We Don't Got This
+- With the rest of the parties support Virra and her superior climbing ability grabs a stone and heads across the floor.
+- Sorta suddenly, the floor drops beneath her! Since she's holding a stone in she is at disadvantage for an acrobatics check but makes it to safety on the wall.
+- Then some choice words happen, _"Qawasha WTF?! How much do you weigh? Get to Pan!"_
+- Qawasha and Weed under orders goes over to Pan successfully but unfortunately they ain't so light.
+- As the Guide's take a step within Pan's reach the Scythe blades break free and cut into Pan again knocking her unconscious. Qawasha is hurt but still able to function.
+- Seeing Pan bleeding out on the floor Rez hurls a Healing Potion to Qawasha.
+- After fumbling a bit Qawasha secures it and gives Pan 10 HP back.
+- Pan after being sliced one to many times goes cute spider mode and hits skates towards the next tier of the shrine. Weirdly, not triggering any more traps.
+- The floor rises again to meet the ground level on the first tier.
+- Qawasha, like a mystic, crosses the over to where the party still stands (total of maybe 2' into the shrine) and sits down with Weed as Undril heals him up.
+- Virra ventures on to help out Spider Pan and climbs through cob webs clinging to the wall to (hopefully) avoid any traps.
+- Skógur dumbfounded about the whole situation grabs Weed and puts the little guy on his shoulder. Being the only one who seems to grant the ability to cross the dangerous floor why not?
+- Skógur and Weed dart across the floor and scale the 7' wall clinging to the top satisfied they made it safely.
+
+### Tier Two
+- As Virra clings to the side of the sirst 7' tier she percieves that the floor on this next tier has a faint glow underneath a panel/tile on the floor (first one on the bottom row).
+- Cautiosuly, Virra uses her crowbar and compresses the panel down. As the tiled panel goes into the ground nothing crazy happens.
+- Pan, from an outside perspective, is confident about the small victory and abandons her spidey senses. Morphing into her Druid form and dropping to the floor.
+
+#### [Time To Say Goodbye](https://www.youtube.com/watch?v=4L_yCwFD6Jo)
+- As Pan hits the ground a fireball erupts from the walls.
+- Not knowing that they were in the line of fire Skógur and see Weed are engulfed in the flames along with Pan.
+- The damaged party takes count of who's injured and see Weed, vulnerable to fire damage, has passed away.
+
+<p align="center">
+  <img src="img/rip_weed.png" width="250" height="350">
+  <p align="center"><em>:(</em></p>
+</p>
+
+- Qawasha super bummed (along with the rest of the group) hops onto Undril's back and they charge across the first level drop floor unscathed.
+  - Turns out you should've listened to the Crocodile story. All you needed was to ride a persons back.
+- After dashing over Qawasha and Undril cure wounds on the party and head back to the entrance of the shrine.
+- To get some more HP back, Freya and Pan patch up the rest of the wounds.
+
+#### Gotta Double Strap This Backpack
+- After realizing you gotta have a friend on you from before the party assumes you gotta be carrying someone. So, Pan hops on Skógur's back and they hop down to a glowing tile to try and get things moving.
+- Rez and Pan follow shortly climbing up the second tier.
+- Fearful a wrong backpack-buddy-move could end them Skógur and Pan stay put on the first tile.
+- They then notice that the glyphs on the wall ahead outline a path to safey.
+- Freya using her Monk nimbleness takes the plunge and is able to cross the fire pit without injury. But isn't tall enough to see over the next 7' tier.
+- Still not knowing the backpack rules exactly and what reallly is up on the next level Freya scurries back to the other side.
+- Hopping on Rez' back they both head to the other side of the second tier.
+- Peering up they see that there are glowing glyphs in the door on the next tier with some holes in the shape of hands inlaid into it.
+
+#### Mind Giving Me a Hand?
+- After a bunch of trial and error the party determines that to open the door on the third tier that they need to be on top of each other and place a hand each in each hole.
+  - This needs to be done Top to Bottom, if it was done other wise, it could've spelled the end for the party!
+- After fisting the holes the door opens! With Undril joining the gang for the next challenge.
+
+### Juggin'
+- Entering the doorway the group can see a room with a bunch of dinosaur bones scattered about the floor, a 30' staircase in the middle and a Croc-Man statue just chilling.
+- Knowing that Weed's death couldn't be in vain Skógur and Freya take the backpack initiative having Skógur climb onto Freya's back.
+  - Undril heals Skógur before heading out which causes him to blush with a sheepish, "Thanks".
+- As the two Monks make their way around the room they don't see a whole lot that's of interest other than the staircase.
+- Needing to know what's up them stairs Freya carrying Skógur on her shoulders begin to ascend the stairs.
+- Approaching the staircase they notice a Golden Cask at the top of it. Let's go.
+
+#### The Most Unathletic Athletes Ever
+- Making their way up the stairs a series of acrobatics checks take place to make sure the Monks can climb up successfully.
+- Just getting their balance the first check flies in. Freya holds heself firmly as Skógur begins to fall off her shoulders clutching his gross Wood Elf feet to secure him.
+- After the scare the continue up like some sort of odd cheerleading routine.
+- Right about when the reach the Golden Cask/Jug another acrobitics check is rolled which causes Freya to slip a bit but Skógur braces and rebalances the duo.
+- Finally reaching the Jug Freya and Skógur notice that it has 10 corks plunged into it in various colors with a Crocodile mounted on top.
+- Super nervous the Monks take hold of the Golden Cork Jug and nothing happens.
+- Not knowing when their luck will run out they lower it down to the floor of the room and make there way down the stairs (passing all acrobatics checks might I add).
+- The Monks grab the Jug and with it hand, they head out to the way they came into the shrine.
+
+### Fire Burning on the Dance Floor
+- Skógur and Freya are still on each others shoulders while Pan and Rez without the climbing abilities Virra has enter their own version of trying to sneak into a movie theater.
+
+<p align="center">
+  <img src="img/totally_grown_man.jpg" width="250" height="300">
+  <p align="center"><em>Nothing to see here</em></p>
+</p>
+
+- Venturing back through the Fire tier the party breathes a sigh of relief. They know the path, they know the traps, how hard could it be?
+- Skógur on queue holding the Golden Jug fails an acrobatics check still on Freya's back and lands on the the floor of the second tier. Pan is not far behind and also falls off Rez' shoulders triggering the trap.
+- Fire spews out and although most party members come off with minor injuries Pan feels the burn once again.
+- Rez is there to pick Pan up and provide some much needed healing.
+- Freya handles healing Skógur and they head out of the shrine thinking the worst is over.
+
+**As the party exits the shrine Goblins with Wooden Masks come out of nowhere shooting mad arrows and being totally unchill.**
+
+_**How Many Traps can the Party Set Off Next? Will They Survive the Onslaught of Arros and Goblins? Tune in Next Time to Find Out!**_
+
 
 [_Back to Top_](#top_of_page)
 
