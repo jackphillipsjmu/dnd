@@ -1424,15 +1424,15 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 - The Monks grab the Jug and with it hand, they head out to the way they came into the shrine.
 
 ### Fire Burning on the Dance Floor
-- Skógur and Freya are still on each others shoulders while Pan and Rez without the climbing abilities Virra has enter their own version of trying to sneak into a movie theater.
+- Skógur and Freya are still on each others shoulders. While Pan and Rez, without the climbing abilities Virra has, continue their own version of trying to sneak into a movie theater.
 
 <p align="center">
   <img src="img/totally_grown_man.jpg" width="250" height="300">
   <p align="center"><em>Nothing to See, Move Along</em></p>
 </p>
 
-- Venturing back through the Fire tier the party breathes a sigh of relief. They know the path, they know the traps, how hard could it be?
-- Skógur on queue holding the Golden Jug fails an acrobatics check still on Freya's back and lands on the the floor of the second tier. Pan is not far behind and also falls off Rez' shoulders triggering the trap.
+- Venturing back through the Fire tier the party breathes a sigh of relief. _They know the path, they know the traps, how hard could it be?_
+- Skógur on queue holding the Golden Jug fails an acrobatics check still on Freya's back and lands on the the floor of the second fire tier. Pan is not far behind and also falls off Rez' shoulders triggering the trap.
 - Fire spews out and although most party members come off with minor injuries Pan feels the burn once again.
 - Rez is there to pick Pan up and provide some much needed healing.
 - Freya handles healing Skógur and they head out of the shrine thinking the worst is over.
