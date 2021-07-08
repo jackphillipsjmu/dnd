@@ -1236,8 +1236,6 @@ _**Will Skógur ever find true love?**_
 - Purple Berried vines are probably dangerous so approach with caution.
 - About 2 hexes on the map per day traveling on the river.
 
-_**NOTE:** Your humble narrator was mistaken before about what the Gator-Person statue was. It is indeed a Crocodile-Person statue  (Crikey!)._
-
 [_Back to Top_](#top_of_page)
 
 ------------
@@ -1277,6 +1275,9 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 - Picked up some Cooking Utensils as well which unfortunately wasn't thought of during the shopping trips in Chult. Still, knowledge of the local history of the culture's eating habits may come in handy.
 
 ### Swear that Was a Gator Around His Neck
+
+_**NOTE:** Your humble narrator was mistaken before about what the Gator-Person statue was. It is indeed a Crocodile-Person statue  (Crikey!)._
+
 - The party wakes up in the burnt shring to the blistering heat that only Chult can offer. Qawasha and Weed are just chillin' out in the shade staying out of the heat in the shadow of the Crocodile shrine.
 - After stretching out the aches of the previous day Skógur approaches Qawasha and Weed and asks about the shrine they chose to sleep under.
 - Qawasha tells the tale
