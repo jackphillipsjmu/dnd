@@ -1366,7 +1366,7 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 
 #### [Time To Say Goodbye](https://www.youtube.com/watch?v=4L_yCwFD6Jo)
 - As Pan hits the ground a fireball erupts from the walls.
-- Not knowing that they were in the line of fire Skógur and see Weed are engulfed in the flames along with Pan.
+- Not knowing that they were in the line of fire Skógur and Weed are engulfed in the flames along with Pan.
 - The damaged party takes count of who's injured and see Weed, vulnerable to fire damage, has passed away.
 
 <p align="center">
