@@ -1307,9 +1307,9 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 ### Is it Safe?
 - Approached the 80 foot tall statue the party looks inside to see that it has a 23' ceiling with mud and leaves blown into the entryway.
 - Pan percieves it's chill so they soldier on into the shrine.
-- Getting closer they notice that the shrine has three tiers. The first tier is the base level floor while the others have ledges extending to the ceiling that are each 7'.
-- Virra being the agile cat she is, takes the first steps onto the first tier.
-- Immediately the floor drops away to reveil a 25' death pit. Luckly, her cat like reflexes get her out of the jam and with an athletics check is able to cling to the wall and escape the plunge.
+- Getting closer they notice that the shrine has three tiers. The first tier is the base level floor while the others have ledges extending to the ceiling that are each 7' taller than the next.
+- Virra, being the agile cat she is, takes the first steps onto the muddy first tier floor.
+- Immediately it drops away to reveil a 25' death pit. Luckly, her cat like reflexes get her out of the jam and with an athletics check is able to cling to the wall and escape the plunge.
 - Afte the floor drops out from underneath Virra there is a thin wall where the adventurers could potentially cling too. Sounds sketchy though.
 - As Virra clings to the wall Pan reacts, shrinks her Druid body down, and turns herself into a tiny green spider. She scales the wall across the room and drops down on the other side.
 
@@ -1319,11 +1319,11 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 </p>
 
 ### We Got This
-- As Pan touches down she transforms back into her true Druid shape.
-- As the party looks on giant Scythe blades come out of the walls cutting into Pan taking 18 point of damage in the process. Luckily, she Balm's the Summer Court out of herself to mellow out the damage.
-- As Pan lays the floor, Skógur asks from across the room, _"Any triggers you on?"_
+- Pan touches down and transforms back into her true Druid shape.
+- As the party looks on giant Scythe blades come out of the walls cutting into Pan taking 18 points of damage in the process. Luckily, she Balm's the Summer Court out of herself to mellow out the damage.
+- As Pan lays bleeding on the floor, Skógur asks from across the room, _"You on any triggers?"_.
   - After Pan makes a perception check she see's there is a weighted floor under her.
-- Virra having the Thieves Tools that they found before in the jungle needs to get to Pan to assist the situation.
+- Virra having the Thieves Tools that they found before in the jungle needs to get them to Pan.
 - Gingerly, Virra heads back to the party where they wrap the Thieves Tools in rope to hopefully not loose it tossing it to Pan.
 - With a great throw the tools they stick the landing and no other traps are triggered!
 - Thieves Tools in hand Pan scans the area and see's that the traps may be able to be [jammed up](https://www.youtube.com/watch?v=ebGFXr2QpoA) in some sort of way.
