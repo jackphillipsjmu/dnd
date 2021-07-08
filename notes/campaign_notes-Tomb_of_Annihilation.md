@@ -1346,8 +1346,8 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 
 
 ### We Don't Got This
-- Trying not to get [Home Alone'd](https://www.youtube.com/watch?v=izXfM45jcNM) and with the rest of the parties support Virra and her superior climbing ability grabs a stone and heads across the floor.
-- Sorta suddenly, the floor drops beneath her! Since she's holding a stone in she is at disadvantage for an acrobatics check but makes it to safety on the wall.
+- Trying not to get [Home Alone'd](https://www.youtube.com/watch?v=izXfM45jcNM) and with the rest of the parties support Virra and her superior climbing ability grabs a stone then heads across the floor near the right hand wall.
+- _Sorta_ suddenly, the floor drops beneath her! Since she's holding a stone in she is at disadvantage for an acrobatics check but makes it to safety on the wall.
 - Then some choice words happen, _"Qawasha WTF?! How much do you weigh? Get to Pan!"_
 - Qawasha and Weed under orders get over to Pan successfully but unfortunately they ain't so light.
 - As the Guide's take a step within Pan's reach the Scythe blades break free and cut into Pan again knocking her unconscious. Qawasha is hurt but still able to function.
@@ -1361,7 +1361,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 - Skógur and Weed dart across the floor and scale the 7' wall clinging to the top satisfied they made it safely.
 
 ### Tier Two
-- As Virra clings to the side wall over the first 7' tier she percieves that the floor on here has a faint glow underneath a panel/tile on the floor (first one on the bottom row).
+- As Virra clings to the side wall over the first 7' tier she percieves that the floor there has a faint glow underneath a panel/tile on the floor (first one on the bottom row).
 - Cautiosuly, Virra uses her crowbar and compresses the panel down. As the tiled panel goes into the ground nothing crazy happens.
 - Pan, from an outside perspective, is confident about the small victory and abandons her spidey senses. Morphing into her Druid form and dropping to the floor.
 
