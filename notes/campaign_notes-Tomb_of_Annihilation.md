@@ -1331,7 +1331,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 #### Lockpicking Lawyer(s)
 - Everyone begins discussing what to do as Pan still in the danger as the sharp Scythe's could come out at any moment.
 - As battle strategies are hashed out (10 mins or so) the floor on the first ground level tier rises up creating the most dangerous floor plan ever.
-- Trying not to get [Home Alone'd](https://www.youtube.com/watch?v=izXfM45jcNM) Freya looks for something to jam up the trap.
+- Freya looks for something to throw jam up the trap.
 - Finding a log she hurls it at Pan, although it knocks the wind of of her, it makes it to other side.
 - After a Strength check Pan plunges the log into the trap mechanism crevice.
   - Although it looks like it will hold, it ain't sturdy.
@@ -1346,7 +1346,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 
 
 ### We Don't Got This
-- With the rest of the parties support Virra and her superior climbing ability grabs a stone and heads across the floor.
+- Trying not to get [Home Alone'd](https://www.youtube.com/watch?v=izXfM45jcNM) and with the rest of the parties support Virra and her superior climbing ability grabs a stone and heads across the floor.
 - Sorta suddenly, the floor drops beneath her! Since she's holding a stone in she is at disadvantage for an acrobatics check but makes it to safety on the wall.
 - Then some choice words happen, _"Qawasha WTF?! How much do you weigh? Get to Pan!"_
 - Qawasha and Weed under orders goes over to Pan successfully but unfortunately they ain't so light.
