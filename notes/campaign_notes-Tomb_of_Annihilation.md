@@ -1447,6 +1447,7 @@ _**How Many Traps can the Party Set Off Next? Will They Survive the Onslaught of
 
 ### Things to Note!
 - The Golden Jug is an [Alchemy Jug](https://www.dndbeyond.com/magic-items/alchemy-jug) which is able to produce 2 Gallons of Mayonaise per minute!
+- Weed, sweet sweet Weed, is gone. Pay attention to local lore and each others weaknesses!
 
 [_Back to Top_](#top_of_page)
 
