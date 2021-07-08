@@ -1349,7 +1349,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 - Trying not to get [Home Alone'd](https://www.youtube.com/watch?v=izXfM45jcNM) and with the rest of the parties support Virra and her superior climbing ability grabs a stone and heads across the floor.
 - Sorta suddenly, the floor drops beneath her! Since she's holding a stone in she is at disadvantage for an acrobatics check but makes it to safety on the wall.
 - Then some choice words happen, _"Qawasha WTF?! How much do you weigh? Get to Pan!"_
-- Qawasha and Weed under orders goes over to Pan successfully but unfortunately they ain't so light.
+- Qawasha and Weed under orders get over to Pan successfully but unfortunately they ain't so light.
 - As the Guide's take a step within Pan's reach the Scythe blades break free and cut into Pan again knocking her unconscious. Qawasha is hurt but still able to function.
 - Seeing Pan bleeding out on the floor Rez hurls a Healing Potion to Qawasha.
 - After fumbling a bit Qawasha secures it and gives Pan 10 HP back.
@@ -1357,11 +1357,11 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 - The floor rises again to meet the ground level on the first tier.
 - Qawasha, like a mystic, crosses the over to where the party still stands (total of maybe 2' into the shrine) and sits down with Weed as Undril heals him up.
 - Virra ventures on to help out Spider Pan and climbs through cob webs clinging to the wall to (hopefully) avoid any traps.
-- Skógur dumbfounded about the whole situation grabs Weed and puts the little guy on his shoulder. Being the only one who seems to grant the ability to cross the dangerous floor why not?
+- Skógur dumbfounded about the whole situation grabs Weed and puts the little guy on his shoulder. Being the only one who seems to grant the ability to cross the dangerous floor, why not?
 - Skógur and Weed dart across the floor and scale the 7' wall clinging to the top satisfied they made it safely.
 
 ### Tier Two
-- As Virra clings to the side of the sirst 7' tier she percieves that the floor on this next tier has a faint glow underneath a panel/tile on the floor (first one on the bottom row).
+- As Virra clings to the side wall over the first 7' tier she percieves that the floor on here has a faint glow underneath a panel/tile on the floor (first one on the bottom row).
 - Cautiosuly, Virra uses her crowbar and compresses the panel down. As the tiled panel goes into the ground nothing crazy happens.
 - Pan, from an outside perspective, is confident about the small victory and abandons her spidey senses. Morphing into her Druid form and dropping to the floor.
 
@@ -1375,19 +1375,19 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
   <p align="center"><em>:(</em></p>
 </p>
 
-- Qawasha super bummed (along with the rest of the group) hops onto Undril's back and they charge across the first level drop floor unscathed.
+- Qawasha super bummed (along with the rest of the group) hops onto Undril's back and they charge across the first level drop floor to the rest of the party unscathed.
   - Turns out you should've listened to the Crocodile story. All you needed was to ride a persons back.
 - After dashing over Qawasha and Undril cure wounds on the party and head back to the entrance of the shrine.
 - To get some more HP back, Freya and Pan patch up the rest of the wounds.
 
 #### Gotta Double Strap This Backpack
-- After realizing you gotta have a friend on you from before the party assumes you gotta be carrying someone. So, Pan hops on Skógur's back and they hop down to a glowing tile to try and get things moving.
-- Rez and Pan follow shortly climbing up the second tier.
+- After realizing you gotta have a friend on you the party assumes you gotta be carrying someone for like ever. So, Pan hops on Skógur's back and they hop down to a glowing tile to try and get things moving.
+- Rez and Pan follow shortly crossing the drop floor and climbing up to the second tier.
 - Fearful a wrong backpack-buddy-move could end them Skógur and Pan stay put on the first tile.
 - They then notice that the glyphs on the wall ahead outline a path to safey.
 - Freya using her Monk nimbleness takes the plunge and is able to cross the fire pit without injury. But isn't tall enough to see over the next 7' tier.
 - Still not knowing the backpack rules exactly and what reallly is up on the next level Freya scurries back to the other side.
-- Hopping on Rez' back they both head to the other side of the second tier.
+- Hopping on Rez' back they both head to the other side of the second tier to the next level's wall.
 - Peering up they see that there are glowing glyphs in the door on the next tier with some holes in the shape of hands inlaid into it.
 
 <p align="center">
@@ -1428,7 +1428,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 
 <p align="center">
   <img src="img/totally_grown_man.jpg" width="250" height="300">
-  <p align="center"><em>Nothing to see here</em></p>
+  <p align="center"><em>Nothing to See, Move Along</em></p>
 </p>
 
 - Venturing back through the Fire tier the party breathes a sigh of relief. They know the path, they know the traps, how hard could it be?
