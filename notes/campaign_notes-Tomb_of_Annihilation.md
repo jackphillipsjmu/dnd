@@ -1282,7 +1282,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 - After stretching out the aches of the previous day Skógur approaches Qawasha and Weed and asks about the shrine they chose to sleep under.
 - Qawasha tells the tale
   > "In the early days of the world, Man stood by the banks of
-  > a river, frightened . Crocodile raised his head from the water
+  > a river, frightened. Crocodile raised his head from the water
   > and asked, “What troubles you, cousin Man?”
   > Man said, "I must cross this river, but I fear to enter
   > the water alone, because it teems with your brethren."
@@ -1290,7 +1290,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
   > I will carry you across the river safely on my back, if you
   > promise to return the favor.” Man agreed, and Crocodile
   > bore him safely across the water
-  > When they reached the f ar bank , Man asked, “How can
+  > When they reached the far bank, Man asked, “How can
   > I repay you?” Crocodile replied, “I wish to see the realm
   > of Humans, but I fear to go there alone, because it teems
   > with your brethren. You must carry me on your back
@@ -1298,7 +1298,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
   > is a promise, so he carried Crocodile safely on his back
   > across the entire realm of humans, a journey that lasted
   > many years. He also swore, in his anger, that never again
-  > would Men and Crocodiles be friends , and so it has remained
+  > would Men and Crocodiles be friends, and so it has remained
   > to this day."
 
 - Guess they should go in the shrine and check it out?
@@ -1375,7 +1375,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
   <p align="center"><em>:(</em></p>
 </p>
 
-- Qawasha super bummed (along with the rest of the group) hops onto Undril's back and they charge across the first level drop floor to the rest of the party unscathed.
+- Qawasha super bummed (_along with the rest of the group_) hops onto Undril's back and they charge across the first level drop floor to the rest of the party unscathed.
   - Turns out you should've listened to the Crocodile story. All you needed was to ride a persons back.
 - After dashing over Qawasha and Undril cure wounds on the party and head back to the entrance of the shrine.
 - To get some more HP back, Freya and Pan patch up the rest of the wounds.
@@ -1447,7 +1447,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 _**How Many Traps can the Party Set Off Next? Will They Survive the Onslaught of Arros and Goblins? Tune in Next Time to Find Out!**_
 
 ### Things to Note!
-- The Golden Jug is an [Alchemy Jug](https://www.dndbeyond.com/magic-items/alchemy-jug) which is able to produce up to 2 Gallons of Mayonaise! 
+- The Golden Jug is an [Alchemy Jug](https://www.dndbeyond.com/magic-items/alchemy-jug) which is able to produce up to 2 Gallons of Mayonaise!
 - Weed, sweet sweet Weed, is gone. Pay attention to local lore and each others weaknesses!
 
 [_Back to Top_](#top_of_page)
