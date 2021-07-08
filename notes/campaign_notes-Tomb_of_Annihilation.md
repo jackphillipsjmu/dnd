@@ -1278,13 +1278,13 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 
 _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person statue was. It is indeed a Crocodile-Person statue  (Crikey!)._
 
-- The party wakes up in the burnt shring to the blistering heat that only Chult can offer. Qawasha and Weed are just chillin' out in the shade staying out of the heat in the shadow of the Crocodile shrine.
+- The party wakes up in the burnt shrine they slept in the night before to the blistering heat of Chult. Qawasha and Weed are just chillin' out in the shade staying out of the heat in the shadow of the Crocodile shrine.
 - After stretching out the aches of the previous day Skógur approaches Qawasha and Weed and asks about the shrine they chose to sleep under.
 - Qawasha tells the tale
   > "In the early days of the world, Man stood by the banks of
   > a river, frightened . Crocodile raised his head from the water
   > and asked, “What troubles you, cousin Man?”
-  > Man said, " I must cross this river, but I fear to enter
+  > Man said, "I must cross this river, but I fear to enter
   > the water alone, because it teems with your brethren."
   > Crocodile rep lied, “It’s true, you would not be safe. But
   > I will carry you across the river safely on my back, if you
@@ -1305,12 +1305,12 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 - With the story told the adventurers taks a swig of water and approach the Croc-shrine.
 
 ### Is it Safe?
-- Approached the 80 foot tall statue the party looks inside to see that it has a 23' ceiling with mud and leaves blown into the entryway.
+- Approaching the 80 foot tall statue the party looks inside to see that it has a 23' ceiling with mud and leaves blown into the entryway.
 - Pan percieves it's chill so they soldier on into the shrine.
 - Getting closer they notice that the shrine has three tiers. The first tier is the base level floor while the others have ledges extending to the ceiling that are each 7' taller than the next.
 - Virra, being the agile cat she is, takes the first steps onto the muddy first tier floor.
 - Immediately it drops away to reveil a 25' death pit. Luckly, her cat like reflexes get her out of the jam and with an athletics check is able to cling to the wall and escape the plunge.
-- Afte the floor drops out from underneath Virra there is a thin wall where the adventurers could potentially cling too. Sounds sketchy though.
+- After the floor drops out from underneath Virra there is a thin wall where the adventurers _could_ potentially cling too. Sounds sketch though.
 - As Virra clings to the wall Pan reacts, shrinks her Druid body down, and turns herself into a tiny green spider. She scales the wall across the room and drops down on the other side.
 
 <p align="center">
@@ -1321,7 +1321,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 ### We Got This
 - Pan touches down and transforms back into her true Druid shape.
 - As the party looks on giant Scythe blades come out of the walls cutting into Pan taking 18 points of damage in the process. Luckily, she Balm's the Summer Court out of herself to mellow out the damage.
-- As Pan lays bleeding on the floor, Skógur asks from across the room, _"You on any triggers?"_.
+- With Pan bleeding on the floor, Skógur asks from across the room, _"You on any triggers?"_.
   - After Pan makes a perception check she see's there is a weighted floor under her.
 - Virra having the Thieves Tools that they found before in the jungle needs to get them to Pan.
 - Gingerly, Virra heads back to the party where they wrap the Thieves Tools in rope to hopefully not loose it tossing it to Pan.
@@ -1403,7 +1403,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 ### Juggin'
 - Entering the doorway the group can see a room with a bunch of dinosaur bones scattered about the floor, a 30' staircase in the middle and a Croc-Man statue just chilling.
 - Knowing that Weed's death couldn't be in vain Skógur and Freya take the backpack initiative having Skógur climb onto Freya's back.
-  - Undril heals Skógur before heading out which causes him to blush with a sheepish, "Thanks".
+  - Undril heals Skógur before heading out which causes him to blush with a sheepish, _"Thanks"_.
 - As the two Monks make their way around the room they don't see a whole lot that's of interest other than the staircase.
 - Needing to know what's up them stairs Freya carrying Skógur on her shoulders begin to ascend the stairs.
 - Approaching the staircase they notice a Golden Cask at the top of it. Let's go.
@@ -1447,7 +1447,7 @@ _**NOTE:** Your humble narrator was mistaken before about what the Gator-Person 
 _**How Many Traps can the Party Set Off Next? Will They Survive the Onslaught of Arros and Goblins? Tune in Next Time to Find Out!**_
 
 ### Things to Note!
-- The Golden Jug is an [Alchemy Jug](https://www.dndbeyond.com/magic-items/alchemy-jug) which is able to produce 2 Gallons of Mayonaise per minute!
+- The Golden Jug is an [Alchemy Jug](https://www.dndbeyond.com/magic-items/alchemy-jug) which is able to produce up to 2 Gallons of Mayonaise! 
 - Weed, sweet sweet Weed, is gone. Pay attention to local lore and each others weaknesses!
 
 [_Back to Top_](#top_of_page)
