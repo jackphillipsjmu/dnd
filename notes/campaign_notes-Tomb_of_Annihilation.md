@@ -1338,6 +1338,12 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 - Growing tired of the non-Chult patron shenanigans Qawasha asks, _"What are you doing?"_ with Weed on his shoulder and crosses the trap floor without falling to their deaths.
 - Well then, lets try to figure this thing out.
 
+<p align="center">
+  <img src="img/pan_gets_got_by_scythes.png" width="300" height="250">
+  <p align="center"><em>Pan and Her Scythe's</em></p>
+</p>
+
+
 ### We Don't Got This
 - With the rest of the parties support Virra and her superior climbing ability grabs a stone and heads across the floor.
 - Sorta suddenly, the floor drops beneath her! Since she's holding a stone in she is at disadvantage for an acrobatics check but makes it to safety on the wall.
@@ -1383,6 +1389,11 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 - Hopping on Rez' back they both head to the other side of the second tier.
 - Peering up they see that there are glowing glyphs in the door on the next tier with some holes in the shape of hands inlaid into it.
 
+<p align="center">
+  <img src="img/tier_two_fire_pit.png" width="300" height="250">
+  <p align="center"><em>Tier Two Fire Pit</em></p>
+</p>
+
 #### Mind Giving Me a Hand?
 - After a bunch of trial and error the party determines that to open the door on the third tier that they need to be on top of each other and place a hand each in each hole.
   - This needs to be done Top to Bottom, if it was done other wise, it could've spelled the end for the party!
@@ -1395,6 +1406,11 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 - As the two Monks make their way around the room they don't see a whole lot that's of interest other than the staircase.
 - Needing to know what's up them stairs Freya carrying Skógur on her shoulders begin to ascend the stairs.
 - Approaching the staircase they notice a Golden Cask at the top of it. Let's go.
+
+<p align="center">
+  <img src="img/golden_jug_room.png" width="300" height="250">
+  <p align="center"><em>Room Behind the Fisting</em></p>
+</p>
 
 #### The Most Unathletic Athletes Ever
 - Making their way up the stairs a series of acrobatics checks take place to make sure the Monks can climb up successfully.
@@ -1420,10 +1436,17 @@ _With Level 3 comes some upgrades! Here are a few highlights_
 - Rez is there to pick Pan up and provide some much needed healing.
 - Freya handles healing Skógur and they head out of the shrine thinking the worst is over.
 
+<p align="center">
+  <img src="img/leaving_the_croc_shrine.png" width="300" height="250">
+  <p align="center"><em>Leaving the Crocodile Shrine</em></p>
+</p>
+
 **As the party exits the shrine Goblins with Wooden Masks come out of nowhere shooting mad arrows and being totally unchill.**
 
 _**How Many Traps can the Party Set Off Next? Will They Survive the Onslaught of Arros and Goblins? Tune in Next Time to Find Out!**_
 
+### Things to Note!
+- The Golden Jug is an [Alchemy Jug](https://www.dndbeyond.com/magic-items/alchemy-jug) which is able to produce 2 Gallons of Mayonaise per minute!
 
 [_Back to Top_](#top_of_page)
 
